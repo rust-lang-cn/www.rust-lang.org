@@ -9,6 +9,7 @@ $green: #398277;
 $purple: #403D58;
 $yellow: #FFD45E;
 $border-radius: 4px;
+$link-color: #1EAEDB;
 
 html {
   font-size: 62.5%
@@ -42,6 +43,23 @@ body {
 
 code {
   overflow: auto;
+}
+
+code {
+  padding: .2rem .5rem;
+  margin: 0 .2rem;
+  font-size: 90%;
+  white-space: nowrap;
+  background: #F1F1F1;
+  border: 1px solid #E1E1E1;
+  border-radius: 4px;
+  overflow: auto;
+}
+
+pre > code {
+  display: block;
+  padding: 1rem 1.5rem;
+  white-space: pre;
 }
 
 @mixin code-space-full-width {
@@ -756,4 +774,8 @@ blockquote::before {
   h3 {
     text-align: center;
   }
+}
+
+.download-link {
+  color: $link-color;
 }
