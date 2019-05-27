@@ -52,94 +52,84 @@ tools-automation-cargo-doc-link = Go to site
 
 
 # tools/install.hbs
-install-page-heading = Install Rust
+install-page-heading = 安装 Rust
 
-install-using-rustup-heading = Using rustup (Recommended)
+install-using-rustup-heading = 使用 Rustup （推荐）
 
-install-notes-heading = Notes about Rust installation
+install-notes-heading = Rust 安装笔记
 
-install-notes-getting-started-heading = Getting started
-install-notes-getting-started-description = If you're just getting started with
-        Rust and would like a more detailed walk-through, see our
-        <a href="{{baseurl}}/learn/get-started">getting started</a> page.
+install-notes-getting-started-heading = 入门
+install-notes-getting-started-description = 如果你刚开始学习 Rust 并想了解更多细节，请查阅
+        <a href="{{baseurl}}/learn/get-started">入门</a>页面。
 
-install-notes-rustup-heading = Toolchain management with <code>rustup</code>
+install-notes-rustup-heading = 用 <code>Rustup</code> 管理工具链
 install-notes-rustup-description = 
         <p>
-          Rust is installed and managed by the
+          Rust 由工具
           <a href="https://github.com/rust-lang/rustup.rs"><code>rustup</code></a>
-          tool. Rust has a 6-week
+          安装和管理。Rust 有着以 6 星期为周期的
           <a href="https://github.com/rust-lang/rfcs/blob/master/text/0507-release-channels.md">
-            rapid release process
-          </a> and supports a
-          <a href="https://forge.rust-lang.org/platform-support.html">great
-          number of platforms</a>, so there are many builds of Rust available at
-          any time. <code>rustup</code> manages these builds in a consistent way
-          on every platform that Rust supports, enabling installation of Rust
-          from the beta and nightly release channels as well as support for
-          additional cross-compilation targets.
+            快速版本迭代机制 </a>，支持
+          <a href="https://forge.rust-lang.org/platform-support.html">
+            大量平台</a>，因而不同时期存在大量不同的 Rust 构建版本。
+          <code>rustup</code> 管理不同平台下的 Rust 构建版本并使其互相兼容，
+          支持安装由 beta 和 nightly 频道发布的版本，并支持其他用于交叉编译的编译版本。
         </p>
         <p>
-          If you've installed <code>rustup</code> in the past, you can update
-          your installation by running <code>rustup update</code>.
+          如果你曾安装过 <code>rustup</code>，你可以执行 <code>rustup update</code>
+          以升级 Rust。
         </p>
         <p>
-          For more information see the
+          获取更多信息请查阅
           <a href="https://github.com/rust-lang/rustup.rs/blob/master/README.md">
-          <code>rustup</code> documentation</a>.
+          <code>rustup</code> 文档</a>。
         </p>
 
-install-notes-path-heading = Configuring the <code>PATH</code> environment
-        variable
+install-notes-path-heading = 配置 <code>PATH</code> 环境变量
 install-notes-path-description = 
         <p>
-          In the Rust development environment, all tools are installed to the
+          在 Rust 开发环境中，所有工具安装在
           <span class="platform-specific not-win di">
             <code>~/.cargo/bin</code>
           </span>
           <span class="platform-specific win dn">
             <code>%USERPROFILE%\.cargo\bin</code>
-          </span> directory, and this is where you will find the Rust toolchain,
-          including <code>rustc</code>, <code>cargo</code>, and <code>rustup</code>.
+          </span> 目录下，在这里你会找到 Rust 工具链，
+          包括 <code>rustc</code>， <code>cargo</code> 以及 <code>rustup</code>。
         </p>
         <p>
-          Accordingly, it is customary for Rust developers to include this
-          directory in their
+          某些情况下，Rust 开发者们可以选择把这个目录加入
           <a href="https://en.wikipedia.org/wiki/PATH_(variable)">
-          <code>PATH</code> environment variable</a>. During installation
-          <code>rustup</code> will attempt to configure the <code>PATH</code>.
-          Because of differences between platforms, command shells, and bugs in
-          <code>rustup</code>, the modifications to <code>PATH</code> may not
-          take effect until the console is restarted, or the user is logged out,
-          or it may not succeed at all.
+          <code>PATH</code> 环境变量</a>。在安装过程中，
+          <code>rustup</code> 会尝试配置 <code>PATH</code>；
+          但由于不同平台、命令行外壳程序之间的差异以及可能的 bug，
+          <code>rustup</code> 对 <code>PATH</code> 的修改可能在重启终端或重新登录前
+          不会生效，甚至于完全无效。
         </p>
         <p>
-          If, after installation, running <code>rustc --version</code> in the
-          console fails, this is the most likely reason.
+          如果安装后在终端中尝试执行 <code>rustc --version</code> 失败，
+          这是最可能的原因。
         </p>
 
 install-notes-windows-heading = Windows considerations
 install-notes-windows-description =
         <p>
-          On Windows, Rust additionally requires the C++ build tools
-          for Visual Studio 2013 or later. The easiest way to acquire the build
-          tools is by installing
+          在 Windows 平台，Rust 额外需要为 Visual Studio 2013 或更新版本准备的 C++ 构建工具。
+          最简单的获得 Visual C++ 构建工具的方法是安装恰好提供它的
           <a href="https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2019">
             Microsoft Visual C++ Build Tools 2019
-          </a>
-          which provides just the Visual C++ build tools. Alternately, you
-          can <a href="https://www.visualstudio.com/downloads/">install</a>
-          Visual Studio 2019, Visual Studio 2017, Visual Studio 2015, or Visual
-          Studio 2013 and during install select the “C++ tools.”
+          </a>，另外也可以
+          <a href="https://www.visualstudio.com/downloads/">安装</a>
+          Visual Studio 2019， Visual Studio 2017， Visual Studio 2015 或 Visual
+          Studio 2013 并在安装过程中勾选 “C++ tools”。
         </p>
         <p>
-          For further information about configuring Rust on Windows see the
+          更多关于如何在 Windows 平台下配置 Rust 的信息请查阅
           <a href="https://github.com/rust-lang/rustup.rs/blob/master/README.md#working-with-rust-on-windows">
-          Windows-specific <code>rustup</code> documentation</a>.
+          Windows 主题的 <code>rustup</code> 文档</a>.
         </p>
 
-install-other-methods-heading = Other installation methods
-install-other-methods-description = The installation described above, via
-        <code>rustup</code>, is the preferred way to install Rust for most
-        developers. However, Rust can be installed via other methods as well.
-install-other-methods-link = Learn more
+install-other-methods-heading = 其他安装方式
+install-other-methods-description = 上述使用 <code>rustup</code> 的 Rust 安装方式
+        对于大多数 Rust 开发者来说是最适合的。然而，Rust 也可以通过其他方式安装。
+install-other-methods-link = 更多
