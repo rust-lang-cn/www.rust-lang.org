@@ -7,3 +7,4 @@
 .sass-cache
 localhost*
 /static/styles/vendor.css
+.DS_Store
