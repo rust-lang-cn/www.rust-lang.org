@@ -1,33 +1,30 @@
-## Translations that appear on most/all pages
+# Translations that appear on most/all pages
 
-rust = Rust
+# components/nav.hbs
 
-## components/nav.hbs
+nav-install = 安装
+nav-learn = 学习
+nav-tools = 工具
+nav-governance = 管理
+nav-community = 社区
+nav-blog = 博客
 
-nav-install = Install
-nav-learn = Learn
-nav-tools = Tools
-nav-governance = Governance
-nav-community = Community
-nav-blog = Blog
-
-choose-language = Language
+choose-language = 选择语言
 
 nav-logo-alt = Rust Logo
 
-## components/footer.hbs
-
-footer-doc = Documentation
-footer-ask = Ask a Question on the Users Forum
-footer-status = Check Website Status
-footer-policies = Terms and policies
-footer-coc = Code of Conduct
-footer-licenses = Licenses
-footer-media = Logo Policy and Media Guide
-footer-security = Security Disclosures
-footer-policies-all = All Policies
-footer-social = Social
-footer-get-help = Get help!
+# components/footer.hbs
+footer-doc = 文档
+footer-ask = 在用户论坛上提问
+footer-status = 检查网站状态
+footer-policies = 条款与政策
+footer-coc = 行为准则
+footer-licenses = 许可证
+footer-media = 商标政策与使用指南
+footer-security = 安全问题报告
+footer-policies-all = 政策总览
+footer-social = 社交账号
+footer-get-help = 获取帮助
 
 footer-alt-twitter = Twitter
 footer-alt-youtube = youtube logo
