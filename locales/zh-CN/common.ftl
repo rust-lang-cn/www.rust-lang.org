@@ -31,7 +31,7 @@ footer-alt-youtube = youtube logo
 footer-alt-discord = Discord
 footer-alt-github = GitHub
 
-footer-attribution = 由 Rust 团队维护。发现网页存在错误?
-        <a href="https://github.com/rust-lang/www.rust-lang.org">帮助我们修复</a>!
+footer-attribution = 由 Rust 团队维护。发现网页存在错误？
+        <a href="https://github.com/rust-lang/www.rust-lang.org">帮助我们修复</a>！
 
-footer-old-site = 寻找<a href="https://prev.rust-lang.org">旧版网站</a>?
+footer-old-site = 寻找<a href="https://prev.rust-lang.org">旧版网站</a>？
