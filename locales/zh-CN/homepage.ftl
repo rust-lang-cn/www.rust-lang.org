@@ -1,7 +1,7 @@
 
 # index.hbs
-tagline =  一门让每个人 { $linebreak } 拥有构建可靠和高效软件权力的语言
-get-started = 马上开始吧
+tagline =  A language empowering everyone { $linebreak } to build reliable and efficient software.
+get-started = Get Started
 homepage-version = Version { $number }
 
 
