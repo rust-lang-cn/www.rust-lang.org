@@ -61,7 +61,7 @@ install-notes-heading = Rust 安装笔记
 
 install-notes-getting-started-heading = 入门
 install-notes-getting-started-description = 如果你刚开始学习 Rust 并想了解更多细节，请查阅
-        <a href="{{baseurl}}/learn/get-started">入门</a> 页面。
+        <a href="{{baseurl}}/learn/get-started">入门</a>页面。
 
 install-notes-rustup-heading = 用 <code>Rustup</code> 管理工具链
 install-notes-rustup-description = 
@@ -81,13 +81,12 @@ install-notes-rustup-description =
           以升级 Rust。
         </p>
         <p>
-          For more information see the
           获取更多信息请查阅
           <a href="https://github.com/rust-lang/rustup.rs/blob/master/README.md">
           <code>rustup</code> 文档</a>。
         </p>
 
-install-notes-path-heading = 配置环境变量<code>PATH</code>
+install-notes-path-heading = 配置 <code>PATH</code> 环境变量
 install-notes-path-description = 
         <p>
           在 Rust 开发环境中，所有工具安装在
@@ -120,15 +119,15 @@ install-notes-windows-description =
           最简单的获得 Visual C++ 构建工具的方法是安装恰好提供它的
           <a href="https://www.visualstudio.com/downloads/#build-tools-for-visual-studio-2019">
             Microsoft Visual C++ Build Tools 2019
-          </a>，另外也可以安装
-          <a href="https://www.visualstudio.com/downloads/"></a>
+          </a>，另外也可以
+          <a href="https://www.visualstudio.com/downloads/">安装</a>
           Visual Studio 2019， Visual Studio 2017， Visual Studio 2015 或 Visual
           Studio 2013 并在安装过程中勾选 “C++ tools”。
         </p>
         <p>
           更多关于如何在 Windows 平台下配置 Rust 的信息请查阅
           <a href="https://github.com/rust-lang/rustup.rs/blob/master/README.md#working-with-rust-on-windows">
-          Windows 主题下的 <code>rustup</code> 文档</a>.
+          Windows 主题的 <code>rustup</code> 文档</a>.
         </p>
 
 install-other-methods-heading = 其他安装方式
