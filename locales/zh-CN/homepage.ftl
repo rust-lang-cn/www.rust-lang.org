@@ -1,95 +1,77 @@
 
 # index.hbs
-tagline =  A language empowering everyone { $linebreak } to build reliable and efficient software.
-get-started = Get Started
-homepage-version = Version { $number }
-
+tagline =  一门能让每个人都构建出{ $linebreak }可靠又高效的软件的语言。
+get-started = 入 门
+homepage-version = 版本 { $number }
 
 # components/panels/production.hbs
-production-title = Rust in production
-production-blurb = Hundreds of companies around the world are using Rust in production
-        today for fast, low-resource, cross-platform solutions. Software you know
-        and love, like <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Firefox</a>,
-        <a href="https://blogs.dropbox.com/tech/2016/06/lossless-compression-with-brotli/">Dropbox</a>,
-        and <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Cloudflare</a>,
-        uses Rust. <strong>From startups to large
-        corporations, from embedded devices to scalable web services, Rust is a great fit.</strong>
+production-title = 在生产环境中使用 Rust
+production-blurb = 目前全世界已经有数百家公司在生产环境中使用 Rust， 以达到快速、资源
+         消耗低、解决跨平台的目的。这包括著名且受欢迎的软件，例如 <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Firefox</a>、
+         <a href="https://blogs.dropbox.com/tech/2016/06/lossless-compression-with-brotli/">Dropbox</a>
+         和 <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Cloudflare</a>，
+         都使用 Rust。<strong>从初创公司到大型企业，从嵌入式设备到可扩展的 Web 服务，Rust 都完全适合。</strong>
 
-production-learn-more = Learn More
+production-learn-more = 学习更多
 
-production-testimonial-npm = My biggest compliment to Rust is that it's boring, and this is an amazing compliment.
-production-testimonial-npm-attribution = Chris Dickinson, Engineer at npm, Inc
+production-testimonial-npm = 我对 Rust 最大的赞美就是它太无聊了，这是令人惊叹的赞美。
+production-testimonial-npm-attribution = Chris Dickinson， 来自 npm 公司的工程师
 production-testimonial-npm-alt = npm Logo
 
-
-production-testimonial-yelp = All the documentation, the tooling, the community is great - you have all the tools to succeed in writing Rust code.
-production-testimonial-yelp-attribution = Antonio Verardi, Infrastructure Engineer
+production-testimonial-yelp = 所有的文档、工具和社区都相当棒——您拥有帮助您顺利编写 Rust 代码的所有工具。
+production-testimonial-yelp-attribution = Antonio Verardi，基础设施工程师
 production-testimonial-yelp-alt = Yelp Logo
 
-
 # components/panels/language-values.hbs
-language-values-why-rust = Why Rust?
+language-values-why-rust = 为什么使用 Rust？
 
-language-values-performance = Performance
-language-values-performance-blurb = Rust is blazingly fast and memory-efficient: with no runtime or
-          garbage collector, it can power performance-critical services, run on
-          embedded devices, and easily integrate with other languages.
+language-values-performance = 性能
+language-values-performance-blurb = Rust 速度异常快且内存利用率极高：没有运行时和垃圾回收器。
+          Rust 能胜任性能要求特别高的服务，能运行在嵌入式设备，并能轻松地和其他语言集成。
 
-language-values-reliability = Reliability
-language-values-reliability-blurb = Rust’s rich type system and ownership model guarantee memory-safety
-          and thread-safety &mdash; and enable you to eliminate many classes of
-          bugs at compile-time.
+language-values-reliability = 可靠性
+language-values-reliability-blurb = Rust 的丰富类型系统和所有权模型保证了内存安全和线程安全&mdash;&mdash;使您能够在编译期消除许多类型错误。
 
-language-values-productivity = Productivity
-language-values-productivity-blurb = Rust has great documentation, a friendly compiler with useful error
-          messages, and top-notch tooling &mdash; an integrated package manager
-          and build tool, smart multi-editor support with auto-completion and 
-          type inspections, an auto-formatter, and more.
+language-values-productivity = 生产率
+language-values-productivity-blurb = Rust 拥有出色的文档、友好的编译器和有用的错误提示信息，
+          还有一流的工具&mdash;&mdash;集成的包管理器和构建工具，
+          具有自动补全和类型检查的智能的多编辑器支持，以及自动格式化程序，等等。
 
 # components/panels/domains.hbs
-domains-title = Build it in Rust
-domains-blurb = In 2018, the Rust community decided to improve programming experience
-        for a few distinct domains (see <a
-        href="https://blog.rust-lang.org/2018/03/12/roadmap.html">the 2018
-        roadmap</a>). For these, you can find many high-quality crates and some
-        awesome guides on how to get started.
-domains-learn-more = Learn More
+domains-title = 使用 Rust 构建应用
+domains-blurb = 在 2018 年，Rust 社区决定了在少数不同的领域中完善编程的实践内容
+          （参考<a href="https://blog.rust-lang.org/2018/03/12/roadmap.html">2018年路线图</a>）。
+          对于这些，您可以找到许多高质量的 crate 和一些如何入门的精彩指南。
+domains-learn-more = 学习更多
 
-domains-cli = Command Line
-domains-cli-blurb = Whip up a CLI tool quickly with Rust’s robust ecosystem.
-            Rust helps you maintain your app with confidence and distribute it with ease.
-domains-cli-alt = terminal
+domains-cli = 命令行
+domains-cli-blurb = 使用 Rust 强大的生态系统快速实现 CLI 工具。Rust 可帮助您放心维护和轻松分发应用程序。
+domains-cli-alt = 终端
 
 domains-wasm = WebAssembly
-domains-wasm-blurb = Use Rust to supercharge your JavaScript, one module at a time.
-          Publish to npm, bundle with webpack, and you’re off to the races.
-domains-wasm-alt = gear with puzzle piece elements
+domains-wasm-blurb = 使用 Rust 来增强 JavaScript，每次一个模块。发布到 npm，
+          使用 webpack 打包，然后你可以感受到惊人的速度了。
+domains-wasm-alt = 带拼图元素的齿轮
 
-domains-net = Networking
-domains-net-blurb = Predictable performance. Tiny resource footprint. Rock-solid reliability.
-            Rust is great for network services.
-domains-net-alt = a cloud with nodes
+domains-net = 网络
+domains-net-blurb = 可预测的性能，极小的资源损耗，坚如磐石的可靠性。Rust 极其适合网络编程。
+domains-net-alt = 带节点的云
 
-domains-embedded = Embedded
-domains-embedded-blurb = Targeting low-resource devices?
-            Need low-level control without giving up high-level conveniences?
-            Rust has you covered.
-domains-embedded-alt = an embedded device chip
-
+domains-embedded = 嵌入式
+domains-embedded-blurb = 针对资源匮乏的设备？需要低级控制而又不能放弃高级的便利性？那么 Rust 绝对让您满意。
+domains-embedded-alt = 嵌入式设备芯片
 
 # components/panels/get-involved.hbs
-get-involved = Get involved
+get-involved = 参与其中
 
-get-involved-read-rust = Read Rust
-get-involved-read-rust-blurb = We love documentation! Take a look at the books available online, as well as key blog posts and user guides.
-get-involved-read-rust-link = Read the book
+get-involved-read-rust = 阅读 Rust
+get-involved-read-rust-blurb = 我们热爱文档！查看在线书籍，以及重要的博客文章和用户指南。
+get-involved-read-rust-link = 阅读文档
 
-get-involved-watch-rust = Watch Rust
-get-involved-watch-rust-blurb = The Rust community has a dedicated YouTube channel collecting a huge range of presentations and
-        tutorials.
-get-involved-watch-rust-link = Watch the Videos
+get-involved-watch-rust = 观看 Rust 视频
+get-involved-watch-rust-blurb = Rust 社区有一个专门的 YouTube 频道，收集了大量的演示文稿和教程。
+get-involved-watch-rust-link = 观看视频
 
-get-involved-contribute = Contribute code
-get-involved-contribute-blurb = Rust is truly a community effort, and we welcome contribution from hobbyists and production users, from
-      newcomers and seasoned professionals. Come help us make the Rust experience even better!
-get-involved-contribute-link = Read Contribution Guide
+get-involved-contribute = 贡献代码
+get-involved-contribute-blurb = Rust 是真正由社区驱动的项目，我们欢迎业余爱好者和专业用户，从新人到经验丰富的专业人士我们都欢迎。参与项目，协助我们，让 Rust 变得更好！
+get-involved-contribute-link = 阅读贡献指南
