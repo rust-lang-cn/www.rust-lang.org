@@ -1,139 +1,140 @@
 ## learn/index.hbs
 
-learn-learn-rust = Learn Rust
-learn-begin = Get started with Rust
+learn-learn-rust = 学习 Rust
+learn-begin = Rust 入门
 
-learn-book = Affectionately nicknamed “the book,” <cite>The Rust Programming Language</cite> will give you an overview of the language from first principles. You’ll build a few projects along the way, and by the end, you’ll have a solid grasp of the language.
-learn-book-button = Read the Book!
-learn-rustlings = Alternatively, Rustlings guides you through downloading and setting up the Rust toolchain, and teaches you the basics of reading and writing Rust syntax, on the command line. It's an alternative to Rust by Example that works with your own environment.
-learn-rustlings-button = Do the Rustlings course!
-learn-rbe = If reading multiple hundreds of pages about a language isn’t your style, then Rust By Example has you covered. While the book talks about code with a lot of words, RBE shows off a bunch of code, and keeps the talking to a minimum. It also includes exercises!
-learn-rbe-button = Check out Rust by Example!
+learn-book = <cite>《Rust 程序设计语言》</cite>被亲切地称为“圣经”。本书从第一原则触发，给出了 Rust 语言的概览。你会在阅读本书时构建一些项目。在读完本书后，你将会坚实地掌握 Rust 语言。
+learn-book-button = 阅读本书！
+learn-rustlings = 此外，Rustlings 课程会指导你下载并设置 Rust 工具链，在命令行中教你阅读和编写 Rust 代码的语法基础。它可以运行在你自己的环境中，是《跟着例子学 Rust》之外的另一种选择。
+learn-rustlings-button = 学习 Rustlings 课程！
+learn-rbe = 如果你不喜欢通过阅读大量的文档来学习语言，那么《跟着例子学 Rust》就能涵盖你要学的知识。虽然本书花了很多篇幅来解释代码，但它展示的代码很丰富，并且尽量减少了文字解释。它还包括很多练习！
+learn-rbe-button = 阅读《跟着例子学 Rust》！
 
-learn-use = Grow with Rust
+learn-use = 跟着 Rust 一起成长
 
-learn-doc-heading = Read the core documentation
-learn-doc = All of this documentation is also available locally using the <code>rustup doc</code> command, which will open up these resources for you in your browser without requiring a network connection!
+learn-doc-heading = 阅读核心文档
+learn-doc = 以下所有文档都可以用 <code>rustup doc</code> 命令在本地阅读，它无需网络就能在你的浏览器中打开这些资源！
 
-learn-doc-std = Comprehensive guide to the Rust standard library APIs.
-learn-doc-std-button = The standard 
+learn-doc-std = 详尽的 Rust 标准库 API 手册。
+learn-doc-std-button = 标准库
 
-learn-doc-edition = Guide to the Rust editions.
-learn-doc-edition-button = Edition Guide
+learn-doc-edition = Rust 版本指南
+learn-doc-edition-button = 版本指南
 
-learn-doc-cargo = A book on Rust’s package manager and build system.
-learn-doc-cargo-button = Cargo Book
+learn-doc-cargo = Rust 的包管理器和构建系统。
+learn-doc-cargo-button = Cargo 文档
 
-learn-doc-rustdoc = Learn how to make awesome documentation for your crate.
-learn-doc-rustdoc-button = rustdoc Book
+learn-doc-rustdoc = 学习如何为你的 crate 编写完美的文档。
+learn-doc-rustdoc-button = rustdoc 文档
 
-learn-doc-rustc = Familiarize yourself with the knobs available in the Rust compiler.
-learn-doc-rustc-button = rustc Book
+learn-doc-rustc = 熟悉 Rust 编译器中可用的选项。
+learn-doc-rustc-button = rustc 文档
 
-learn-doc-error = In-depth explanations of the errors you may see from the Rust compiler.
-learn-doc-error-button = Compiler Error Index
-
-
-learn-domain = Build your skills in an application domain
-
-learn-domain-cli-button = Command Line Book
-learn-domain-cli = Learn how to build effective command line applications in Rust.
-
-learn-domain-wasm-button = WebAssembly Book
-learn-domain-wasm = Use Rust to build browser-native libraries through WebAssembly.
-
-learn-domain-embedded-button = Embedded Book
-learn-domain-embedded = Become proficient with Rust for Microcontrollers and other embedded systems.
+learn-doc-error = 深入解释了你可能会遇到的编译错误。
+learn-doc-error-button = 编译错误索引
 
 
-learn-master = Master Rust
-learn-master-text = Curious about the darkest corners of the language? Here’s where you can get into the nitty-gritty:
+learn-domain = 在应用领域中点亮你的技能树
+
+learn-domain-cli-button = 命令行文档
+learn-domain-cli = 学习如何用 Rust 构建高效的命令行应用。
+
+learn-domain-wasm-button = WebAssembly 文档
+learn-domain-wasm = 通过 WebAssembly 用 Rust 构建浏览器原生的库。
+
+learn-domain-embedded-button = 嵌入式文档
+learn-domain-embedded = 熟练掌握用 Rust 编写微控制器和其它嵌入式系统程序。
 
 
-learn-reference-alt = A bookshelf icon
-learn-reference = The Reference is not a formal spec, but is more detailed and comprehensive than the book.
-learn-reference-button = Read the reference
+learn-master = 精通 Rust
+learn-master-text = 对 Rust 中的黑魔法感到好奇？在这里，你可以深入理解其本质。
 
-learn-nomicon-alt = Two hands cradling fire
-learn-nomicon = The Rustonomicon is your guidebook to the dark arts of unsafe Rust. It’s also sometimes called “the ’nomicon.”
-learn-nomicon-button = Read the ’nomicon
 
-learn-unstable-alt = A hand sharing sparkles
-learn-unstable = The Unstable Book has documentation for unstable features that you can only use with nightly Rust.
-learn-unstable-button = Read the unstable book
+learn-reference-alt = 书架图标
+learn-reference = 参考手册并非正式的语言规范，但它比“圣经”更加详尽而全面。
+learn-reference-button = 阅读参考手册
+
+learn-nomicon-alt = 双手捧火
+learn-nomicon = 《Rust 爱恨者手册》是不安全 Rust 的黑魔法指南。它有时被称作“爱恨者手册”。
+learn-nomicon-button = 阅读爱恨者手册
+# nomicon 表示一种爱恨交加的状态，Rustonomicon 表示对 Rust 爱恨交加的人。译法取自《Unix 痛恨者手册》
+
+learn-unstable-alt = 手洒星光
+learn-unstable = 不稳定特性手册中包含了你只能在 Nightly 版 Rust 中使用的不稳定特性的文档。
+learn-unstable-button = 阅读不稳定特性手册
 
 ## learn/get-started.hbs
 
-learn-setup-heading = Getting started
-learn-setup = Quickly set up a Rust development environment and write a small app!
+learn-setup-heading = 入门
+learn-setup = 快速配置 Rust 开发环境并编写一个小应用！
 
-learn-install-heading = Installing Rust
-learn-play = You can try Rust online in the Rust Playground without installing anything on your computer.
-learn-play-button = Try Rust without installing
+learn-install-heading = 安装 Rust
+learn-play = 你可以在 Rust 练习场上在线试用 Rust，而无需在你的计算机上安装任何东西。
+learn-play-button = 无需安装，直接试用 Rust
 
-learn-install-rustup-header = Rustup: the Rust installer and version management tool
-learn-install-rustup = The primary way that folks install Rust is through a tool called Rustup, which is a Rust installer and version management tool.
-learn-install-rustup-button = Learn more about installation
+learn-install-rustup-header = Rustup：Rust 的安装器和版本管理工具
+learn-install-rustup = 安装 Rust 的主要方式是使用 Rustup 工具链，它是 Rust 的安装器和版本管理工具。
+learn-install-rustup-button = 了解关于安装的更多详情
 
 
-learn-install-cargo-header = Cargo: the Rust build tool and package manager
-learn-install-cargo = <p>When you install Rustup you’ll also get the latest stable version of the Rust build tool and package manager, also known as Cargo. Cargo does lots of things:</p>
+learn-install-cargo-header = Cargo: Rust 的构建工具和包管理器
+learn-install-cargo = <p>你在安装 Rustup 时，也会安装 Rust 构建工具和包管理器的最新稳定版，即 Cargo。Cargo 可以做很多事情：</p>
                         <ul>
-                          <li>build your project with <code>cargo build</code></li>
-                          <li>run your project with <code>cargo run</code></li>
-                          <li>test your project with <code>cargo test</code></li>
-                          <li>build documentation for your project with <code>cargo doc</code></li>
-                          <li>publish a library to <a href="https://crates.io">crates.io</a> with <code>cargo publish</code></li>
+                          <li><code>cargo build</code> 可以构建项目</li>
+                          <li><code>cargo run</code> 可以运行项目</li>
+                          <li><code>cargo test</code> 可以测试项目</li>
+                          <li><code>cargo doc</code> 可以为项目构建稳定</li>
+                          <li><code>cargo publish</code> 可以将库发布到 <a href="https://crates.io">crates.io</a>。</li>
                         </ul>
-                        <p>To test that you have Rust and Cargo installed, you can run this in your terminal of choice:</p>
+                        <p>要测试你是否安装了 Rust 和 Cargo，你可以在你的终端中运行：</p>
                         <p><code>cargo --version</code></p>
-learn-install-cargo-button = Read the cargo book
+learn-install-cargo-button = 阅读 cargo 文档
 
-learn-install-other = Other tools
-learn-install-editors = Rust support is available in many editors:
-learn-install-fmt-clippy = You can install a code formatting tool (Rustfmt) with <code>rustup component add rustfmt</code>, and a linting tool (Clippy) with <code>rustup component add clippy</code>.
+learn-install-other = 其它工具
+learn-install-editors = Rust 支持多种编辑器：
+learn-install-fmt-clippy = 你可以用 <code>rustup component add rustfmt</code> 安装代码格式化工具 Rustfmt，用 <code>rustup component add clippy</code> 安装 lint 工具 Clippy。
 
 
-learn-generating = Generating a new project
-learn-generating-steps = <p>Let’s write a small application with our new Rust development environment. To start, we’ll use Cargo to make a new project for us. In your terminal of choice run:</p>
+learn-generating = 创建新项目
+learn-generating-steps = <p>我们在新的 Rust 开发环境中编写一个小应用。首先，我们用 Cargo 创建一个新项目。在你的终端中执行：</p>
     <p><code>cargo new hello-rust</code></p>
-    <p>This will generate a new directory called <code>hello-rust</code> with the following files:</p>
+    <p>这会生成一个名为 <code>hello-rust</code> 的新目录，其中包含以下文件：</p>
     { $tree }
-    <p><code>Cargo.toml</code> is the manifest file for Rust. It’s where you keep metadata for your project, as well as dependencies.</p>
-    <p><code>src/main.rs</code> is where we’ll write our application code.</p>
+    <p><code>Cargo.toml</code> 为 Rust 的清单文件（manifest）。其中包含了项目的元数据和依赖库。</p>
+    <p><code>src/main.rs</code> 为编写应用代码的地方。</p>
     <hr/>
-    <p><code>cargo new</code> generates a "Hello, world!" project for us! We can run this program by moving into the new directory that we made and running this in our terminal:</p>
+    <p><code>cargo new</code> 会生成一个新的“Hello, world!”项目！我们可以进入新创建的目录中，执行下面的命令来运行此程序：</p>
     <p><code>cargo run</code></p>
-    <p>You should see this in your terminal:</p>
+    <p>你应该会在终端中看到如下内容：</p>
     { $output }
 
-learn-dependencies = Adding dependencies
-learn-dependencies-steps = <p>Let’s add a dependency to our application. You can find all sorts of libraries on <a href="https://crates.io">crates.io</a>, the package registry for Rust. In Rust, we often refer to packages as “crates.”</p>
-      <p>In this project, we’ll use a crate called <a href="https://crates.io/crates/ferris-says"><code>ferris-says</code></a>.
-      <p>In our <code>Cargo.toml</code> file we’ll add this information (that we got from the crate page):</p>
+learn-dependencies = 添加依赖库
+learn-dependencies-steps = <p>我们来为应用添加依赖。你可以在 <a href="https://crates.io">crates.io</a>，即 Rust 包的仓库中找到所有类别的库。在 Rust 中，我们通常把包称作“crates”。</p>
+      <p>在此项目中，我们使用了名为 <a href="https://crates.io/crates/ferris-says"><code>ferris-says</code> 的库</a>。
+      <p>我们在 <code>Cargo.toml</code> 文件中添加以下信息（从 crate 页面上获取）：</p>
       { $cargotoml }
-      <p>Now we can run:</p>
+      <p>接着运行：</p>
       <code>cargo build</code>
-      <p>...and Cargo will install our dependency for us.</p>
-      <p>You’ll see that running this command created a new file for us, <code>Cargo.lock</code>. This file is a log of the exact versions of the dependencies we are using locally.</p>
-      <p>To use this dependency, we can open <code>main.rs</code>, remove everything that’s in there (it’s just another example), and add this line to it:</p>
+      <p>...之后 Cargo 就会安装该依赖。</p>
+      <p>运行此命令会创建一个新文件 <code>Cargo.lock</code>。该文件记录了本地使用的依赖库的精确版本。</p>
+      <p>要使用该依赖库，我们可以打开 <code>main.rs</code>，删除其中所有的内容（它不过是另一个示例），然后在其中添加下面这行代码：</p>
       <pre><code>use ferris_says::say;</code></pre>
-      <p>This line means that we can now use the <code>say</code> function that the <code>ferris-says</code> crate exports for us.</p>
+      <p>这行代码表示我们现在可以使用 <code>ferris-says</code> crate 中导出的 <code>say</code> 函数了。</p>
 
-learn-app = A small Rust application
-learn-app-steps = <p>Now let’s write a small application with our new dependency. In our <code>main.rs</code>, add the following code:</p>
+learn-app = 一个 Rust 的小应用
+learn-app-steps = <p>现在我们用新的依赖库来编写一个小应用。在 <code>main.rs</code> 中添加以下代码：</p>
     { $code }
-    <p>Once we save that, we can run our application by typing:</p>
+    <p>保存完毕后，我们可以输入以下命令来运行此应用：</p>
     <p><code>cargo run</code></p>
-    <p>Assuming everything went well, you should see your application print this to the screen:</p>
+    <p>如果一切正确，你会看到该应用将以下内容打印到了屏幕上：</p>
     { $output }
 
-learn-read-docs-header = Learn more!
-learn-read-docs = You’re a Rustacean now! Welcome! We’re so glad to have you. When you’re ready, hop over to our Learn page, where you can find lots of books that will help you to continue on your Rust adventure.
-learn-read-docs-button = learn more!
+learn-read-docs-header = 了解更多！
+learn-read-docs = 你已经是一名 Rustacean 了！欢迎！我们很高兴你的加入！当你准备好后，跳到学习页面，你可以在那里找到大量的文档，它们帮助你继续你的 Rust 旅程。
+learn-read-docs-button = 了解更多！
 
-learn-ferris-who = Who’s this crab, Ferris?
-learn-ferris = <p>Ferris is the unofficial mascot of the Rust Community. Many Rust programmers call themselves “Rustaceans,” a play on the word “<a href="https://en.wikipedia.org/wiki/Crustacean">crustacean</a>.” We refer to Ferris with the pronouns “they,” “them,” etc., rather than with gendered pronouns.</p>
-               <p>Ferris is a name playing off of the adjective, “ferrous,” meaning of or pertaining to iron. Since Rust often forms on iron, it seemed like a fun origin for our mascot’s name!</p>
-               <p>You can find more images of Ferris on <a href="http://rustacean.net/">http://rustacean.net/</a>.
-learn-ferris-alt = a gif of ferris scurrying side to side
+learn-ferris-who = 螃蟹 Ferris 是谁？
+learn-ferris = <p>Ferris 是 Rust 社区的非官方吉祥物。很多 Rust 程序员自称“Rustaceans”，玩了个“<a href="https://en.wikipedia.org/wiki/Crustacean">crustacean</a>”的文字游戏。我们用 “they,” “them,” 等代词来指代 Ferris，而不用带性别的代词。</p>
+               <p>Ferris 是形容词“ferrous”的文字游戏，它的含义与铁有关。由于 Rust（锈）通常由铁形成，因此它似乎是个有趣的吉祥物名字的来源！</p>
+               <p>你可以在 <a href="http://rustacean.net/">http://rustacean.net/</a> 上找到更多 Ferris 的图片。
+learn-ferris-alt = 一个横着走的 Ferris 动图
