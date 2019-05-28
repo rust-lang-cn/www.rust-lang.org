@@ -13,7 +13,7 @@ learn-rbe-button = 阅读《跟着例子学 Rust》！
 learn-use = 跟着 Rust 一起成长
 
 learn-doc-heading = 阅读核心文档
-learn-doc = 以下所有文档都可以用 <code>rustup doc</code> 命令在本地阅读，它无需网络就能在你的浏览器中打开这些资源！
+learn-doc = 以下所有文档都可以用 <code>rustup doc</code> 命令在本地阅读，它可以在你的浏览器中离线打开这些资源！
 
 learn-doc-std = 详尽的 Rust 标准库 API 手册。
 learn-doc-std-button = 标准库
