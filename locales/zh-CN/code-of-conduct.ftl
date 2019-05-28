@@ -2,39 +2,39 @@
 
 ## templates/policies/code-of-conduct.hbs
 
-coc-page-heading = Code of conduct
+coc-page-heading = 行为守则
 
-coc-conduct-heading = Conduct
+coc-conduct-heading = 行为
 coc-conduct-description =
         <ul>
-          <li>We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.</li>
-          <li>Please avoid using overtly sexual aliases or other nicknames that might detract from a friendly, safe and welcoming environment for all.</li>
-          <li>Please be kind and courteous. There’s no need to be mean or rude.</li>
-          <li>Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.</li>
-          <li>Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.</li>
-          <li>We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as including the definition in the <a href="http://citizencodeofconduct.org/">Citizen Code of Conduct</a>; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.</li>
-          <li>Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the { $coc-rust-moderation-team-anchor } immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back.</li>
-          <li>Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.</li>
+          <li>我们致力于为所有人提供一个友好，安全和受欢迎的环境，不论其经验水平，性别认同和表达，性取向，残疾，个人形象，体型，种族，民族，年龄，宗教，国籍或其他类似特性。</li>
+          <li>请避免公开使用可能会影响所有人友好，安全和受欢迎环境的脏话。</li>
+          <li>请保持善良和礼貌。刻薄或粗鲁是没有必要的。</li>
+          <li>尊重人们的意见分歧，每个设计或实现选择都会带来权衡和众多成本。很少有正确的答案。</li>
+          <li>请将非结构化的批判保持在最低限度。如果你有坚定的想法想要试验，拉一个分支，看看它是如何工作的。</li>
+          <li>如果你侮辱，贬低或骚扰任何人，我们会将你排除在互动之外。这是不受欢迎的行为。我们将“骚扰”一词解释为包含在<a href="http://citizencodeofconduct.org/">公民行为准则</a>中的定义；如果你对可能包含的在其中的内容缺乏清晰的认识，请阅读其定义。特别是，我们不容忍将社会边缘化群体中的人排除在外的行为。</li>
+          <li>私人骚扰也是不可接受的。无论你是谁，如果你认为自己曾经或正在受到社区成员的骚扰或感到不舒服，请立即联系任何一个渠道运营人员或者任何{$ coc-rust-moderation-team-anchor}。无论你是固定的贡献者还是新人，我们都非常关心如何让这个社区成为一个安全的地方，我们支持你。</li>
+          <li>同样，任何垃圾邮件，恶意挑衅，网络论战，下诱饵或其他刷存在感的行为都是不受欢迎的。</li>
         </ul>
-coc-conduct-description-team-anchor-text = Rust moderation team
-coc-conduct-email-button = Email The Moderation Team
+coc-conduct-description-team-anchor-text = Rust审核小组
+coc-conduct-email-button = 审核小组的邮箱
 
-coc-moderation-heading = Moderation
+coc-moderation-heading = 审核
 coc-moderation-description =
-        <p>These are the policies for upholding our community’s standards of conduct. If you feel that a thread needs moderation, please contact the { $coc-rust-moderation-team-anchor }.</p>
+        <p>这些是维护社区行为标准的政策。如果你觉得某个主题需要审核，请联系{$ coc-rust-moderation-team-anchor}。</p>
         <ol>
-          <li>Remarks that violate the Rust standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.)</li>
-          <li>Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.</li>
-          <li>Moderators will first respond to such remarks with a warning.</li>
-          <li>If the warning is unheeded, the user will be “kicked,” i.e., kicked out of the communication channel to cool off.</li>
-          <li>If the user comes back and continues to make trouble, they will be banned, i.e., indefinitely excluded.</li>
-          <li>Moderators may choose at their discretion to un-ban the user if it was a first offense and they offer the offended party a genuine apology.</li>
-          <li>If a moderator bans someone and you think it was unjustified, please take it up with that moderator, or with a different moderator, <strong>in private</strong>. Complaints about bans in-channel are not allowed.</li>
-          <li>Moderators are held to a higher standard than other community members. If a moderator creates an inappropriate situation, they should expect less leeway than others.</li>
+          <li>不允许违反Rust行为标准的言论，包括仇恨，伤害，压迫或排他性言论。（允许诅咒，但绝不能针对其他用户，绝不能以仇恨的方式。）</li>
+          <li>版主认为不合适的言论，不论是否列在行为准则中，都是不允许的。</li>
+          <li>版主将首先回复此类言论并发出警告。</li>
+          <li>如果警告被忽视，用户将被“踢”，即被踢出通讯频道来冷静一下。</li>
+          <li>如果用户回来并继续制造麻烦，他们将被取缔，即被无限期排除。</li>
+          <li>版主可酌情选择取消取缔初犯或为被冒犯的一方提供真诚的道歉的用户。</li>
+          <li>如果你认为版主取缔某人不合理，请与该版主或其他版主<strong>私下</strong>讨论。在频道内抱怨取缔是不允许的。</li>
+          <li>版主比其他社区成员适用更高的标准。如果版主造成不适当的情况，他们应该比其他人有更少的回旋余地。</li>
         </ol>
-        <p>In the Rust community we strive to go the extra step to look out for each other. Don’t just aim to be technically unimpeachable, try to be your best self. In particular, avoid flirting with offensive or sensitive issues, particularly if they’re off-topic; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.</p>
-        <p>And if someone takes issue with something you said or did, resist the urge to be defensive. Just stop doing what it was they complained about and apologize. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could’ve communicated better — remember that it’s your responsibility to make your fellow Rustaceans comfortable. Everyone wants to get along and we are all here first and foremost because we want to talk about cool technology. You will find that people will be eager to assume good intent and forgive as long as you earn their trust.</p>
-        <p>The enforcement policies listed above apply to all official Rust venues; including Discord channels (https://discord.gg/rust-lang); GitHub repositories under rust-lang, rust-lang-nursery, and rust-lang-deprecated; and all forums under rust-lang.org (users.rust-lang.org, internals.rust-lang.org). For other projects adopting the Rust Code of Conduct, please contact the maintainers of those projects for enforcement. If you wish to use this code of conduct for your own project, consider explicitly mentioning your moderation policy or making a copy with your own moderation policy so as to avoid confusion.</p>
-        <p><i>Adapted from the <a href="http://blog.izs.me/post/30036893703/policy-on-trolling">Node.js Policy on Trolling</a> as well as the <a href="https://www.contributor-covenant.org/version/1/3/0/">Contributor Covenant v1.3.0</a>.</i></p>
+        <p>在Rust社区，我们努力进一步的互相照顾。不要只关注在技术上无懈可击，尽量做好你自己。特别是，避免陷入攻击性或敏感性问题的纠缠，尤其是如果他们偏离主题；这通常会导致不必要的斗争，伤害情感，损害信任；更糟糕的是，它会将人们驱离社区。</p>
+        <p>如果有人对你所说或做过的事情提出异议，不要急于自卫。停止做他们抱怨的事情并道歉。即使你觉得自己被误解或受到不公平的指控，也很有可能会有更好的沟通方式 - 请记住，让你的同伴Rustaceans感到舒服是你的责任。每个人都希望好好相处，我们来这里最初和最根本的目的是想谈论很酷的技术。你会发现，只要你赢得他们的信任，人们就会渴望表现出善意和宽恕。</p>
+        <p>上述强制执行政策适用于所有Rust官方场所; 包括Discord频道（https://discord.gg/rust-lang）；rust-lang，rust-lang-nursery和rust-lang-deprecated在GitHub的仓库；rust-lang.org（users.rust-lang.org，internals.rust-lang.org）的所有论坛。对于采用Rust行为准则的其他项目，请联系这些项目的维护人员以便执行。如果你希望将此行为准则用于你自己的项目，请考虑明确提及你的审核政策或使用你自己的审核政策制作副本，以避免混淆。</p>
+        <p><i>改编自<a href="http://blog.izs.me/post/30036893703/policy-on-trolling">Node.js关于恶意破坏的政策</a>以及<a href ="https://www.contributor-covenant.org/version/1/3/0/">贡献者公约v1.3.0 </a>。</i></p>
 
-coc-moderation-description-team-anchor-text = Rust moderation team
+coc-moderation-description-team-anchor-text = Rust审核小组
