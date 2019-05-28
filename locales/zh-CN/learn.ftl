@@ -3,7 +3,7 @@
 learn-learn-rust = 学习 Rust
 learn-begin = Rust 入门
 
-learn-book = <cite>《Rust 程序设计语言》</cite>被亲切地称为“圣经”。本书从第一原则触发，给出了 Rust 语言的概览。你会在阅读本书时构建一些项目。在读完本书后，你将会坚实地掌握 Rust 语言。
+learn-book = <cite>《Rust 程序设计语言》</cite>被亲切地称为“圣经”。本书从基本原则出发，给出了 Rust 语言的概览。你会在阅读本书时构建一些项目。在读完本书后，你将会坚实地掌握 Rust 语言。
 learn-book-button = 阅读本书！
 learn-rustlings = 此外，Rustlings 课程会指导你下载并设置 Rust 工具链，在命令行中教你阅读和编写 Rust 代码的语法基础。它可以运行在你自己的环境中，是《跟着例子学 Rust》之外的另一种选择。
 learn-rustlings-button = 学习 Rustlings 课程！
