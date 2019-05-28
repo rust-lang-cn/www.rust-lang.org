@@ -1,38 +1,38 @@
 ### Translation file for page: https://www.rust-lang.org/policies/security
 ### templates/policies/security.hbs
 
-security-page-heading = Security policy
+security-page-heading = 安全政策
 
-security-reporting-heading = Reporting
-security-reporting-link = email security@rust-lang.org
+security-reporting-heading = 报告漏洞
+security-reporting-link = 给 security@rust-lang.org 发邮件
 # Anchor text for 
 security-reporting-description =
-        <p>Safety is one of the core principles of Rust, and to that end, we would like to ensure that Rust has a secure implementation. Thank you for taking the time to responsibly disclose any issues you find.</p>
-        <p>All security bugs in the Rust distribution should be reported by email to { -security-at-rust-lang-org-anchor }. This list is delivered to a small security team. Your email will be acknowledged within 24 hours, and you’ll receive a more detailed response to your email within 48 hours indicating the next steps in handling your report. If you would like, you can encrypt your report using <a href="{ -rust-security-team-key-href }">our public key</a>. This key is also <a href="{ -rust-pgp-key-mit-keyserver-href }">On MIT’s keyserver</a> and <a href="#key">reproduced below</a>.</p>
-        <p>This email address receives a large amount of spam, so be sure to use a descriptive subject line to avoid having your report be missed. After the initial reply to your report, the security team will endeavor to keep you informed of the progress being made towards a fix and full announcement. As recommended by <a href="{ -wikipedia-rfpolicy-href }">RFPolicy</a>, these updates will be sent at least every five days. In reality, this is more likely to be every 24-48 hours.</p>
-        <p>If you have not received a reply to your email within 48 hours, or have not heard from the security team for the past five days, there are a few steps you can take (in order):</p>
+        <p>安全性是Rust的核心原则之一。为此，我们想确保Rust有一个安全的实现。感谢您花费时间并负责任地报告任何您发现的问题。</p>
+        <p>Rust发行版中的所有安全漏洞都应该通过电子邮件报告给 { -security-at-rust-lang-org-anchor }。漏洞清单将会被提交给一个小型的安全团队。您的电子邮件将在24小时内得到确认，随后在48小时内您会通过邮件收到更详细的回复，通知您该错误报告处理的后续步骤。如果您愿意，您也可以使用<a href="{ -rust-security-team-key-href }">我们的公钥</a>来加密您的错误报告。这个秘钥也可以在<a href="{ -rust-pgp-key-mit-keyserver-href }">MIT’s 密钥服务器</a> 和 <a href="#key">下方的复制版</a>中获取。</p>
+        <p>这个电子邮箱收到了大量的垃圾邮件，因此，请务必使用具有描述性的主题，以避免我们错过您的报告。在对您的报告进行初步回复后，安全团队将尽力通知您在修复漏洞方面取得的进展。根据<a href="{ -wikipedia-rfpolicy-href }">RFPolicy</a>的建议，这些更新应至少每五天发送一次。实际上，更有可能是每24-48小时发送一次。</p>
+        <p>如果您在48小时内未收到邮件回复，或者在过去五天内未收到安全团队的回复，您可以采取以下几个步骤（按顺序）：</p>
         <ul>
-          <li>Contact the current security coordinator ({ -security-coordinator-email-anchor } (<a href="{ -security-coordinator-public-key-href }">public key</a>)) directly.</li>
-          <li>Contact the back-up contact ({ -backup-security-contact-email-anchor } (<a href="{ -backup-security-contact-public-key-href }">public key</a>)) directly.</li>
-          <li>Post on the <a href="{ -internals-rust-lang-org-href }">internals forums</a></li>
+          <li>直接联系当前的安全协调员。({ -security-coordinator-email-anchor } (<a href="{ -security-coordinator-public-key-href }">公钥</a>))</li>
+          <li>直接联系备用联系人。({ -backup-security-contact-email-anchor } (<a href="{ -backup-security-contact-public-key-href }">公钥</a>))</li>
+          <li>在<a href="{ -internals-rust-lang-org-href }">内部论坛</a>上发帖子。</li>
         </ul>
-        <p>Please note that the discussion forums are public areas. When escalating in these venues, please do not discuss your issue. Simply say that you’re trying to get a hold of someone from the security team.</p>
+        <p>请注意，论坛是公共区域，在这些场所交流时，请勿讨论您报告的问题。简而言之，您要尽力找到安全团队的人。</p>
 
-security-disclosure-heading = Disclosure policy
+security-disclosure-heading = 披露政策
 security-disclosure-description =
-        <p>The Rust project has a 5 step disclosure process.</p>
+        <p>Rust项目有5步披露流程。</p>
         <ol>
-          <li>The security report is received and is assigned a primary handler. This person will coordinate the fix and release process.</li>
-          <li>The problem is confirmed and a list of all affected versions is determined.</li>
-          <li>Code is audited to find any potential similar problems.</li>
-          <li>Fixes are prepared for all releases which are still under maintenance. These fixes are not committed to the public repository but rather held locally pending the announcement.</li>
-          <li>On the embargo date, the <a href="{ -rustlang-security-announcements-google-groups-forum-href }"> Rust security mailing list</a> is sent a copy of the announcement. The changes are pushed to the public repository and new builds are deployed to rust-lang.org.  Within 6 hours of the mailing list being notified, a copy of the advisory will be published on the Rust blog.</li>
+          <li>收到安全报告，并将其分配给一位主要处理人。此人将协调修复和发布过程。</li>
+          <li>确认问题并确定所有受影响版本。</li>
+          <li>审核代码以发现任何潜在的类似问题。</li>
+          <li>对所有仍在维护的版本准备修复程序。这些修复程序将不会推送到公共仓库，而是保留在本地，等待发布。</li>
+          <li>过封锁期后，<a href="{ -rustlang-security-announcements-google-groups-forum-href }"> Rust安全邮件列表</a>将发布一份公告副本。这些更改将提交至公共仓库，更新后的程序将部署至rust-lang.org。在收到通知邮件列表的6小时内，Rust博客将发布该通报的副本。</li>
         </ol>
-        <p>This process can take some time, especially when coordination is required with maintainers of other projects. Every effort will be made to handle the bug in as timely a manner as possible, however it’s important that we follow the release process above to ensure that the disclosure is handled in a consistent manner.</p>
+        <p>这个过程可能需要一些时间，尤其是在需要与其他项目的维护人员进行协调时。我们将尽一切努力以尽可能及时的方式处理错误。但是，我们必须遵循上述发布流程，以确保以一致的方式处理披露。</p>
 
-security-receiving-heading = Receiving security updates
+security-receiving-heading = 接收安全更新
 security-receiving-description =
-        <p>The best way to receive all the security announcements is to subscribe to the <a href="{ -rust-security-announcements-mailing-list-href }">Rust security announcements mailing list</a> (alternatively by sending an email to { -rustlang-security-announcements-subscribe-anchor }). The mailing list is very low traffic, and it receives the public notifications the moment the embargo is lifted.</p>
-        <p>We will announce vulnerabilities 72 hours before the embargo is lifted to { -distros-openwall-email-anchor }, so that Linux distributions can update their packages.</p>
+        <p>接收所有安全公告的最佳方式是订阅<a href="{ -rust-security-announcements-mailing-list-href }">Rust安全公告邮件列表</a> （或者发送电子邮件至{ -rustlang-security-announcements-subscribe-anchor }）。邮件列表的业务量很少，在封禁期过后它将马上收到公共通知。</p>
+        <p>我们会在封禁期解除前的72小时向{ -distros-openwall-email-anchor }公布漏洞，以便于Linux发行版更新其软件包。</p>
 
-security-pgp-key-heading = Plaintext PGP key
+security-pgp-key-heading = 明文PGP密钥
