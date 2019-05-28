@@ -2,14 +2,14 @@
 
 ## templates/policies/index.hbs
 
-policies-page-heading = Policies
+policies-page-heading = 政策
 
-policies-page-description = This page links to the comprehensive set of Rust’s policies.
+policies-page-description = 此页面链接到一组完备的Rust政策。
 
-policies-code-of-conduct-link = Code of Conduct
-policies-licenses-link = Licenses
-policies-media-guide-link = Logo Policy and Media Guide
-policies-security-link = Security Disclosures
+policies-code-of-conduct-link = 行为守则
+policies-licenses-link = 许可证
+policies-media-guide-link = 标志政策和媒体指南
+policies-security-link = 安全信息披露
 
-policies-reach-out-description = Didn’t find what you were looking for? Have a question? Please reach out!
-policies-reach-out-link = Message the Core Team
+policies-reach-out-description = 没找到你要找的东西？有一个问题？请伸出援手！
+policies-reach-out-link = 给核心团队留言
