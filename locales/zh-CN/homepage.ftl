@@ -15,7 +15,7 @@ production-blurb = 全世界已有数百家公司在生产环境中使用 Rust�
 production-learn-more = 了解更多
 
 production-testimonial-npm = 我对 Rust 最大的赞美就是它太无聊了，这是令人惊叹的赞美。
-production-testimonial-npm-attribution = Chris Dickinson， 来自 npm 公司的工程师
+production-testimonial-npm-attribution = Chris Dickinson，来自 npm 公司的工程师
 production-testimonial-npm-alt = npm Logo
 
 production-testimonial-yelp = 所有的文档、工具和社区都相当棒——您拥有帮助您顺利编写 Rust 代码的所有工具。
