@@ -32,7 +32,7 @@ language-values-performance-blurb = Rust 速度异常快且内存利用率极高
 language-values-reliability = 可靠性
 language-values-reliability-blurb = Rust 丰富的类型系统和所有权模型保证了内存安全和线程安全&mdash;&mdash;您能够在编译期消除许多类型错误。
 
-language-values-productivity = 生产率
+language-values-productivity = 生产力
 language-values-productivity-blurb = Rust 拥有出色的文档、友好的编译器和有用的错误提示信息，
           还有一流的工具&mdash;&mdash;集成的包管理器和构建工具，
           具有自动补全和类型检查的智能的多编辑器支持，以及自动格式化程序，等等。
