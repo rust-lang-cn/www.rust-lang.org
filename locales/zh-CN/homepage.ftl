@@ -40,7 +40,7 @@ language-values-productivity-blurb = Rust 拥有出色的文档、友好的编�
 # components/panels/domains.hbs
 domains-title = 使用 Rust 构建应用
 domains-blurb = 2018 年，Rust 社区决定在一些不同的领域中提升编程体验
-          （参考<a href="https://blog.rust-lang.org/2018/03/12/roadmap.html">2018年路线图</a>）。
+          （参见 <a href="https://blog.rust-lang.org/2018/03/12/roadmap.html">2018 年路线图</a>）。
           对此，您可以找到许多高质量的 crate 和一些精彩的入门指南。
 domains-learn-more = 了解更多
 
