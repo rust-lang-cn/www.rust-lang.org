@@ -30,7 +30,7 @@ language-values-performance-blurb = Rust 速度异常快且内存利用率极高
           Rust 能胜任性能要求特别高的服务，能运行在嵌入式设备上，并能轻松与其他语言集成。
 
 language-values-reliability = 可靠性
-language-values-reliability-blurb = Rust 的丰富类型系统和所有权模型保证了内存安全和线程安全&mdash;&mdash;使您能够在编译期消除许多类型错误。
+language-values-reliability-blurb = Rust 丰富的类型系统和所有权模型保证了内存安全和线程安全&mdash;&mdash;您能够在编译期消除许多类型错误。
 
 language-values-productivity = 生产率
 language-values-productivity-blurb = Rust 拥有出色的文档、友好的编译器和有用的错误提示信息，
