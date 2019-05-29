@@ -7,7 +7,7 @@ homepage-version = 版本 { $number }
 # components/panels/production.hbs
 production-title = 在生产环境中使用 Rust
 production-blurb = 全世界已有数百家公司在生产环境中使用 Rust，以达到快速、节省资源、跨平台的目的。
-         消耗低、解决跨平台的目的。这包括著名且受欢迎的软件，例如 <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Firefox</a>、
+         其中包括很多著名且受欢迎的软件，例如 <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Firefox</a>、
          <a href="https://blogs.dropbox.com/tech/2016/06/lossless-compression-with-brotli/">Dropbox</a>
          和 <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Cloudflare</a>，
          都使用 Rust。<strong>从初创公司到大型企业，从嵌入式设备到可扩展的 Web 服务，Rust 都完全适合。</strong>
