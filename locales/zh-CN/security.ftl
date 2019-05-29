@@ -26,7 +26,7 @@ security-disclosure-description =
           <li>确认问题并确定所有受影响版本。</li>
           <li>审核代码以发现任何潜在的类似问题。</li>
           <li>对所有仍在维护的版本准备修复程序。这些修复程序将不会推送到公共仓库，而是保留在本地，等待发布。</li>
-          <li>过封锁期后，<a href="{ -rustlang-security-announcements-google-groups-forum-href }"> Rust安全邮件列表</a>将发布一份公告副本。这些更改将提交至公共仓库，更新后的程序将部署至rust-lang.org。在收到通知邮件列表的6小时内，Rust博客将发布该通报的副本。</li>
+          <li>过封锁期后，<a href="{ -rustlang-security-announcements-google-groups-forum-href }">Rust 安全邮件列表</a>将发布一份公告副本。这些更改会提交至公共仓库，更新后的程序将部署至 rust-lang.org。在收到通知邮件列表的 6 小时内，Rust 博客将发布该通报的副本。</li>
         </ol>
         <p>此过程可能需要一些时间，尤其是在需要与其他项目的维护人员进行协调时。我们将尽一切努力及时处理错误。但是，我们必须遵循上述发布流程，确保能够以一致的方式处理披露。</p>
 
