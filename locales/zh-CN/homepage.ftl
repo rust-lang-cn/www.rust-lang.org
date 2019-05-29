@@ -12,7 +12,7 @@ production-blurb = 全世界已有数百家公司在生产环境中使用 Rust�
          和 <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Cloudflare</a>
          都在使用 Rust。<strong>从初创公司到大型企业，从嵌入式设备到可扩展的 Web 服务，Rust 都完全合适。</strong>
 
-production-learn-more = 学习更多
+production-learn-more = 了解更多
 
 production-testimonial-npm = 我对 Rust 最大的赞美就是它太无聊了，这是令人惊叹的赞美。
 production-testimonial-npm-attribution = Chris Dickinson， 来自 npm 公司的工程师
