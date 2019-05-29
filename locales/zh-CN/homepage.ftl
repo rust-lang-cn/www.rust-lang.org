@@ -41,7 +41,7 @@ language-values-productivity-blurb = Rust 拥有出色的文档、友好的编�
 domains-title = 使用 Rust 构建应用
 domains-blurb = 在 2018 年，Rust 社区决定了在少数不同的领域中完善编程的实践内容
           （参考<a href="https://blog.rust-lang.org/2018/03/12/roadmap.html">2018年路线图</a>）。
-          对于这些，您可以找到许多高质量的 crate 和一些如何入门的精彩指南。
+          对此，您可以找到许多高质量的 crate 和一些精彩的入门指南。
 domains-learn-more = 了解更多
 
 domains-cli = 命令行
