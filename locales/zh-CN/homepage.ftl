@@ -50,7 +50,7 @@ domains-cli-alt = 终端
 
 domains-wasm = WebAssembly
 domains-wasm-blurb = 使用 Rust 来增强 JavaScript，每次一个模块。发布到 npm，
-          使用 webpack 打包，然后你可以感受到惊人的速度了。
+          使用 webpack 打包，然后你就可以感受到惊人的速度了。
 domains-wasm-alt = 带拼图元素的齿轮
 
 domains-net = 网络
