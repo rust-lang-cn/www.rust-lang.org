@@ -27,7 +27,7 @@ language-values-why-rust = 为什么使用 Rust？
 
 language-values-performance = 性能
 language-values-performance-blurb = Rust 速度异常快且内存利用率极高：没有运行时和垃圾回收器。
-          Rust 能胜任性能要求特别高的服务，能运行在嵌入式设备，并能轻松地和其他语言集成。
+          Rust 能胜任性能要求特别高的服务，能运行在嵌入式设备上，并能轻松与其他语言集成。
 
 language-values-reliability = 可靠性
 language-values-reliability-blurb = Rust 的丰富类型系统和所有权模型保证了内存安全和线程安全&mdash;&mdash;使您能够在编译期消除许多类型错误。
