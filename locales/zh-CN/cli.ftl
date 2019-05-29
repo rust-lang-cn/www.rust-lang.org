@@ -3,90 +3,99 @@
 
 ## templates/what/cli.hbs
 
-cli-page-heading = 命令行应用程序
+cli-page-heading = Command-line apps
 
 
 ## templates/components/what/cli/pitch.hbs
 
-cli-pitch-heading = 为什么是 Rust?
+cli-pitch-heading = Why Rust?
 
-cli-pitch-solid-img-alt = 带有复选标记的盾牌
-        cli-pitch-solid-heading = 坚固而快速
-cli-pitch-solid-description = 即使你只是编写一个简短的一次性脚本，
-        你也可以确信它快速，易于测试，并可以提供有用的输出。
-cli-pitch-solid-link = Rust 的担保
+cli-pitch-solid-img-alt = Shield with a checkmark
+cli-pitch-solid-heading = Solid and quick
+cli-pitch-solid-description = Even if you’re just writing a short one-off
+        script, you can be confident it’s fast, easily testable, and gives
+        helpful output.
+cli-pitch-solid-link = Rust’s guarantees
 
-cli-pitch-ship-img-alt = 带有复选标记的箱子
-cli-pitch-ship-heading = 易于分发
-cli-pitch-ship-description = 将所有内容编译为单个二进制文件＆mdash; 你的用户无需安装运行时或库。
-cli-pitch-ship-link = 如何发布 Rust 代码
+cli-pitch-ship-img-alt = box with a checkmark
+cli-pitch-ship-heading = Easy distribution
+cli-pitch-ship-description = Compile everything down to a single binary&mdash;no
+        need for your users to have a runtime or libraries installed.
+cli-pitch-ship-link = How to ship Rust code
 
-cli-pitch-config-img-alt = 笔记和齿轮
-cli-pitch-config-heading = 强大的配置
-cli-pitch-config-description = 轻松处理跨平台的配置文件。Rust 将为你处理命名空间和格式。
-cli-pitch-config-link = 开始配置
+cli-pitch-config-img-alt = A note and a gear
+cli-pitch-config-heading = Robust configuration
+cli-pitch-config-description = Handle configuration files across platforms with
+        ease.  Rust will deal with namespaces and formats for you.
+cli-pitch-config-link = Start configuring
 
-cli-pitch-manuals-img-alt = 帮助手册
-cli-pitch-manuals-heading = 手册? 已完成
-cli-pitch-manuals-description = 自动为你的应用生成手册页。只需打包生成的文件就可以了。
-cli-pitch-manuals-link = 学习如何
+cli-pitch-manuals-img-alt = Help manual
+cli-pitch-manuals-heading = Manuals? done.
+cli-pitch-manuals-description = Generate manual pages for your app
+        automatically.  Just package the generated files and you’re done.
+cli-pitch-manuals-link = Learn how
 
-cli-pitch-machines-img-alt = 管道
-cli-pitch-machines-heading = 数据输入，数据输出
-cli-pitch-machines-description = 除了与人交谈外，Rust 还有很棒的工具可以帮助你与机器交谈。
-cli-pitch-machines-link = 与机器通信
+cli-pitch-machines-img-alt = Pipes
+cli-pitch-machines-heading = Data in, data out
+cli-pitch-machines-description = In addition to talking to humans, Rust has
+        great tools to help you talk to machines.
+cli-pitch-machines-link = Communicate with machines
 
-cli-pitch-logging-img-alt = 3块原木堆叠在一起
-cli-pitch-logging-heading = 灵活的日志记录
-cli-pitch-logging-description = 添加日志记录很容易，甚至更容易将其配置为不同的目标和不同的样式。
-cli-pitch-logging-link = 日志，追踪，理解
+cli-pitch-logging-img-alt = 3 wood logs stacked on top of each other
+cli-pitch-logging-heading = Flexible logging
+cli-pitch-logging-description = It’s easy to add logging, and even easier to
+        configure it to different targets and with different styles.
+cli-pitch-logging-link = Log, trace, comprehend
 
 
 ## templates/components/what/cli/maintainable.hbs
 
-cli-maintainable-heading = 一个可维护的代码库
+cli-maintainable-heading = A maintainable code base
 
-cli-maintainable-errors-img-alt = 命令行应用程序结构
-cli-maintainable-errors-heading = <em>立即</em>捕获错误
+cli-maintainable-errors-img-alt = cli app structure
+cli-maintainable-errors-heading = Catch errors <em>now</em>
 cli-maintainable-errors-description = 
-        如果配置文件丢失或损坏怎么办？ 如果环境变量的内容为空该怎么办？
-        这些情况很容易忘记！但是得益于它的错误处理方式和类库设计，
-        Rust 会在你运行程序之前找出这些“假设”情况。
-
-cli-maintainable-errors-link = Rust 的错误处理
+        What if the config file is missing or corrupt? What if the content of
+        that one environment variable is empty? These cases are easy to forget
+        about! But thanks to its approach to error handling and its library
+        design, Rust will point out these “what if” situations before you even
+        run your program.
+cli-maintainable-errors-link = Rust’s error handling
 
 cli-maintainable-refactoring-img-alt = cli is no rocket science
-cli-maintainable-refactoring-heading = 后续扩展简单
+cli-maintainable-refactoring-heading = Easily extend later
 cli-maintainable-refactoring-description = 
-        Rust 允许你灵活地组织代码。从一个文件开始，当你需要更多功能时，
-        可以确信重构你的应用程序不会破坏任何内容。
-cli-maintainable-refactoring-link = 重构 Rust
+        Rust allows you to be flexible in the way you organize your code. Start
+        with just a single file and, when you need more features, refactor your
+        application with the confidence that you aren’t breaking anything.
+cli-maintainable-refactoring-link = Refactoring Rust
 
 
 ## templates/components/what/cli/example.hbs
 
-cli-example-heading = 开始吧!
-cli-example-description = 编写命令行应用程序是学习 Rust 的好方法。
-cli-example-inputs-heading = 定义你的输入
-cli-example-main-heading = 编写你的工具
-cli-example-link = 使用 CLI 文档了解更多信息
+cli-example-heading = Get started!
+cli-example-description = Writing a command-line app is a great way to learn Rust.
+cli-example-inputs-heading = Define your inputs
+cli-example-main-heading = Write your tool
+cli-example-link = Learn more with the CLI book
 
 
 ## templates/components/what/cli/production.hbs
 
-cli-production-heading = 生产环境使用
+cli-production-heading = Production use
 
 cli-production-sentry-img-alt = sentry logo
 cli-production-sentry-quote =
-        我们喜欢 Rust 的其中一个原因是 crates.io 的生态。[...]
-        那里面已经有很多非常好的基础设施用于构建很好的命令行界面。
+        One of the reasons we liked Rust was the crates.io ecosystem. [...]
+        There is a lot of really good already existing infrastructure for
+        building very nice command-line interfaces.
 cli-production-sentry-attribution = &ndash; Armin Ronacher,
-cli-production-sentry-link = Rust 在 Sentry 中的使用 &ndash; PolyConf 2017
+cli-production-sentry-link = Rust at Sentry &ndash; PolyConf 2017
 
 cli-production-habitat-quote =
-        我对生活在这个代码库中无怨无悔。 [...]
-        这对我来说某种程度上有一个额外的好处：使用 Rust 来制作基于 CLI 或控制台的工具。
-        它非常适合编译不同的目标系统。
+        I have zero regrets with living in this code base. […] This was sort of
+        an added bonus for me: Using Rust to make CLI or console based tools. It
+        is very good at compiling for different target systems.
 cli-production-habitat-attribution = &ndash; Fletcher Nichol,
-cli-production-habitat-link = 谈论在生产环境使用 Rust &ndash; RustFest Kyiv
+cli-production-habitat-link = Taking Rust to Production &ndash; RustFest Kyiv
 cli-production-habitat-img-alt = Habitat logo
