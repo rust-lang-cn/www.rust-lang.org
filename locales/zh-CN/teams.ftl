@@ -158,7 +158,7 @@ governance-team-wg-rustup-description = 设计和实现 Rustup
 governance-team-operations-name = 运营团队
 governance-team-operations-description = 处理版本发布，机器人和基础设施等等。
 
-governance-team-wg-nll-name = 非作用域生命周期（NLL）
+governance-team-wg-nll-name = 非词法作用域生命周期（NLL）
 governance-team-wg-nll-description = 实现新的基于 MIR 的借用检查系统和非词法作用域生命周期。
 
 governance-team-alumni-name = Rust 团队"校友"
