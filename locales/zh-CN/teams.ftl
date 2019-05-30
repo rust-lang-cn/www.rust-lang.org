@@ -14,7 +14,7 @@ governance-team-wg-bindgen-description = 开发用于生成 FFI 绑定的工具�
 governance-team-wg-cli-name = 命令行交互（CLI）工作组
 governance-team-wg-cli-description = 专注于用 Rust 编写大型/小型 CLI 应用的端到端体验。
 
-governance-team-ides-name = IDE和编辑器团队
+governance-team-ides-name = IDE 和编辑器团队
 governance-team-ides-description = IDE，编辑器以及一些支持工具诸如Racer和RLS。 
 
 governance-team-lang-name = 语言团队
