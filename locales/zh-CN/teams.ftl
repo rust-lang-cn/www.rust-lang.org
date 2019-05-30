@@ -29,7 +29,7 @@ governance-team-mods-description = 帮助维护代码行为准则
 governance-team-wg-learning-name = 教学
 governance-team-wg-learning-description = 通过确保rustc指南和api文档的"完整"来使得编译器的学习变得更简单
 
-governance-team-cargo-name = Cargo团队
+governance-team-cargo-name = Cargo 团队
 governance-team-cargo-description = 设计和实现Cargo
 
 governance-team-core-name = 核心team
