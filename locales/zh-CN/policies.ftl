@@ -11,5 +11,5 @@ policies-licenses-link = 许可证
 policies-media-guide-link = Logo 政策和媒体指南
 policies-security-link = 安全信息披露
 
-policies-reach-out-description = 没找到您要找的东西？有一个问题？请伸出援手！
+policies-reach-out-description = 没有找到您要找的内容？有一个问题？请联系我们！
 policies-reach-out-link = 给核心团队留言
