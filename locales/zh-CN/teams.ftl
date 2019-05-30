@@ -8,7 +8,7 @@ governance-team-wg-mir-opt-description = 编写 MIR 优化代码，重构 MIR �
 governance-team-wg-net-name = 网络工作组
 governance-team-wg-net-description = 专注于同步和异步网络代码的端对端体验，使其与本领域不断发展的生态相协调。
 
-governance-team-wg-bindgen-name = Bindgen工作组
+governance-team-wg-bindgen-name = 绑定生成器工作组
 governance-team-wg-bindgen-description = 用来生成FFI绑定的工具
 
 governance-team-wg-cli-name = 命令行交互(CLI)工作组
