@@ -9,7 +9,7 @@ governance-team-wg-net-name = 网络工作组
 governance-team-wg-net-description = 专注于同步和异步网络代码的端对端体验，使其与本领域不断发展的生态相协调。
 
 governance-team-wg-bindgen-name = 绑定生成器工作组
-governance-team-wg-bindgen-description = 用来生成FFI绑定的工具
+governance-team-wg-bindgen-description = 开发用于生成 FFI 绑定的工具。
 
 governance-team-wg-cli-name = 命令行交互(CLI)工作组
 governance-team-wg-cli-description = 专注于用Rust编写大型/小型CLI应用的端到端体验。
