@@ -23,7 +23,7 @@ governance-team-lang-description = 设计新的语言特性
 governance-team-clippy-name = Clippy
 governance-team-clippy-description = 设计和实现 Clippy linter
 
-governance-team-mods-name = 审核小组
+governance-team-mods-name = 审核团队
 governance-team-mods-description = 帮助维护代码行为准则
 
 governance-team-wg-learning-name = 教学
