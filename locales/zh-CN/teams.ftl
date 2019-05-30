@@ -155,7 +155,7 @@ governance-team-wg-meta-description = 编译器团队是如何管理组织自己
 governance-team-wg-rustup-name = Rustup 工作组
 governance-team-wg-rustup-description = 设计和实现 Rustup
 
-governance-team-operations-name = 运营团队
+governance-team-operations-name = 运维团队
 governance-team-operations-description = 处理版本发布，机器人和基础设施等等。
 
 governance-team-wg-nll-name = 非词法作用域生命周期（NLL）
