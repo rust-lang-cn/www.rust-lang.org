@@ -1,43 +1,43 @@
 # tools/index.hbs
 tools-editor-support-heading = 一流编辑器支持
-tools-editor-support-description = 无论你喜欢用命令行, 还是富图形编辑器, Rust都可以
-        与之整合. 甚至, 你可以自行编译
-        <a href="https://github.com/rust-lang/rls">Rust Language Server,/a>
+tools-editor-support-description = 无论你喜欢用命令行，还是富图形编辑器，Rust都可以
+        与之整合。甚至，你可以自行编译
+        <a href="https://github.com/rust-lang/rls">Rust Language Server,/a>。
 
 tools-build-heading = 构建以迅猛
-tools-build-description = Cargo用于构建Rust应用, 将常用命令集于一身, 而无需模板.
+tools-build-description = Cargo用于构建Rust应用，将常用命令集于一身，而无需模板。
 
 tools-build-install-heading = 安装
-tools-build-install-description = 库成千上百, 尽在<a href="https://crates.io">crates.io</a>.
-        立于巨人之肩, 你和团队将远离繁琐重复, 专注革新.
+tools-build-install-description = 库成千上百，尽在<a href="https://crates.io">crates.io</a>。
+        立于巨人之肩，您和团队将远离繁琐重复，专注革新。
         
 
 tools-build-test-heading = 测试
-tools-build-test-description = 有了rust的优秀测试工具, 你将对编码重拾信心. <code class="nowrap">cargo test</code>
-        是Rust的通用测试方案: 测试用例既可写在功能代码之后, 也可放在独立文件. 任你测试需求三千, 尽可满足.
+tools-build-test-description = 有了rust的优秀测试工具，你将对编码重拾信心。<code class="nowrap">cargo test</code>
+        是Rust的通用测试方案：测试用例既可写在功能代码之后，也可放在独立文件。任你测试需求三千，尽可满足。
 
 tools-build-deploy-heading = 部署
 tools-build-deploy-description = <code class="nowrap">cargo build</code> 
-        可为各平台构建精炼的可执行文件. 仅需一行命令, 就可以编译到WIndows, Linux, OSX, Web编译目标,
-        有了这些现代化构建接口, 无需为平台定制构建脚本.
+        可为各平台构建精炼的可执行文件。仅需一行命令，就可以编译到WIndows、Linux、OSX或Web编译目标。
+        有了这些现代化构建接口，无需为平台定制构建脚本。
 
 tools-automation-heading = 用自动化加速
-tools-automation-description = Rust的工业级工具集让协作更加无畏, 使团队更加专注于重要的任务
+tools-automation-description = Rust的工业级工具集让协作更加无畏，使团队更加专注于重要的任务。
 
 tools-automation-rustfmt-heading = Rustfmt
-tools-automation-rustfmt-description = Rustfmt自动格式化Rust代码, 代码更易读, 更易写, 更易维护.
-        最重要一点: 空格圣战, 左括号圣战再也挑不起来!
+tools-automation-rustfmt-description = Rustfmt自动格式化Rust代码，代码更易读，更易写，更易维护。
+        最重要一点：再也不需要为空格或者括号的问题争论。
 tools-automation-rustfmt-link = 项目仓库
 
 tools-automation-clippy-heading = Clippy
 tools-automation-clippy-description = <i>“It looks like you’re writing an
-        Iterator.”</i> <br> Clippy帮助开发者写出理想代码, 无论处于何种水平, 保证了规范.
+        Iterator.”</i> <br> Clippy帮助开发者写出理想代码，无论处于何种开发水平。这保证了代码规范。
 tools-automation-clippy-link = 项目仓库
 
 tools-automation-cargo-doc-heading = Cargo Doc
-tools-automation-cargo-doc-description = Cargo文档构建器从不忘记为API标注文档.
-        你既可以在本地浏览 <code class="nowrap">cargo doc</code>, 也可到
-        <a href="https://docs.rs">docs.rs</a>在线浏览公开库.
+tools-automation-cargo-doc-description = Cargo文档构建器从不忘记为API标注文档。
+        你既可以在本地浏览 <code class="nowrap">cargo doc</code>，也可到
+        <a href="https://docs.rs">docs.rs</a>在线浏览公开库。
 tools-automation-cargo-doc-link = 前往docs.rs
 
 
