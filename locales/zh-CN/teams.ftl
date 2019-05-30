@@ -2,7 +2,7 @@
 governance-team-wg-net-async-name = 基础异步工作组
 governance-team-wg-net-async-description = 我们的目标是将 async/await 引入到稳定的轨道上，为大家提供异步编程的文档。
 
-governance-team-wg-mir-opt-name = MIR优化小组
+governance-team-wg-mir-opt-name = MIR 优化小组
 governance-team-wg-mir-opt-description = 编写 MIR 优化代码，重构 MIR 以进行更彻底的优化。
 
 governance-team-wg-net-name = 网络工作组
