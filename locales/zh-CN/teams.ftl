@@ -15,7 +15,7 @@ governance-team-wg-cli-name = 命令行交互（CLI）工作组
 governance-team-wg-cli-description = 专注于用 Rust 编写大型/小型 CLI 应用的端到端体验。
 
 governance-team-ides-name = IDE 和编辑器团队
-governance-team-ides-description = IDE，编辑器以及一些支持工具诸如Racer和RLS。 
+governance-team-ides-description = IDE，编辑器以及诸如 Racer 和 RLS 的支持工具。 
 
 governance-team-lang-name = 语言团队
 governance-team-lang-description = 设计新的语言特性
