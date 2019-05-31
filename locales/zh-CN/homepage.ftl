@@ -1,6 +1,6 @@
 
 # index.hbs
-tagline =  让每个人都能构建出{ $linebreak }可靠而高效的软件。
+tagline =  一门赋予每个人都能构建出{ $linebreak }可靠且高效软件能力的语言。
 get-started = 入 门
 homepage-version = 版本 { $number }
 
