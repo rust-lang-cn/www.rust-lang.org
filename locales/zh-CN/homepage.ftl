@@ -54,7 +54,7 @@ domains-wasm-blurb = 使用 Rust 来增强 JavaScript，每次一个模块。发
 domains-wasm-alt = 带拼图元素的齿轮
 
 domains-net = 网络
-domains-net-blurb = 可预测的性能，极小的资源损耗，坚如磐石的可靠性。Rust 极其适合网络编程。
+domains-net-blurb = 可预测的性能，极小的资源损耗，坚如磐石的可靠性。Rust 极其适合网络服务。
 domains-net-alt = 带节点的云
 
 domains-embedded = 嵌入式
