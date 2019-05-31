@@ -18,7 +18,7 @@ production-testimonial-npm = 我对 Rust 最大的赞美就是它用起来平淡
 production-testimonial-npm-attribution = Chris Dickinson，来自 npm 公司的工程师
 production-testimonial-npm-alt = npm Logo
 
-production-testimonial-yelp = 所有的文档、工具和社区都相当棒——您拥有助您顺利编写 Rust 代码的所有工具。
+production-testimonial-yelp = 所有的文档、工具和社区都相当棒——您拥有以上一切资源来帮助您成功编写 Rust 代码。
 production-testimonial-yelp-attribution = Antonio Verardi，基础设施工程师
 production-testimonial-yelp-alt = Yelp Logo
 
