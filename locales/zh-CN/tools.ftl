@@ -34,7 +34,7 @@ tools-automation-clippy-description = <i>“似乎您在编写重复代码。”
 tools-automation-clippy-link = 前往项目仓库
 
 tools-automation-cargo-doc-heading = Cargo Doc
-tools-automation-cargo-doc-description = Cargo 文档构建器使得没有 API 不存在文档。
+tools-automation-cargo-doc-description = Cargo 文档构建器生成文档的功能强大而又便捷，所以没有 API 不存在文档的情况。
         您可以通过 <code class="nowrap">cargo doc</code> 将文档生成在本地，
         还可以通过 <a href="https://docs.rs">docs.rs</a> 在线获得公开 crate 的文档。
 tools-automation-cargo-doc-link = 前往 docs.rs
