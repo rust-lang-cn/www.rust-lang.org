@@ -1,44 +1,43 @@
 # tools/index.hbs
-tools-editor-support-heading = 一流编辑器支持
-tools-editor-support-description = 无论你喜欢用命令行，还是富图形编辑器，Rust都可以
-        与之整合。甚至，你可以自行编译
-        <a href="https://github.com/rust-lang/rls">Rust Language Server,/a>。
+tools-editor-support-heading = 拥有主流编辑器支持
+tools-editor-support-description = 无论你喜欢用命令行，还是可视化编辑器，你选用的编辑器都可以集成 Rust 的支持。
+        或者您也可以使用<a href="https://github.com/rust-lang/rls">Rust 语言服务（Rust Language Server，RLS）</a> 来构建自己的编辑器。
 
-tools-build-heading = 构建以迅猛
-tools-build-description = Cargo用于构建Rust应用，将常用命令集于一身，而无需模板。
+tools-build-heading = 良好的构建体验
+tools-build-description = Cargo 是 Rust 的构建工具，将常用命令集于一身，而无需引入其他命令。
 
 tools-build-install-heading = 安装
-tools-build-install-description = 库成千上百，尽在<a href="https://crates.io">crates.io</a>。
-        立于巨人之肩，您和团队将远离繁琐重复，专注革新。
+tools-build-install-description = <a href="https://crates.io">crates.io</a> 上拥有成千上万的软件包，您想要的解决方案在这里几乎都能找到。
+        站在巨人的肩膀上，让您的团队远离重复，专注创新。
         
 
 tools-build-test-heading = 测试
-tools-build-test-description = 有了rust的优秀测试工具，你将对编码重拾信心。<code class="nowrap">cargo test</code>
-        是Rust的通用测试方案：测试用例既可写在功能代码之后，也可放在独立文件。任你测试需求三千，尽可满足。
+tools-build-test-description = 利用 Rust 出色的测试工具，您做得到对代码充满信心。<code class="nowrap">cargo test</code>
+        是 Rust 统一的测试方案。测试代码既可写在功能代码之后，也可放在独立文件，这提供了一个解决方案针对所有的测试需求。
 
 tools-build-deploy-heading = 部署
 tools-build-deploy-description = <code class="nowrap">cargo build</code> 
-        可为各平台构建精炼的可执行文件。仅需一行命令，就可以编译到WIndows、Linux、OSX或Web编译目标。
-        有了这些现代化构建接口，无需为平台定制构建脚本。
+        可为各个平台构建精炼的可执行文件。仅需一行命令，您的代码就可以针对 Windows、Linux、macOS 和 Web 进行编译。
+        支持全部现代平台接口，不需要定制构建文件。
 
-tools-automation-heading = 用自动化加速
-tools-automation-description = Rust的工业级工具集让协作更加无畏，使团队更加专注于重要的任务。
+tools-automation-heading = 利用自动化加速
+tools-automation-description = Rust 的工业级工具使协作勇往直前，让团队专注于重要的任务。
 
 tools-automation-rustfmt-heading = Rustfmt
-tools-automation-rustfmt-description = Rustfmt自动格式化Rust代码，代码更易读，更易写，更易维护。
-        最重要一点：再也不需要为空格或者括号的问题争论。
-tools-automation-rustfmt-link = 项目仓库
+tools-automation-rustfmt-description = Rustfmt 自动格式化 Rust 代码，使代码更容易阅读、编写和维护。
+        最重要一点：再也不需要为空格或大括号位置的问题争论。
+tools-automation-rustfmt-link = 前往项目仓库
 
 tools-automation-clippy-heading = Clippy
-tools-automation-clippy-description = <i>“It looks like you’re writing an
-        Iterator.”</i> <br> Clippy帮助开发者写出理想代码，无论处于何种开发水平。这保证了代码规范。
-tools-automation-clippy-link = 项目仓库
+tools-automation-clippy-description = <i>“看起来您正在编写重复代码。”</i><br>
+        Clippy 帮助开发者编写出惯用代码并强制执行标准，无论开发者处于何种开发水平。
+tools-automation-clippy-link = 前往项目仓库
 
 tools-automation-cargo-doc-heading = Cargo Doc
 tools-automation-cargo-doc-description = Cargo文档构建器从不忘记为API标注文档。
-        你既可以在本地浏览 <code class="nowrap">cargo doc</code>，也可到
-        <a href="https://docs.rs">docs.rs</a>在线浏览公开库。
-tools-automation-cargo-doc-link = 前往docs.rs
+        您可以通过 <code class="nowrap">cargo doc</code> 将文档生成在本地，
+        还可以通过 <a href="https://docs.rs">docs.rs</a> 在线获得公开 crate 的文档。
+tools-automation-cargo-doc-link = 前往 docs.rs
 
 
 # tools/install.hbs
