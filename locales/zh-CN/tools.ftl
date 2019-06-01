@@ -12,7 +12,7 @@ tools-build-install-description = <a href="https://crates.io">crates.io</a> 上�
         
 
 tools-build-test-heading = 测试
-tools-build-test-description = 利用 Rust 出色的测试工具，您做得到对代码充满信心。<code class="nowrap">cargo test</code>
+tools-build-test-description = 利用 Rust 出色的测试工具，您将对代码充满信心。<code class="nowrap">cargo test</code>
         是 Rust 统一的测试方案。测试代码既可写在功能代码之后，也可放在独立文件，这提供了一个解决方案针对所有的测试需求。
 
 tools-build-deploy-heading = 部署
@@ -25,16 +25,16 @@ tools-automation-description = Rust 的工业级工具使协作勇往直前，�
 
 tools-automation-rustfmt-heading = Rustfmt
 tools-automation-rustfmt-description = Rustfmt 自动格式化 Rust 代码，使代码更容易阅读、编写和维护。
-        最重要一点：再也不需要为空格或大括号位置的问题争论。
+        最重要一点：再也不需要为空格或大括号位置问题争论。
 tools-automation-rustfmt-link = 前往项目仓库
 
 tools-automation-clippy-heading = Clippy
-tools-automation-clippy-description = <i>“看起来您正在编写重复代码。”</i><br>
+tools-automation-clippy-description = <i>“似乎您在编写重复代码。”</i><br>
         Clippy 帮助开发者编写出惯用代码并强制执行标准，无论开发者处于何种开发水平。
 tools-automation-clippy-link = 前往项目仓库
 
 tools-automation-cargo-doc-heading = Cargo Doc
-tools-automation-cargo-doc-description = Cargo文档构建器从不忘记为API标注文档。
+tools-automation-cargo-doc-description = Cargo 文档构建器使得没有 API 不存在文档。
         您可以通过 <code class="nowrap">cargo doc</code> 将文档生成在本地，
         还可以通过 <a href="https://docs.rs">docs.rs</a> 在线获得公开 crate 的文档。
 tools-automation-cargo-doc-link = 前往 docs.rs
