@@ -1,54 +1,43 @@
 # tools/index.hbs
-tools-editor-support-heading = First-class editor support
-tools-editor-support-description = Whether you prefer working with code from the
-        command line, or using rich graphical editors, there’s a Rust
-        integration available for your editor of choice. Or you can build your
-        own using the <a href="https://github.com/rust-lang/rls">Rust Language Server,/a>
+tools-editor-support-heading = 拥有主流编辑器支持
+tools-editor-support-description = 无论你喜欢用命令行，还是可视化编辑器，你选用的编辑器都可以集成 Rust 的支持。
+        或者您也可以使用<a href="https://github.com/rust-lang/rls">Rust 语言服务（Rust Language Server，RLS）</a> 来构建自己的编辑器。
 
-tools-build-heading = Bring calmness to your builds
-tools-build-description = Cargo is the build tool for Rust. It bundles all
-        common actions into a single command. No boilerplate required.
+tools-build-heading = 良好的构建体验
+tools-build-description = Cargo 是 Rust 的构建工具，将常用命令集于一身，而无需引入其他命令。
 
-tools-build-install-heading = Install
-tools-build-install-description = With tens of thousands of packages, there’s a
-        good chance <a href="https://crates.io">crates.io</a> has the solution
-        you’re looking for. Stand on the shoulders of giants, and move your team
-        from repetition to innovation.
+tools-build-install-heading = 安装
+tools-build-install-description = <a href="https://crates.io">crates.io</a> 上拥有成千上万的软件包，您想要的解决方案在这里几乎都能找到。
+        站在巨人的肩膀上，让您的团队远离重复，专注创新。
+        
 
-tools-build-test-heading = Test
-tools-build-test-description = Bring confidence to your code through Rust’s
-        excellent testing tools. <code class="nowrap">cargo test</code> is
-        Rust’s unified solution to testing. Write tests next to your code, or in
-        separate files: it provides a solution for all testing needs.
+tools-build-test-heading = 测试
+tools-build-test-description = 利用 Rust 出色的测试工具，您将对代码充满信心。<code class="nowrap">cargo test</code>
+        是 Rust 统一的测试方案。测试代码既可写在功能代码之后，也可放在独立文件，这提供了一个解决方案针对所有的测试需求。
 
-tools-build-deploy-heading = Deploy
-tools-build-deploy-description = <code class="nowrap">cargo build</code> creates
-        lean binaries for every platform. With a single command your code can
-        target Windows, Linux, OSX, and the web. All part of a modern interface,
-        with no need for bespoke build files.
+tools-build-deploy-heading = 部署
+tools-build-deploy-description = <code class="nowrap">cargo build</code> 
+        可为各个平台构建精炼的可执行文件。仅需一行命令，您的代码就可以针对 Windows、Linux、macOS 和 Web 进行编译。
+        支持全部现代平台接口，不需要定制构建文件。
 
-tools-automation-heading = Velocity through automation
-tools-automation-description = Rust’s industry-grade tools make collaboration
-        fearless, allowing teams to focus on the tasks that matter.
+tools-automation-heading = 利用自动化加速
+tools-automation-description = Rust 的工业级工具使协作勇往直前，让团队专注于重要的任务。
 
 tools-automation-rustfmt-heading = Rustfmt
-tools-automation-rustfmt-description = Rustfmt automatically formats Rust code,
-        making it easier to read, write, and maintain. And most importantly:
-        never debate spacing or brace position ever again.
-tools-automation-rustfmt-link = Go to repo
+tools-automation-rustfmt-description = Rustfmt 自动格式化 Rust 代码，使代码更容易阅读、编写和维护。
+        最重要一点：再也不需要为空格或大括号位置问题争论。
+tools-automation-rustfmt-link = 前往项目仓库
 
 tools-automation-clippy-heading = Clippy
-tools-automation-clippy-description = <i>“It looks like you’re writing an
-        Iterator.”</i> <br> Clippy helps developers of all experience levels
-        write idiomatic code, and enforce standards.
-tools-automation-clippy-link = Go to repo
+tools-automation-clippy-description = <i>“似乎您在编写重复代码。”</i><br>
+        Clippy 帮助开发者编写出惯用代码并强制执行标准，无论开发者处于何种开发水平。
+tools-automation-clippy-link = 前往项目仓库
 
 tools-automation-cargo-doc-heading = Cargo Doc
-tools-automation-cargo-doc-description = Cargo’s doc builder makes it so no API
-        ever goes undocumented. It’s available locally through
-        <code class="nowrap">cargo doc</code>, and online for public crates
-        through <a href="https://docs.rs">docs.rs</a>.
-tools-automation-cargo-doc-link = Go to site
+tools-automation-cargo-doc-description = Cargo 文档构建器生成文档的功能强大而又便捷，所以没有 API 不存在文档的情况。
+        您可以通过 <code class="nowrap">cargo doc</code> 将文档生成在本地，
+        还可以通过 <a href="https://docs.rs">docs.rs</a> 在线获得公开 crate 的文档。
+tools-automation-cargo-doc-link = 前往 docs.rs
 
 
 # tools/install.hbs
