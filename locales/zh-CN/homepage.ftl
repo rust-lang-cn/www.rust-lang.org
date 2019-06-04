@@ -1,12 +1,12 @@
 
 # index.hbs
 tagline =  一门赋予每个人{ $linebreak }构建可靠且高效软件能力的语言。
-get-started = 入 门
+get-started = 快速开始
 homepage-version = 版本 { $number }
 
 # components/panels/production.hbs
 production-title = 在生产环境中使用 Rust
-production-blurb = 全世界已有数百家公司在生产环境中使用 Rust，以达到快速、节省资源、跨平台的目的。
+production-blurb = 全世界已有数百家公司在生产环境中使用 Rust，以达到快速、跨平台、更少资源占用的目的。
          其中包括很多著名且受欢迎的软件，例如 <a href="https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/">Firefox</a>、
          <a href="https://blogs.dropbox.com/tech/2016/06/lossless-compression-with-brotli/">Dropbox</a>
          和 <a href="https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/">Cloudflare</a>
@@ -14,11 +14,11 @@ production-blurb = 全世界已有数百家公司在生产环境中使用 Rust�
 
 production-learn-more = 了解更多
 
-production-testimonial-npm = 我对 Rust 最大的赞美就是它用起来平淡无奇，这是令人惊叹的赞美。
+production-testimonial-npm = 我对 Rust 最大的赞美，就是它太让人无聊了，这是令人惊叹的赞美！
 production-testimonial-npm-attribution = Chris Dickinson，来自 npm 公司的工程师
 production-testimonial-npm-alt = npm Logo
 
-production-testimonial-yelp = 所有的文档、工具和社区都相当棒——您拥有以上一切资源来帮助您成功编写 Rust 代码。
+production-testimonial-yelp = 文档、工具和社区都相当棒！足以帮助您顺利完成 Rust 项目。
 production-testimonial-yelp-attribution = Antonio Verardi，基础设施工程师
 production-testimonial-yelp-alt = Yelp Logo
 
@@ -26,16 +26,15 @@ production-testimonial-yelp-alt = Yelp Logo
 language-values-why-rust = 为什么使用 Rust？
 
 language-values-performance = 性能
-language-values-performance-blurb = Rust 速度异常快且内存利用率极高：没有运行时和垃圾回收器。
-          Rust 能胜任性能要求特别高的服务，能运行在嵌入式设备上，并能轻松与其他语言集成。
+language-values-performance-blurb = Rust 速度极快，内存利用率极高。Rust 没有运行时和垃圾回收器，能胜任性能要求特别高的服务，可运行于嵌入式设备之上，并且能轻松和其他语言集成。
 
 language-values-reliability = 可靠性
 language-values-reliability-blurb = Rust 丰富的类型系统和所有权模型保证了内存安全和线程安全，让您在编译期能够消除各种各样错误。
 
 language-values-productivity = 生产力
 language-values-productivity-blurb = Rust 拥有出色的文档、友好的编译器和清晰的错误提示信息，
-          还有一流的工具&mdash;&mdash;集成的包管理器和构建工具，
-          带有智能的自动补全和类型检验的多编辑器支持，以及自动格式化程序等等。
+          还有一流的工具——集成的包管理器和构建工具，
+          带有智能自动补全和类型检验的多编辑器支持，以及自动格式化程序等等。
 
 # components/panels/domains.hbs
 domains-title = 使用 Rust 构建应用
@@ -50,7 +49,7 @@ domains-cli-alt = 终端
 
 domains-wasm = WebAssembly
 domains-wasm-blurb = 使用 Rust 来增强 JavaScript，每次一个模块。发布到 npm，
-          使用 webpack 打包，然后你就可以感受到惊人的速度了。
+          使用 webpack 打包，然后您就可以感受到惊人的速度了。
 domains-wasm-alt = 带拼图元素的齿轮
 
 domains-net = 网络
@@ -58,7 +57,7 @@ domains-net-blurb = 可预测的性能，极小的资源损耗，坚如磐石的
 domains-net-alt = 带节点的云
 
 domains-embedded = 嵌入式
-domains-embedded-blurb = 针对资源匮乏的设备？需要低级控制而又不能放弃高级的便利性？那么 Rust 绝对让您满意。
+domains-embedded-blurb = 针对资源匮乏的设备？需要底层控制而又不失上层抽象的便利？那么 Rust 绝对让您满意。
 domains-embedded-alt = 嵌入式设备芯片
 
 # components/panels/get-involved.hbs
