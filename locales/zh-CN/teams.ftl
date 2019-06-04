@@ -27,7 +27,7 @@ governance-team-mods-name = 审核团队
 governance-team-mods-description = 帮助维护代码行为准则
 
 governance-team-wg-learning-name = 教学
-governance-team-wg-learning-description = 确保 rustc 指南和 API 文档的“完整行”，让学习编译器变得更简单。
+governance-team-wg-learning-description = 确保 rustc 指南和 API 文档的“完整”，让学习编译器变得更简单。
 
 governance-team-cargo-name = Cargo 团队
 governance-team-cargo-description = 设计和实现 Cargo
@@ -119,7 +119,7 @@ governance-team-community-description = 协调并支持活动，运营 RustBridg
 governance-team-wg-pgo-name = 基于剖析结果的优化
 governance-team-wg-pgo-description = 为 rustc 实现基于剖析结果的优化。
 
-governance-team-reference-name = 参考团队
+governance-team-reference-name = 参考手册团队
 governance-team-reference-description = 编写 rust 参考手册。
 
 governance-team-wg-traits-name = Traits
