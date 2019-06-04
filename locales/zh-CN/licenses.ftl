@@ -2,19 +2,18 @@
 
 ## templates/policies/licenses.hbs
 
-licenses-page-heading = Licenses
+licenses-page-heading = 许可证
 
-licenses-license-heading = License
-licenses-license-general-description =
-        The Rust Programming Language and all other official projects, including this website, are generally dual-licensed:
-licenses-apache-v-2-0-link = Apache License, Version 2.0
-licenses-mit-link = MIT license
+licenses-license-heading = 许可证
+licenses-license-general-description = Rust 程序设计语言和所有其他官方项目，包括本网站，通常都采取双重许可：
+licenses-apache-v-2-0-link = Apache 2.0 许可证
+licenses-mit-link = MIT 许可证
 licenses-license-specific-description =
-        <p>Specific licensing info for each project can be found in its GitHub Repository.</p>
-        <p>Third-party logos may be subject to third-party copyrights and trademarks, and are not available under the same license as the rest of the Rust website.</p>
-        <p>If you have a specific question or concern about how the Rust project or any of its associated projects are licensed, please contact the Rust Core Team.</p>
-licenses-license-email-link = Email The Core Team
+        <p>每个项目的特定许可信息都可以在其 GitHub 仓库中找到。</p>
+        <p>第三方 logo 可能受其版权和商标的约束，不适用于 Rust 网站其他内容的许可。</p>
+        <p>如果您有一些具体问题，或者关心 Rust 项目或任何相关项目是如何获得许可的，请联系 Rust 核心团队。</p>
+licenses-license-email-link = 给核心团队发邮件
 
-licenses-attribution-heading = Attribution
+licenses-attribution-heading = 属性
 licenses-attribution-description =
-        Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>, licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC-3.0-BY</a>
+        图标由来自 <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> 的 <a href="http://www.freepik.com" title="Freepik">Freepik</a> 制作，遵循 <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC-3.0-BY</a> 许可协议。
