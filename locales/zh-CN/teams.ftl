@@ -146,8 +146,8 @@ governance-team-wg-self-profile-description = 改进“-Z self-profile”功能�
 governance-team-mods-discord-name = Discord 管理员
 governance-team-mods-discord-description = 管理 Discord 服务器
 
-governance-team-rust-by-example-name = 《跟着例子学 Rust》团队
-governance-team-rust-by-example-description = 维护并更新《跟着例子学 Rust》
+governance-team-rust-by-example-name = 《通过例子学 Rust》团队
+governance-team-rust-by-example-description = 维护并更新《通过例子学 Rust》
 
 governance-team-wg-meta-name = Meta
 governance-team-wg-meta-description = 编译器团队是如何管理组织自己的
