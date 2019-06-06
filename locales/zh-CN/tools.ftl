@@ -1,7 +1,9 @@
 # tools/index.hbs
 tools-editor-support-heading = 拥有主流编辑器支持
-tools-editor-support-description = 无论你喜欢用命令行，还是可视化编辑器，你选用的编辑器都可以集成 Rust 的支持。
-        或者您也可以使用<a href="https://github.com/rust-lang/rls">Rust 语言服务（Rust Language Server，RLS）</a> 来构建自己的编辑器。
+tools-editor-support-description = 无论您喜欢用命令行，还是可视化编辑器，
+        您选用的编辑器都可以集成 Rust 的支持。或者您也可以使用
+        <a href="https://github.com/rust-lang/rls">Rust 语言服务
+        （Rust Language Server，RLS）</a> 来构建自己的编辑器。
 
 tools-build-heading = 良好的构建体验
 tools-build-description = Cargo 是 Rust 的构建工具，将常用命令集于一身，而无需引入其他命令。
@@ -9,14 +11,14 @@ tools-build-description = Cargo 是 Rust 的构建工具，将常用命令集于
 tools-build-install-heading = 安装
 tools-build-install-description = <a href="https://crates.io">crates.io</a> 上拥有成千上万的软件包，您想要的解决方案在这里几乎都能找到。
         站在巨人的肩膀上，让您的团队远离重复，专注创新。
-        
+
 
 tools-build-test-heading = 测试
 tools-build-test-description = 利用 Rust 出色的测试工具，您将对代码充满信心。<code class="nowrap">cargo test</code>
         是 Rust 统一的测试方案。测试代码既可写在功能代码之后，也可放在独立文件，这提供了一个解决方案针对所有的测试需求。
 
 tools-build-deploy-heading = 部署
-tools-build-deploy-description = <code class="nowrap">cargo build</code> 
+tools-build-deploy-description = <code class="nowrap">cargo build</code>
         可为各个平台构建精炼的可执行文件。仅需一行命令，您的代码就可以针对 Windows、Linux、macOS 和 Web 进行编译。
         支持全部现代平台接口，不需要定制构建文件。
 
@@ -34,7 +36,8 @@ tools-automation-clippy-description = <i>“似乎您在编写重复代码。”
 tools-automation-clippy-link = 前往项目仓库
 
 tools-automation-cargo-doc-heading = Cargo Doc
-tools-automation-cargo-doc-description = Cargo 文档构建器生成文档的功能强大而又便捷，所以没有 API 不存在文档的情况。
+tools-automation-cargo-doc-description = Cargo 文档构建器生成文档的功能强大而又便捷，
+        因此没有 API 不存在文档的情况。
         您可以通过 <code class="nowrap">cargo doc</code> 将文档生成在本地，
         还可以通过 <a href="https://docs.rs">docs.rs</a> 在线获得公开 crate 的文档。
 tools-automation-cargo-doc-link = 前往 docs.rs
@@ -47,12 +50,12 @@ install-using-rustup-heading = 使用 Rustup （推荐）
 
 install-notes-heading = Rust 安装笔记
 
-install-notes-getting-started-heading = 入门
-install-notes-getting-started-description = 如果你刚开始学习 Rust 并想了解更多细节，请查阅
-        <a href="{{baseurl}}/learn/get-started">入门</a>页面。
+install-notes-getting-started-heading = 快速开始
+install-notes-getting-started-description = 如果您刚开始学习 Rust 并想了解更多细节，
+        请阅读<a href="{{baseurl}}/learn/get-started">快速开始</a>页面。
 
 install-notes-rustup-heading = 用 <code>Rustup</code> 管理工具链
-install-notes-rustup-description = 
+install-notes-rustup-description =
         <p>
           Rust 由工具
           <a href="https://github.com/rust-lang/rustup.rs"><code>rustup</code></a>
@@ -65,7 +68,7 @@ install-notes-rustup-description =
           支持安装由 beta 和 nightly 频道发布的版本，并支持其他用于交叉编译的编译版本。
         </p>
         <p>
-          如果你曾安装过 <code>rustup</code>，你可以执行 <code>rustup update</code>
+          如果您曾安装过 <code>rustup</code>，您可以执行 <code>rustup update</code>
           以升级 Rust。
         </p>
         <p>
@@ -75,7 +78,7 @@ install-notes-rustup-description =
         </p>
 
 install-notes-path-heading = 配置 <code>PATH</code> 环境变量
-install-notes-path-description = 
+install-notes-path-description =
         <p>
           在 Rust 开发环境中，所有工具安装在
           <span class="platform-specific not-win di">
@@ -83,7 +86,7 @@ install-notes-path-description =
           </span>
           <span class="platform-specific win dn">
             <code>%USERPROFILE%\.cargo\bin</code>
-          </span> 目录下，在这里你会找到 Rust 工具链，
+          </span> 目录下，在这里您会找到 Rust 工具链，
           包括 <code>rustc</code>， <code>cargo</code> 以及 <code>rustup</code>。
         </p>
         <p>
