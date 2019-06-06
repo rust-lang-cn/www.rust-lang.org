@@ -1,14 +1,11 @@
 ### Translation file for page: https://www.rust-lang.org/what/cli
 
-
 ## templates/what/cli.hbs
 
-cli-page-heading = Command-line apps
+what-cli-page-title = Command-line apps
 
 
 ## templates/components/what/cli/pitch.hbs
-
-cli-pitch-heading = Why Rust?
 
 cli-pitch-solid-img-alt = Shield with a checkmark
 cli-pitch-solid-heading = Solid and quick
@@ -73,7 +70,6 @@ cli-maintainable-refactoring-link = Refactoring Rust
 
 ## templates/components/what/cli/example.hbs
 
-cli-example-heading = Get started!
 cli-example-description = Writing a command-line app is a great way to learn Rust.
 cli-example-inputs-heading = Define your inputs
 cli-example-main-heading = Write your tool
@@ -81,8 +77,6 @@ cli-example-link = Learn more with the CLI book
 
 
 ## templates/components/what/cli/production.hbs
-
-cli-production-heading = Production use
 
 cli-production-sentry-img-alt = sentry logo
 cli-production-sentry-quote =

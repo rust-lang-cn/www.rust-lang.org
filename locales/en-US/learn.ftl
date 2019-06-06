@@ -1,6 +1,6 @@
 ## learn/index.hbs
 
-learn-learn-rust = Learn Rust
+learn-page-title = Learn Rust
 learn-begin = Get started with Rust
 
 learn-book = Affectionately nicknamed “the book,” <cite>The Rust Programming Language</cite> will give you an overview of the language from first principles. You’ll build a few projects along the way, and by the end, you’ll have a solid grasp of the language.
@@ -16,7 +16,7 @@ learn-doc-heading = Read the core documentation
 learn-doc = All of this documentation is also available locally using the <code>rustup doc</code> command, which will open up these resources for you in your browser without requiring a network connection!
 
 learn-doc-std = Comprehensive guide to the Rust standard library APIs.
-learn-doc-std-button = The standard 
+learn-doc-std-button = The standard library
 
 learn-doc-edition = Guide to the Rust editions.
 learn-doc-edition-button = Edition Guide
@@ -64,7 +64,8 @@ learn-unstable-button = Read the unstable book
 
 ## learn/get-started.hbs
 
-learn-setup-heading = Getting started
+learn-get-started-page-title = { getting-started }
+
 learn-setup = Quickly set up a Rust development environment and write a small app!
 
 learn-install-heading = Installing Rust
@@ -137,3 +138,4 @@ learn-ferris = <p>Ferris is the unofficial mascot of the Rust Community. Many Ru
                <p>Ferris is a name playing off of the adjective, “ferrous,” meaning of or pertaining to iron. Since Rust often forms on iron, it seemed like a fun origin for our mascot’s name!</p>
                <p>You can find more images of Ferris on <a href="http://rustacean.net/">http://rustacean.net/</a>.
 learn-ferris-alt = a gif of ferris scurrying side to side
+
