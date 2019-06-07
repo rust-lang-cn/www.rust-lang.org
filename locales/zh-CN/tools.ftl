@@ -1,4 +1,7 @@
-# tools/index.hbs
+## tools/index.hbs
+
+tools-page-title = 工具
+
 tools-editor-support-heading = 拥有主流编辑器支持
 tools-editor-support-description = 无论您喜欢用命令行，还是可视化编辑器，
         您选用的编辑器都可以集成 Rust 的支持。或者您也可以使用
@@ -11,7 +14,6 @@ tools-build-description = Cargo 是 Rust 的构建工具，将常用命令集于
 tools-build-install-heading = 安装
 tools-build-install-description = <a href="https://crates.io">crates.io</a> 上拥有成千上万的软件包，您想要的解决方案在这里几乎都能找到。
         站在巨人的肩膀上，让您的团队远离重复，专注创新。
-
 
 tools-build-test-heading = 测试
 tools-build-test-description = 利用 Rust 出色的测试工具，您将对代码充满信心。<code class="nowrap">cargo test</code>
@@ -43,7 +45,7 @@ tools-automation-cargo-doc-description = Cargo 文档构建器生成文档的功
 tools-automation-cargo-doc-link = 前往 docs.rs
 
 
-# tools/install.hbs
+## tools/install.hbs
 install-page-heading = 安装 Rust
 
 install-using-rustup-heading = 使用 Rustup （推荐）
@@ -124,4 +126,27 @@ install-notes-windows-description =
 install-other-methods-heading = 其他安装方式
 install-other-methods-description = 上述使用 <code>rustup</code> 的 Rust 安装方式
         对于大多数 Rust 开发者来说是最适合的。然而，Rust 也可以通过其他方式安装。
-install-other-methods-link = 更多
+install-other-methods-link = 了解更多
+
+## components/tools/rustup.hbs
+
+tools-rustup-unixy = 您似乎正在运行 macOS、Linux 或其它类 Unix 系统。要下载 Rustup 并安装 Rust，请在终端中运行以下命令，然后遵循屏幕上的指示。
+tools-rustup-windows = 您似乎正在运行 Windows。要安装 Rust，请下载并运行以下程序，然后遵循屏幕上的指示。
+tools-rustup-wsl-heading = Windows 的 Linux 子系统（WSL）
+tools-rustup-wsl = 如果您是 Windows 的 Linux 子系统（WSL）用户，要安装 Rust，请在终端中运行以下命令，然后遵循屏幕上的指示。
+tools-rustup-unknown = Rust 可在 Windows、Linux、macOS、FreeBSD 和 NetBSD 上运行。如果您在这些平台上看到了本条信息，请报告一个问题并附上以下内容：
+tools-rustup-report = 报告问题
+tools-rustup-manual-unixy = 如果您正在运行 Unix，要安装 Rust，<br>请在终端中运行以下命令，然后遵循屏幕上的指示。
+tools-rustup-manual-windows = 如果您正在运行 Windows，<br>请下载并运行 <a href="https://win.rustup.rs">rustup‑init.exe</a>，然后遵循屏幕上的指示。
+tools-rustup-manual-default = 如果您正在运行 WSL、Linux 或 macOS 等类-Unix 系统，要安装 Rust，<br>请在终端中运行以下命令，然后遵循屏幕上的指示。
+tools-rustup-manual-default-windows = 如果您正在运行 Windows，<br>请下载并运行 <a href="https://win.rustup.rs">rustup‑init.exe</a>，然后遵循屏幕上的指示。
+
+## components/tools/editors.hbs
+
+tools-editor-vscode = VS Code
+tools-editor-sublime = Sublime Text 3
+tools-editor-atom = Atom
+tools-editor-idea = IntelliJ IDEA
+tools-editor-eclipse = Eclipse
+tools-editor-vim = Vim
+tools-editor-emacs = Emacs
