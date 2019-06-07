@@ -60,9 +60,9 @@ learn-reference = 参考手册并非正式的语言规范，但它比“圣经�
 learn-reference-button = 阅读参考手册
 
 learn-nomicon-alt = 双手捧火
-learn-nomicon = 《Rust 爱恨者手册》是不安全 Rust 的黑魔法指南。它有时被称作“爱恨者手册”。
-learn-nomicon-button = 阅读爱恨者手册
-# nomicon 表示一种爱恨交加的状态，Rustonomicon 表示对 Rust 爱恨交加的人。译法取自《Unix 痛恨者手册》
+learn-nomicon = 《Rust 秘密之书》是不安全 Rust 的黑魔法指南。它有时被称作“秘密之书”。
+learn-nomicon-button = 阅读秘密之书
+### 参考 https://www.quora.com/What-does-the-word-suffix-onomicon-mean
 
 learn-unstable-alt = 手洒星光
 learn-unstable = 不稳定特性手册中包含了您只能在 Nightly 版 Rust 中使用的不稳定特性的文档。
