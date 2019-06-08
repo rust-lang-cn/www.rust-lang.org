@@ -11,7 +11,7 @@ cli-pitch-solid-img-alt = 带有复选标记的盾牌
 cli-pitch-solid-heading = 坚如磐石且速度惊人
 cli-pitch-solid-description = 即便只是编写简短的一次性脚本，
         您也能确信它是快速且易于测试的，并可以提供有用的输出。
-cli-pitch-solid-link = Rust的保证
+cli-pitch-solid-link = Rust 的保证
 
 cli-pitch-ship-img-alt = 带有复选标记的箱子
 cli-pitch-ship-heading = 易于分发
@@ -69,7 +69,7 @@ cli-example-link = 阅读命令行指南了解更多信息
 
 ## templates/components/what/cli/production.hbs
 
-cli-production-sentry-img-alt = Sentry的logo
+cli-production-sentry-img-alt = Sentry 的 logo
 cli-production-sentry-quote =
         我们喜欢 Rust 的一个原因是 crates.io 的生态。[......]
         这有很多超棒的的基础设施来用于构建强大的命令行界面。
@@ -81,5 +81,5 @@ cli-production-habitat-quote =
         使用 Rust 来编写基于命令行或控制台的工具给我带来很大的好处，
         它针对不同的目标系统进行编译非常方便。
 cli-production-habitat-attribution = &ndash; Fletcher Nichol,
-cli-production-habitat-link = 把Rust带进生产环境 &ndash; RustFest Kyiv大会
-cli-production-habitat-img-alt = Habitat的logo
+cli-production-habitat-link = 把 Rust 带进生产环境 &ndash; RustFest Kyiv大会
+cli-production-habitat-img-alt = Habitat 的 logo
