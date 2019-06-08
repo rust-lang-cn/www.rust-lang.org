@@ -37,3 +37,4 @@ coc-moderation-description =
         <p>The enforcement policies listed above apply to all official Rust venues; including Discord channels (https://discord.gg/rust-lang); GitHub repositories under rust-lang, rust-lang-nursery, and rust-lang-deprecated; and all forums under rust-lang.org (users.rust-lang.org, internals.rust-lang.org). For other projects adopting the Rust Code of Conduct, please contact the maintainers of those projects for enforcement. If you wish to use this code of conduct for your own project, consider explicitly mentioning your moderation policy or making a copy with your own moderation policy so as to avoid confusion.</p>
         <p><i>Adapted from the <a href="http://blog.izs.me/post/30036893703/policy-on-trolling">Node.js Policy on Trolling</a> as well as the <a href="https://www.contributor-covenant.org/version/1/3/0/">Contributor Covenant v1.3.0</a>.</i></p>
 
+coc-moderation-description-team-anchor-text = Rust moderation team
