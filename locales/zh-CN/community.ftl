@@ -21,8 +21,8 @@ community-irlo = Rust 内部论坛是开发者们讨论 Rust 编程语言自身�
             语言设计以及标准库的相关工作。
 
 community-chat-header = 聊天平台
-community-chat =  Rust 的开发，以及日常的讨论通常是在一些聊天平台上面。可以浏览 
-            Discord Rust 服务器的相关频道，或者浏览团队主页寻找专门的团队会议。
+community-chat =  Rust 的开发和日常讨论通常是在一些聊天平台上面。可以浏览 
+            Discord Rust 服务器的相关频道，或者访问团队主页寻找专门的团队会议。
 
 community-teams-learn = 了解关于团队的更多信息
 
@@ -60,9 +60,9 @@ community-rustbridge-rbr-alt = RustBridge 在 Rust Belt Rust
 
 community-irr-header = 与日俱增的 Rust 影响力
 community-irr = 与日俱增的 Rust 影响力是一个计划，它将来自项目各个部分的 Rust 团队与 Rust 社区和
-          技术行业中具有代表性的个人相匹配，达成从 3 月中旬到 8 月中旬，为期三个月的合作伙伴关系。每个合作
-          伙伴承诺进行每周工作 3-5 小时的Rust项目的工作。
-community-irr-button = 浏览网站
+          技术行业中具有代表性的个人相匹配，达成从 3 月中旬到 8 月中旬，为期三个月的合作伙伴关系。
+          每个合作伙伴承诺进行每周工作 3-5 小时的Rust项目的工作。
+community-irr-button = 访问网站
 
 community-standards-header = 社区准则
 community-standards =
