@@ -14,7 +14,7 @@ community-where = 交流平台
 community-urlo-header = 用户论坛
 community-urlo = Rust 用户论坛是 Rust 用户交流任何与 Rust 相关内容的地方。
             在这里您可以提问，分享项目创意，或者做任何想做的事情！
-community-discourse-button = 浏览论坛
+community-discourse-button = 访问论坛
 
 community-irlo-header = 内部论坛
 community-irlo = Rust 内部论坛是开发者们用于讨论 Rust 编程语言自身开发的地方。话题包括编译器、
