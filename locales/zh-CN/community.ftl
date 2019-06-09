@@ -46,7 +46,7 @@ community-event-run =
           </p>
 community-events-repo = 查看活动团队 Github
 community-event-register = 注册活动
-community-rustfest-alt = Rustfest participants
+community-rustfest-alt = Rustfest 与会者
 
 community-rustbridge-header = Rustbridge
 community-rustbridge = RustBridge 是一个研讨会，专注于让具有不同编程语言背景的人学习Rust并加入社区。
