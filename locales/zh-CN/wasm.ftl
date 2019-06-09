@@ -64,19 +64,19 @@ wasm-production-cloudflare-alt = cloudflare 标志
 wasm-production-cloudflare-quote =
         我们可将 Rust 编译成 WASM，并从 Serverless 功能中调用它，将其编织到互联网的结构中。它的潜力巨大，我迫不及待地想要用它做更多的事情。
 wasm-production-cloudflare-attribution =
-        Steven Pack, <a href="{ $href }">Serverless Rust with Cloudflare Workers</a>
+        Steven Pack，<a href="{ $href }">Serverless Rust 与 Cloudflare Workers</a>
 
 wasm-production-mozilla-alt = firefox
 # If an opening square bracket is the first character on a line, it must be escaped like this: {"["}. See https://projectfluent.org/fluent/guide/special.html
 wasm-production-mozilla-quote =
-        （<code>source-map</code> 库的）JavaScript 实现以性能的名义积累了大量复杂的代码，
+        {"["}<code>source-map</code> 库的] JavaScript 实现以性能的名义积累了大量复杂的代码，
         而我们将它替换为惯用的 Rust。Rust 不会强迫我们在明确地表达意图和运行时性能之间做出选择。
 wasm-production-mozilla-attribution =
-        Nick Fitzgerald, <a href="{ $href }">Oxidizing Source Maps with Rust and WebAssembly</a>
+        Nick Fitzgerald，<a href="{ $href }">用 Rust 和 WebAssembly “氧化” Source Maps</a>
 
 wasm-production-dropbox-alt = dropbox
 # If an opening square bracket is the first character on a line, it must be escaped like this: {"["}. See https://projectfluent.org/fluent/guide/special.html
 wasm-production-dropbox-quote =
-        （Rust 的）性质让它很容易通过 WASM 将 DivANS 的编解码器嵌入到 Web 页面中，如前文所述。
+        {"["}Rust 的]性质让它很容易通过 WASM 将 DivANS 的编解码器嵌入到 Web 页面中，如前文所述。
 wasm-production-dropbox-attribution =
-        Daniel Reiter Horn and Jongmin Baek, <a href="{ $href }">Building Better Compression Together with DivANS</a>
+        Daniel Reiter Horn and Jongmin Baek，<a href="{ $href }">用 DivANS 构建更好的压缩</a>
