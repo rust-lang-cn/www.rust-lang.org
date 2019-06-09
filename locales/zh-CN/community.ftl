@@ -3,7 +3,7 @@
 community-page-title = 社区
 community-blurb = Rust 具有很多优秀的品质，但是 Rust 最具竞争力的一点是自发汇聚到社区，
           并且持续为 Rust 贡献的精益求精的工作的开发者们。
-community-twir = 和 Rust 社区保持联系！
+community-twir = 了解 Rust 社区最新动态！
 community-twir-button = Rust 本周热点
 community-team-contact = 我们期待听到您的意见！不知道在哪里、向谁提问？想参与到其中
           但是无从入手？社区团队很乐意将您与能提供帮助的人建立联系！
