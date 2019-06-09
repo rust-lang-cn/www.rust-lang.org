@@ -2,79 +2,79 @@
 ### templates/policies/media-guide.hbs
 
 ## Page title
-media-guide-page-heading = Media guide
+media-guide-page-heading = 媒体使用手册
 
 ## Art license
-media-guide-art-license-heading = Art license
-media-guide-art-license-description = 
-        <p>The Rust and Cargo logos (bitmap and vector) are owned by Mozilla and distributed under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license (CC-BY)</a>. This is the most permissive Creative Commons license, and allows reuse and modifications for any purpose. The restrictions are that distributors must “give appropriate credit, provide a link to the license, and indicate if changes were made.” <strong>Note that use of these logos, and the Rust and Cargo names, is also governed by trademark; our trademark policy is described below</strong>.</p>
+media-guide-art-license-heading = 艺术作品许可
+media-guide-art-license-description =
+        <p>Rust 和 Cargo 图标（位图和矢量图）为 Mozilla 所有，按照<a href="https://creativecommons.org/licenses/by/4.0/deed.zh">创作共用-署名（CC-BY）</a>许可协议分发。这是最宽松的创作共用许可协议，它允许用于任何目的的重用和修改，其限制是分发者必须“给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。”<strong>注意，这些图标和 Rust 与 Cargo 名字的使用均受商标法管辖。我们的商标政策见下</strong>。</p>
 
 ## Trademark policy
-media-guide-trademark-policy-heading = Trademark policy
-media-guide-trademark-policy-description = 
-        <p>The Rust and Cargo names and brands make it possible to say what is officially part of the Rust community, and what isn’t. So we’re careful about where we allow them to appear. But at the same time, we want to allow for as much creative use of these brands as we can. The policy laid out here explains how we strike a balance. If you want to use these names or brands, especially in a commercial way, please read this page or feel free to <a href="mailto:trademark@rust-lang.org">reach out</a> and ask us about it!</p>
-        <p><b>TL;DR</b>: Most non-commercial uses of the Rust/Cargo names and logos are allowed and do not require permission; most commercial uses require permission. In either case, the most important rule is that uses of the trademarks cannot appear official or imply any endorsement by the Rust project.</p>
-        <p>If you have any doubts about whether your intended use of a Rust Trademark requires permission, please contact us at <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a>.</p>
-        <p>This document was derived in part from the <a href="https://www.python.org/psf/trademarks/">Python Software Foundation Trademark Usage Policy</a>. This document is not an official statement of Mozilla trademark policy, but serves to clarify Mozilla’s trademark policy as it relates to Rust.</p>
+media-guide-trademark-policy-heading = 商标政策
+media-guide-trademark-policy-description =
+        <p>Rust 和 Cargo 的名字和品牌让我们可以指明哪些属于 Rust 社区官方，哪些不属于。我们对它们可以出现的地方十分小心。但与此同时，我们希望尽可能多地创造性地使用这些品牌。这里制定的政策解释了我们如何平衡二者。如果您想要使用这些名字或品牌，特别是以商业的形式，请阅读本页或随时<a href="mailto:trademark@rust-lang.org">联系我们</a>询问相关事宜。</p>
+        <p><b>简而言之：</b>大部分 Rust/Cargo 的名字和徽标的非商业性使用都是允许的，无需申请授权；大部分商业性的使用需要申请授权。对于其他情况而言，最重要的规则是商标的使用不能明示或暗示受到 Rust 项目的任何认可。</p>
+        <p>如果您对 Rust 商标的预期用途是否需要申请授权有任何疑问，请通过 <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> 与我们联系。</p>
+        <p>本文档部分源于 <a href="https://www.python.org/psf/trademarks/">Python 软件基金会商标使用政策</a>。本文档并非 Mozilla 商标政策的官方声明，但有助于澄清 Mozilla 的商标政策与 Rust 之间的关系。</p>
 
 ## The Rust trademarks
-media-guide-rust-trademarks-heading = The Rust trademarks
-media-guide-rust-trademarks-description = 
-        <p>The Rust programming language is an open source, community project governed by a core team. It is also sponsored by the Mozilla Foundation (“Mozilla”), which owns and protects the Rust and Cargo trademarks and logos (the “Rust Trademarks”). This document provides information about use of the Rust Trademarks specific to a programming language, as well as examples of common ways people might want to use these trademarks, with explanations as to whether those uses are OK or not or require permission. This document supplements the <a href="https://www.mozilla.org/foundation/trademarks/policy/">official Mozilla trademark policy</a> which governs use of all Mozilla trademarks.</p>
-        <p>The Rust Trademarks include two word marks and two logos:</p>
+media-guide-rust-trademarks-heading = Rust 商标
+media-guide-rust-trademarks-description =
+        <p>Rust 编程语言是一个开源的，由核心团队管理的社区项目。它也受到了 Mozilla 基金会（下称“Mozilla”）的赞助，Mozilla 拥有并保护 Rust 和 Cargo 的商标和徽标（下称“Rust 商标”）。本文档提供了关于特指编程语言时使用 Rust 商标的信息，以及人们可能希望使用这些商标的常见方式的示例，这些用途是否正确或是否需要申请授权的说明。本文档补充了 <a href="https://www.mozilla.org/foundation/trademarks/policy/">Mozilla 官方商标政策</a>，该政策管辖了所有 Mozilla 商标的使用。</p>
+        <p>Rust 商标包含两个文字标记和两个徽标：</p>
         <ul>
           <li>Rust</li>
           <li>Cargo</li>
           <li><img src="/logos/rust-logo-blk.svg" alt="{ media-guide-rust-trademarks-rust-img-alt }"></li>
           <li><img src="/logos/cargo.png" alt="{ media-guide-rust-trademarks-cargo-img-alt }"></li>
         </ul>
-        <p>Trademarks are names and designs that tell the world the source of a good or service. Protecting trademarks for an open source project is particularly important. Anyone can change the source code and produce a product from that code, so it’s important that only the original product, or variations that have been approved by the project, use the project’s trademarks. By limiting use of the Rust Trademarks, Mozilla and the Rust project can help users and developers know they’re getting the product produced by the Rust project and not someone else’s modified version. The trademark assures users and developers of the quality and safety of the product they’re using.</p>
-media-guide-rust-trademarks-rust-img-alt = rust logo
-media-guide-rust-trademarks-cargo-img-alt = cargo logo
+        <p>这些商标的名字和设计用来告诉世界物品或服务的来源，因此保护开源项目的商标尤为重要。任何人都可以更改其源代码并用其代码生产产品，因此确保只有原始产品或项目批准的变体才能使用项目的商标十分重要。按照 Rust 商标的使用限制，Mozilla 和 Rust 项目可以帮助用户和开发者知晓他们获取的是 Rust 项目生产的产品，而非其他人的修改版。商标确保了用户和开发者使用的产品的质量和安全性。</p>
+media-guide-rust-trademarks-rust-img-alt = rust 徽标
+media-guide-rust-trademarks-cargo-img-alt = cargo 徽标
 
 
 ## Using the trademarks
-media-guide-tm-use-heading = Using the trademarks
+media-guide-tm-use-heading = 使用商标
 
-media-guide-tm-use-appearance-heading = Appearing official, affiliated, or endorsed
-media-guide-tm-use-appearance-description = 
-        <p>The most basic rule is that the Rust trademarks cannot be used in ways that appear (to a casual observer) official, affiliated, or endorsed by the Rust project or Mozilla, unless you have written permission from the Rust core team. This is the fundamental way we protect users and developers from confusion.</p>
-        <p>Since this rule is about managing perception, it is subjective and somewhat difficult to nail down concretely. There are some obvious ways to avoid problems, like including the word “unofficial” in a very prominent way, but if you have any doubts, we would be more than happy to help; just send an e-mail to <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a>.</p>
+media-guide-tm-use-appearance-heading = 官方出现，从属或认可
+media-guide-tm-use-appearance-description =
+        <p>最基本的原则是，除非得到了 Rust 核心团队的书面授权，否则从普通人的视角来看，Rust 商标不得以官方、附属或由 Rust 项目或 Mozilla 认可的方式使用。这是我们保护用户和开发者免于混淆的基本方式。</p>
+        <p>由于此规则是关于管理认知的，因此它是主观的，有些难以界定。有一些直观的方法可以避免问题，例如以非常突出的方式包括“非官方”一词。但如果您有任何疑问，我们非常乐意提供帮助，只需发送邮件至 <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> 询问即可。</p>
 
-media-guide-tm-use-basics-heading = The basics: referring to Rust/Cargo
+media-guide-tm-use-basics-heading = 基本用法：指代 Rust/Cargo
 media-guide-tm-use-basics-description =
-        <p>As with any trademark, the Rust and Cargo word marks can be used with minimal restriction to refer to the Rust programming language and the Cargo package manager and registry.</p>
-        <p>They may not be used:</p>
+        <p>与其它商标一样，Rust 和 Cargo 文字标记能够以最少的限制指代 Rust 编程语言和 Cargo 包管理器及其仓储。</p>
+        <p>它们不能用于：</p>
         <ul>
-          <li>to refer to any other programming language;</li>
-          <li>in a way that is misleading or may imply association of unrelated modules, tools, documentation, or other resources with the Rust programming language;</li>
-          <li>in ways that confuse the community as to whether the Rust programming language is open source and free to use.</li>
+          <li>指代其它任何编程语言；</li>
+          <li>以某种方式误导或暗示无关模块、工具、文档或其它资源与 Rust 编程语言之间的关联；</li>
+          <li>以某种方式使社区混淆 Rust 编程语言是否开源并且可以免费使用。</li>
         </ul>
 
-media-guide-tm-use-implicit-approval-heading = Uses that do not require explicit approval
+media-guide-tm-use-implicit-approval-heading = 无需明确批准的用途
 media-guide-tm-use-implicit-approval-description =
-        <p>There are a variety of uses that do not require explicit approval. <strong>However, in all of the cases outlined below, you must ensure that use of the Rust trademarks does not appear official, as explained above.</strong></p>
+        <p>有很多用途无需明确的批准。<strong>然而，在以下列出的所有情况中，您必须确保 Rust 商标的使用不会出现“官方”字样，如上所述。</strong></p>
         <ul>
-          <li>Stating accurately that software is written in the Rust programming language, that it is compatible with the Rust programming language, or that it contains the Rust programming language, is allowed. In those cases, you may use the Rust trademarks to indicate this, without prior approval. This is true both for non-commercial and commercial uses.</li>
-          <li>Using the Rust trademarks in the names of non-commercial products like RustPostgres or Rustymine, or in the name of code repositories in e.g. GitHub, is allowed when referring to use with or suitability for the Rust programming language. Such uses may also include the Rust logo, even in modified form. For commercial products (including crowdfunded or sponsored ones), please check in at <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> to ensure your use does not appear official.</li>
-          <li>Using the Rust trademarks on t-shirts, hats, and other artwork or merchandise, even in modified form, is allowed for your personal use or for use by a small group of community members, as long as they are not sold. If you want to distribute merchandise with Rust Trademarks at a Rust affiliated event, please contact us for permission at <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a>.</li>
-          <li>Using the Rust trademarks (even in modified form) for social events like meetups, tutorials, and the like is allowed for events that are free to attend. For commercial events (including sponsored ones), please check in at <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a>. However, the words “RustCamp,” “RustCon” or “RustConf” cannot be used without explicit permission. And, as with all of the above uses, the <strong>event cannot appear to be officially endorsed or run by the Rust project</strong> without written permission.</li>
-          <li>Using the Rust trademarks in books or publications like “Rust Journal” or “Rust Cookbook” is allowed.</li>
-          <li>Using of the word “Rust” on websites, brochures, documentation, academic papers, books, and product packaging to refer to the Rust programming language or the Rust project is allowed.</li>
+          <li>准确地声明该软件用 Rust 编程语言编写，兼容 Rust 编程语言，或包含 Rust 编程语言是允许的。在这些情况下，您可以使用 Rust 商标来指明这些而无需事先申请批准。这点均适用于非商业和商业的使用。</li>
+          <li>在非商业产品中使用 Rust 商标，如 RustPostgres 或 Rustymine，或者在如 GitHub 代码库的名字中使用，指出配合 Rust 编程语言使用或适用于 Rust 编程语言均是允许的。这类使用也可以包含 Rust 图标，即便以修改过的形式。对于商业产品（包括众筹或被赞助的），请向 <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> 登记以确保你的使用没有出现“官方”字样。</li>
+          <li>在T恤衫、帽子和其它艺术品或商品上，只要它们不被销售，即便以修改过的形式使用 Rust 商标，对于个人或小社区成员团体的使用也是允许的。如果您想在 Rust 附属的活动中分发带有 Rust 商标的商品请通过 <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> 联系我们申请授权。</li>
+          <li>对于免费参加的活动，使用 Rust 商标（即便以修改过的形式）进行聚会，教学等社交活动也是允许的。对于商业活动（包括受赞助的），请通过 <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> 登记。不过，文字“RustCamp”“RustCon”和“RustConf”没有明确授权不允许使用。此外，与上述所有用途一样，若没有书面授权，<strong>活动不能被声明为官方认可或由 Rust 项目举办</strong>。</li>
+          <li>在书籍或出版物，如“Rust Journal”或“Rust Cookbook”中使用 Rust 商标是允许的。</li>
+          <li>在网站、小册子、文档、学术论文、书籍和产品包装上使用文字“Rust”来指代 Rust 编程语言是允许的。</li>
         </ul>
 
-media-guide-tm-use-explicit-approval-heading = Uses that require explicit approval
+media-guide-tm-use-explicit-approval-heading = 需要明确批准的用途
 media-guide-tm-use-explicit-approval-description =
         <ul>
-          <li>Distributing a modified version of the Rust programming language or the Cargo package manager and calling it Rust or Cargo requires explicit, written permission from the Rust core team. We will usually allow these uses as long as the modifications are (1) relatively small and (2) very clearly communicated to end-users.</li>
-          <li>Selling t-shirts, hats, and other artwork or merchandise requires explicit, written permission from the Rust core team. We will usually allow these uses as long as (1) it is clearly communicated that the merchandise is not in any way an official part of the Rust project and (2) it is clearly communicated whether profits benefit the Rust project.</li>
-          <li>Using the Rust trademarks within another trademark requires written permission from the Rust core team except as described above.</li>
+          <li>分发 Rust 编程语言或 Cargo 包管理器的修改版并称之为 Rust 或 Cargo 需要来自 Rust 核心团队的明确的，书面的授权。我们通常会允许这些用途，只要这些修改 (1) 相对较小 (2) 非常清楚地传达给最终用户。</li>
+          <li>销售T恤衫、帽子和其它艺术品或商品需要来自 Rust 核心团队的明确的，书面的授权。我们通常会允许这些用途，只要 (1) 清楚地传达出该商品并非以任何方式作为 Rust 项目官方的部分且 (2) 清楚地传达出其利润得益于 Rust 项目。</li>
+          <li>除以上描述外，在其它商标中使用 Rust 商标仍需来自 Rust 核心团队的书面授权。</li>
         </ul>
 
 ## Helping out
-media-guide-helping-out-heading = Helping out
+media-guide-helping-out-heading = 获得帮助
 media-guide-helping-out-description =
-        <p>As a member of the Rust community, please keep an eye out for questionable uses of the Rust logo and “Rust” word mark. You can report potential misuse to <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a>. We will evaluate each case and take appropriate action.</p>
-        <p>Please do not approach users of the trademarks with a complaint. That should be left to Mozilla and its representatives. Thanks!</p>
-        <p>If you have a specific question or concern about promoting Rust or using its trademarks, please contact the Rust Core Team.</p>
-media-guide-helping-out-link = Email The Core Team
+        <p>作为 Rust 社区的成员，请留意可疑的 Rust 徽标和“Rust”文字标记的使用。你可以向 <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> 报告可疑的滥用。我们会评估每一种情况并采取相应的措施。</p>
+        <p>请勿通过投诉与商标使用者联系。这应留给 Mozilla 及其代表。 谢谢！</p>
+        <p>如果您对推广 Rust 或使用其商标方面有特别的问题或疑虑，请联系 Rust 核心团队。</p>
+media-guide-helping-out-link = 电邮至 Rust 核心团队
