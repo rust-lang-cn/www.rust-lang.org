@@ -44,24 +44,24 @@ community-event-run =
             注册您的活动有助于我们持续跟踪社区的影响力，
             并能让我们为您与当地的演讲者和其他成员建立联系。
           </p>
-community-events-repo = 查看活动团队 Github
+community-events-repo = 查看活动团队的 Github
 community-event-register = 注册活动
 community-rustfest-alt = Rustfest 与会者
 
 community-rustbridge-header = Rustbridge
-community-rustbridge = RustBridge 是一个研讨会，专注于让具有不同编程语言背景的人学习Rust并加入社区。
-community-rustbridge-button = 查看 Rustbridge Github
+community-rustbridge = RustBridge 是一个研讨会，专注于让具有不同编程语言背景的人学习 Rust 并加入社区。
+community-rustbridge-button = 查看 Rustbridge 的 Github
 
 community-rustbridge-rustconf-alt = RustBridge 在 RustConf 大会
-community-rustbridge-paris-alt = 巴黎 RustBridge
-community-rustbridge-berlin-alt = RustBridge Berlin
-community-rustbridge-rbr-alt = RustBridge at Rust Belt Rust
+community-rustbridge-paris-alt = RustBridge 巴黎
+community-rustbridge-berlin-alt = RustBridge 柏林
+community-rustbridge-rbr-alt = RustBridge 在 Rust Belt Rust
 
 
 community-irr-header = 与日俱增的 Rust 影响力
-community-irr =   与日俱增的 Rust 影响力是一个程序，它将来自项目各个部分的 Rust 团队与 Rust 社区和
-          技术行业中具有代表性的个人进行匹配，达成从3月中旬到8月中旬为期三个月的合作伙伴关系。每个合作
-          伙伴承诺进行每周工作3-5小时的Rust项目的工作。
+community-irr = 与日俱增的 Rust 影响力是一个计划，它将来自项目各个部分的 Rust 团队与 Rust 社区和
+          技术行业中具有代表性的个人相匹配，达成从 3 月中旬到 8 月中旬，为期三个月的合作伙伴关系。每个合作
+          伙伴承诺进行每周工作 3-5 小时的Rust项目的工作。
 community-irr-button = 浏览网站
 
 community-standards-header = 社区准则
