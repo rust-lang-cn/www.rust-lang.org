@@ -59,7 +59,7 @@ community-rustbridge-rbr-alt = RustBridge at Rust Belt Rust
 
 
 community-irr-header = 与日俱增的 Rust 影响力
-community-irr = Increasing Rust's Reach 是一个程序，它将来自项目各个部分的 Rust 团队与 Rust 社区和
+community-irr =   与日俱增的 Rust 影响力是一个程序，它将来自项目各个部分的 Rust 团队与 Rust 社区和
           技术行业中具有代表性的个人进行匹配，达成从3月中旬到8月中旬为期三个月的合作伙伴关系。每个合作
           伙伴承诺进行每周工作3-5小时的Rust项目的工作。
 community-irr-button = 浏览网站
