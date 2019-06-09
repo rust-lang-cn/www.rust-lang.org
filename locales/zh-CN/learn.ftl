@@ -1,6 +1,6 @@
 ## learn/index.hbs
 
-learn-learn-rust = 学习 Rust
+learn-page-title = 学习 Rust
 learn-begin = 开启您的 Rust 之旅
 
 learn-book = <strong>《Rust 程序设计语言》</strong>被亲切地称为“圣经”。本书从基本原则出发，给出了
