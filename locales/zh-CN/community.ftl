@@ -67,7 +67,7 @@ community-irr-button = 浏览网站
 community-standards-header = 社区准则
 community-standards =
         我们致力于建设一个对每个人都友好、安全以及开放的环境，无关性别、性取向、残障、种族、
-        地区或者类似的个人特征。我们在所有的官方论坛制定了<a href="{ $url }">行为准则</a> 。
+        地区或者类似的个人特征。我们在所有的官方论坛制定了<a href="{ $url }">行为准则</a>。
         <br /><br />
         如果您觉得被某个社区成员骚扰或者令您感到不适，请立即联系任何
         <a href="mailto:rust-mods@rust-lang.org">Rust 审查团队</a> 的成员。无论您是贡献者还是新人，
