@@ -74,5 +74,5 @@ community-standards =
         我们会关注于社区对您的安全。
 
 community-mod-button = 联系审查团队
-community-coc-button = 阅读行为守则
+community-coc-button = 阅读《行为准则》
 community-mod-guidelines-button = 阅读《审查指南》
