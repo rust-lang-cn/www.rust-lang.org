@@ -11,32 +11,32 @@ what-embedded-page-title = 嵌入式设备
 embedded-pitch-analysis-alt = 显微镜
 embedded-pitch-analysis-heading = 强大的静态分析
 embedded-pitch-analysis-description =
-        在编译时强制要求引脚和外设配置。保证资源不会被你的应用程序中的部分意外地使用。
+        在编译时强制要求引脚和外设配置，以确保资源不会被您应用程序中非预期的部分使用。
 
 embedded-pitch-memory-alt = 内存条
-embedded-pitch-memory-heading = 灵活内存管理
+embedded-pitch-memory-heading = 灵活的内存管理
 embedded-pitch-memory-description =
-        动态内存分配是可选的。选用全局分配器和动态数据结构。也可以不采用堆而全部静态分配。
+        动态内存分配是可选的。可使用全局分配器和动态数据结构，也可以不采用堆而全部静态分配。
 
 embedded-pitch-concurrency-alt = 齿轮
 embedded-pitch-concurrency-heading = 无畏并发
 embedded-pitch-concurrency-description =
-        Rust 让线程间意外的状态共享变得不可能发生。你既能使用你喜欢的任何并发途径，同时又能获得 Rust 提供的有力保障。
+        Rust 使得线程之间不可能意外地共享状态。您既能使用喜欢的任意并发方式，同时又能获得 Rust 提供的强力保障。
 
 embedded-pitch-interop-alt = 握手
 embedded-pitch-interop-heading = 互操作性
 embedded-pitch-interop-description =
-        集成 Rust 语言到你现有的 C 语言代码库中或者桥接一个现有的 SDK 包来创作一个 Rust 应用程序。
+        将Rust集成到现有的 C 代码库中，或者利用现有的 SDK 编写 Rust 应用程序。
 
 embedded-pitch-portability-alt = 行李推车
 embedded-pitch-portability-heading = 可移植性
 embedded-pitch-portability-description =
-        只要写一次库或驱动，就能在各种系统中使用它——从非常小的微控制器到强大的单板计算机都可以直接使用。
+        只需要一次性编写库或驱动，就能在各种系统中使用它。不管是非常小的微控制器，还是强大的单板计算机，都可直接使用。
 
 embedded-pitch-community-alt = 盾牌标志
 embedded-pitch-community-heading = 社区驱动
 embedded-pitch-community-description =
-        作为 Rust 开源项目的一部分，对嵌入式系统的支持由同类中最好的开源社区驱动，由商业合作伙伴提供支持。
+        作为 Rust 开源项目的一部分，嵌入式系统由一流的并拥有商业伙伴支持的开源社区驱动。
 
 embedded-learn-more-link = 了解更多
 
@@ -46,29 +46,29 @@ embedded-learn-more-link = 了解更多
 embedded-showcase-heading = 展示用例
 
 embedded-showcase-quote =
-        “当我偶然遇到 Mozilla 出品的 Rust 语言时，我特别激动。Rust 是一门新的编程语言，口号是‘安全，快速，并发 &ndash; 三样都要’。它也有一个令人充满信心的未来，和一个强大的，专注的用户社区。”
+        “当我偶遇由 Mozilla 出品的 Rust 语言时，我特别激动。Rust 是一门新的编程语言，口号是 ’安全，快速，并发 &ndash; 三者兼顾‘。它还拥有一个可靠的未来，以及一个强大且专注的用户社区。”
 embedded-showcase-quote-attribution =
         &ndash; Jonathan Pallant, 高级顾问, Cambridge Consultants
 embedded-showcase-see-more-link = 查看更多
 
 embedded-showcase-video-description =
-        <a href="https://vimeo.com/224912526">《用 Rust 使未来变得安全》</a> 由 <a href="https://vimeo.com/cambridgeconsultants">Cambridge Consultants</a> 在 <a href="https://vimeo.com">Vimeo</a> 平台上发表。
+        <a href="https://vimeo.com/224912526">《用 Rust 保卫未来》</a> 由 <a href="https://vimeo.com/cambridgeconsultants">Cambridge Consultants</a> 在 <a href="https://vimeo.com">Vimeo</a> 平台上发表。
 
 
 ## Get started! (templates/components/what/embedded/get-started.hbs)
 
 embedded-get-started-discovery-book-alt = DIP-6 包
-embedded-get-started-discovery-book-heading = 《探索》之书
+embedded-get-started-discovery-book-heading = 《探索之书》
 embedded-get-started-discovery-book-description =
         从零开始学习嵌入式开发 &mdash; 使用 Rust 语言！
 
 embedded-get-started-embedded-rust-book-alt = TFQP-16 包
-embedded-get-started-embedded-rust-book-heading = 《嵌入式 Rust》之书
+embedded-get-started-embedded-rust-book-heading = 《嵌入式 Rust之书》
 embedded-get-started-embedded-rust-book-description =
         已经对嵌入式开发很熟悉了？立刻上手 Rust 来开始获取额外优势。
 
 embedded-get-started-embedonomicon-alt = BGA 包
-embedded-get-started-embedonomicon-heading = 《嵌入式秘典》之书
+embedded-get-started-embedonomicon-heading = 《嵌入式秘典》
 embedded-get-started-embedonomicon-description =
         探究基础性嵌入式开发库的工作原理。
 
@@ -86,7 +86,7 @@ embedded-testimonials-sensirion-attribution =
 
 embedded-testimonials-airborne-alt = Airborne Engineering Ltd 标志
 embedded-testimonials-airborne-quote =
-        在 Airborne Engineering Ltd，我们最近用 Rust 语言写了以太网启动加载器，<a href="https://github.com/airborneengineering/blethrs">blethrs</a>，用于我们的内部数据采集系统。<b>Rust 是一门有前途的语言，我们对于将它用于我们未来的项目，不管是嵌入式项目还是其他项目，都感到兴奋。</b>
+        在 Airborne Engineering Ltd，我们最近用 Rust 语言写了以太网启动加载器，<a href="https://github.com/airborneengineering/blethrs">blethrs</a>，用于内部数据采集系统。<b>Rust 是一门有前途的语言，我们对于将它用于未来无论是嵌入式还是其他类的项目，都感到兴奋。</b>
 embedded-testimonials-airborne-attribution =
         &ndash; Dr. Adam Greig, 仪器工程师, Airborne Engineering Ltd.
 
@@ -94,12 +94,12 @@ embedded-testimonials-49nord-alt = 49nord 标志
 
 # "Fluent" requires a square bracket which is the first character of a line to be escaped like this: {"["} See https://projectfluent.org/fluent/guide/special.html
 embedded-testimonials-49nord-quote =
-        { "[" }Rust] 让我们可以超乎想象的又快又好地将软件推向市场。由于 Rust，我们可以将内存安全看得理所当然，同时带有复杂类型系统的零开销语言所带来的其他好处帮助我们开发可维护的软件。<b>Rust 既让我们的客户变得快乐，也让我们的工程师变得快乐。</b>
+        { "[" }Rust] 使得我们可以比想象中更快、更健壮的软件推向市场。感谢 Rust，让我们将内存安全看得理所当然，同时带有复杂类型系统的零开销语言所带来的其他好处，帮助我们开发出了可维护的软件。<b>Rust 既让我们的客户变得快乐，也让我们的工程师变得快乐。</b>
 embedded-testimonials-49nord-attribution =
         &ndash; Marc Brinkmann, CEO, 49nord
 
 embedded-testimonials-terminal-tech-alt = Terminal Technologies 标志
 embedded-testimonials-terminal-tech-quote =
-        嵌入式领域往往被认为没有语言可以替代 C/C++，<b>我们认为在嵌入式领域我们能够使用一门现代化的不错的语言真的很酷</b>
+        以往，在嵌入式领域被认为 C/C++ 是不可替代的选择。<b>但现在，我们认为在嵌入式领域能够使用一门现代化的优秀语言真的很爽</b>
 embedded-testimonials-terminal-tech-attribution =
         &ndash; Aleksei Arbuzov, 高级软件工程师, Terminal Technologies
