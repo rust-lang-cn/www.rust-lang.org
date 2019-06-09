@@ -1,7 +1,7 @@
 ## templates/community/index.hbs
 
 community-page-title = 社区
-community-blurb = Rust 具有很多优秀的品质，但是 Rust 最具竞争力的一点是自发汇聚到社区
+community-blurb = Rust 具有很多优秀的品质，但是 Rust 最具竞争力的一点是自发汇聚到社区，
           的开发者们持续为 Rust 贡献的精益求精的工作。
 community-twir = 和 Rust 社区保持联系！
 community-twir-button = Rust 本周热点
