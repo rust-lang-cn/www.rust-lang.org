@@ -34,7 +34,7 @@ community-meetup = 我们有超过 90 个聚会和几个世界级的会议，遍
 community-calendar = 查看日程
 community-conference-lineup = 查看 2019 会议阵容
 
-community-event-run-header = 开始您的活动
+community-event-run-header = 举办您的活动
 community-event-run =
           <p>
             Rust 正在发展壮大，我们很高兴能帮助人们开始他们自己的当地活动。
