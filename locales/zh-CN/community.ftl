@@ -70,7 +70,7 @@ community-standards =
         地区或者类似的个人特征。我们在所有的官方论坛制定了<a href="{ $url }">行为准则</a>。
         <br /><br />
         如果您觉得被某个社区成员骚扰或者令您感到不适，请立即联系
-        <a href="mailto:rust-mods@rust-lang.org">Rust 审查团队</a> 的成员。无论您是贡献者还是新人，
+        <a href="mailto:rust-mods@rust-lang.org">Rust 审查团队</a> 的任何成员。无论您是贡献者还是新人，
         我们会为您创造一个安全的社区空间。
 
 community-mod-button = 联系审查团队
