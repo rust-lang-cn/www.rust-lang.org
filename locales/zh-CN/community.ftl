@@ -9,7 +9,7 @@ community-team-contact = 我们期待听到您的意见！不知道在哪里、�
           但是无从入手？社区团队很乐意将您与能提供帮助的人建立联系！
 community-team-button = 发送邮件至： { ENGLISH("community@rust-lang.org") }
 
-community-where = 在哪里交流
+community-where = 交流平台
 
 community-urlo-header = 用户论坛
 community-urlo = Rust 用户论坛是 Rust 用户用于交流任何 Rust 相关的地方。
