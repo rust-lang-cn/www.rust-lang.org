@@ -53,7 +53,7 @@ community-rustbridge = RustBridge 是一个研讨会，专注于让具有不同�
 community-rustbridge-button = 查看 Rustbridge Github
 
 community-rustbridge-rustconf-alt = RustBridge at RustConf
-community-rustbridge-paris-alt = RustBridge Paris
+community-rustbridge-paris-alt = 巴黎 RustBridge
 community-rustbridge-berlin-alt = RustBridge Berlin
 community-rustbridge-rbr-alt = RustBridge at Rust Belt Rust
 
