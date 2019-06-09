@@ -5,7 +5,7 @@ community-blurb = Rust 具有很多优秀的品质，但是 Rust 最具竞争力
           并且持续为 Rust 贡献的精益求精的工作的开发者们。
 community-twir = 和 Rust 社区保持联系！
 community-twir-button = Rust 本周热点
-community-team-contact = 我们期待听到您的声音！不知道在哪里、向谁提问？想参与到其中
+community-team-contact = 我们期待听到您的意见！不知道在哪里、向谁提问？想参与到其中
           但是无从入手？社区团队迫不及待等您的参与！
 community-team-button = 发送邮件至： { ENGLISH("community@rust-lang.org") }
 
