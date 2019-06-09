@@ -24,7 +24,7 @@ community-chat-header = 聊天平台
 community-chat =  Rust 的开发，以及日常的讨论通常是在一些聊天平台上面。可以浏览 
             Discord Rust 服务器的相关频道，或者浏览团队主页寻找专门的团队会议。
 
-community-teams-learn = 更多团队
+community-teams-learn = 了解更多关于团队的信息
 
 community-events-header = 活动
 community-meetup-header = 寻找线下聚会和会议
