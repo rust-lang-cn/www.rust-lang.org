@@ -12,7 +12,7 @@ community-team-button = 发送邮件至： { ENGLISH("community@rust-lang.org") 
 community-where = 交流平台
 
 community-urlo-header = 用户论坛
-community-urlo = Rust 用户论坛是 Rust 用户用于交流任何与 Rust 相关内容的地方。
+community-urlo = Rust 用户论坛是 Rust 用户交流任何与 Rust 相关内容的地方。
             在这里您可以咨询问题、分享项目创意。
 community-discourse-button = 浏览论坛
 
