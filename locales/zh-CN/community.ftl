@@ -75,4 +75,4 @@ community-standards =
 
 community-mod-button = 联系审查团队
 community-coc-button = 阅读行为守则
-community-mod-guidelines-button = 阅读审核规范 
+community-mod-guidelines-button = 阅读《审查指南》
