@@ -11,7 +11,7 @@ what-wasm-page-heading = Web&shy;Assembly
 wasm-why-rust-predictable-alt = 齿轮
 wasm-why-rust-predictable-heading = 可预测的性能
 wasm-why-rust-predictable-description =
-        没有垃圾回收不可预测的暂停，也没有 JIT 编译器的性能峭壁，只有底层控制与上层人体工程学的完美结合。
+        没有垃圾回收导致不可预测的暂停，也没有 JIT 编译器造成性能峭壁，只有底层控制与上层人体工程学的完美结合。
 
 wasm-why-rust-small-code-alt = 显微镜
 wasm-why-rust-small-code-heading = 更少的代码
@@ -28,7 +28,7 @@ wasm-why-rust-amenities-description =
 
 wasm-get-started-wasm-alt = WebAssembly 标志
 wasm-get-started-wasm-description =
-        了解更多关于快速、安全且开放虚拟机调用的 WebAssembly，并阅读其标准。
+        了解更多关于快速、安全且开放的虚拟机WebAssembly，并阅读其标准。
 wasm-get-started-wasm-link = 了解更多
 
 wasm-get-started-book-alt = wasm ferris
@@ -43,7 +43,7 @@ wasm-get-started-mdn-link = 点击访问
 
 ## Plays well with JavaScript (templates/components/what/wasm/js.hbs)
 
-wasm-js-heading = 配合 JavaScript 使用
+wasm-js-heading = JavaScript 的最佳搭档
 
 wasm-js-augment-heading = 补充，而非取代
 wasm-js-augment-description =
@@ -53,7 +53,7 @@ wasm-js-toolchains-heading = 友好的工具链
 wasm-js-toolchains-description =
         您可以将 Rust WebAssembly 包发布到 npm 之类的包仓储中心上。使用 webpack、Parcel 或其它工具来打包并分发它们。使用 <code>npm audit</code> 之类的工具和 Greenkeeper 来维护它们。
 
-wasm-js-interop-heading = 无缝的互操作性
+wasm-js-interop-heading = 无缝互操作
 wasm-js-interop-description =
         自动生成 Rust、WebAssembly 和 JavaScript API 之间的绑定代码。充分利用 <a href="https://rustwasm.github.io/wasm-bindgen/web-sys/index.html"><code>web-sys</code></a> 之类的库为整个 Web 平台提供预打包的绑定。
 
@@ -66,7 +66,7 @@ wasm-production-cloudflare-quote =
 wasm-production-cloudflare-attribution =
         Steven Pack，<a href="{ $href }">Serverless Rust 与 Cloudflare Workers</a>
 
-wasm-production-mozilla-alt = firefox
+wasm-production-mozilla-alt = 火狐
 # If an opening square bracket is the first character on a line, it must be escaped like this: {"["}. See https://projectfluent.org/fluent/guide/special.html
 wasm-production-mozilla-quote =
         {"["}<code>source-map</code> 库的] JavaScript 实现以性能的名义积累了大量复杂的代码，
