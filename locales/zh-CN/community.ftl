@@ -27,7 +27,7 @@ community-chat =  Rust 的开发，以及日常的讨论通常是在一些聊天
 community-teams-learn = 了解关于团队的更多信息
 
 community-events-header = 活动
-community-meetup-header = 寻找线下聚会或会议
+community-meetup-header = 参与线下聚会或会议
 community-meetup = 我们有超过 90 个聚会和几个世界级的会议，遍布 35 个国家。Rust 爱好者会在 
             Rust 用户论坛定期举办聚会。它们是您进入 Rust 社区的最佳入口，也是一个和相同
             爱好者进行学习和交流的绝佳途径。聚会对每个人来说都会带来丰富和开放的信息。
