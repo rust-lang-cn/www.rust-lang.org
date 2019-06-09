@@ -22,7 +22,7 @@ community-irlo = Rust 内部论坛是开发者们用于讨论 Rust 编程语言�
 
 community-chat-header = 聊天平台
 community-chat =  Rust 的开发，以及日常的讨论通常是在一些聊天平台上面。可以浏览 
-            Rust Discord 服务器，或者浏览团队主页寻找特定的团队聚会。
+            Discord Rust 服务器的相关频道，或者浏览团队主页寻找专门的团队会议。
 
 community-teams-learn = 更多团队
 
