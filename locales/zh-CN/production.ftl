@@ -1,37 +1,37 @@
 
 ## templates/production/index.hbs
-production-page-title = Production
-production-whitepapers = Whitepapers
-production-read-whitepaper = Read the whitepaper
+production-page-title = 生产环境
+production-whitepapers = 白皮书
+production-read-whitepaper = 阅读白皮书
 
-production-npm = Read how <a href="https://www.npmjs.com/">npm</a>, who runs the JavaScript Registry of the same name, found Rust to be boring to deploy.
-production-tilde = Learn how Rust helps <a href="http://www.tilde.io/">Tilde</a>, makers of <a href="https://www.skylight.io/">Skylight</a>, use minimal resources to enable feature-rich performance monitoring of their customers’ applications.
+production-npm = 阅读 <a href="https://www.npmjs.com/">npm</a>（他们运营着同名的 JavaScript Registry）如何发现 Rust 是非常容易部署的。
+production-tilde = 了解 Rust 如何帮助 <a href="http://www.tilde.io/">Tilde</a> （<a href="https://www.skylight.io/">Skylight</a> 的制造商）使用最少的资源为客户应用程序提供功能丰富的监控。
 
+production-highlights = 亮点
+production-read-more = 阅读更多
+production-watch-video = 观看视频
+production-dropbox = Dropbox 核心文件存储系统的多个模块是用 Rust 写的，因为它作为大型项目的一部分，需要追求更高的数据中心效率。它目前应用于所有的 Dropbox 存储系统，服务超过5亿用户。
 
-production-highlights = Highlights
-production-read-more = Read More
-production-watch-video = Watch the Video
-production-dropbox = Several components of the Dropbox core file-storage system were written in Rust as one step in part of a larger project to pursue greater datacenter efficiency. It’s currently used by all Dropbox storage today, serving >500 million users.
 production-dropbox-alt = dropbox logo
-production-yelp = Yelp has developed a framework in Rust for real-time A/B testing. It’s used across all Yelp websites and apps, and experiment subjects range from UX to internal infrastructure. Rust was chosen because it’s as fast as C (cheap to run) and safer than C (cheap to maintain).
+production-yelp = Yelp 使用 Rust 开发了一个实时 A/B 测试的框架。它广泛应用于所有的 Yelp 网页和应用，选择 Rust 是因为它和 C 语言一样快（运行代价小），同时比 C 语言更安全（易于维护）。
 production-yelp-alt = yelp logo
 
-production-share = Does your company use Rust? Consider sharing your experience with us!
-production-share-button = Reach out to the production users team
-production-users = Want to learn more about who uses Rust in production?
-production-users-button = Check out the users page
+production-share = 您的公司在使用 Rust 吗？可以考虑把您的经验分享给我们！
+production-share-button = 联系生产环境用户团队
+production-users = 想了解更多在生产环境使用 Rust 的用户吗？
+production-users-button = 查看用户列表
 
 
-production-domain = See how companies are using tools in specific development domains!
+production-domain = 了解公司如何在特定开发领域中使用工具！
 
-production-support = Supporting Rust
-production-sponsor = Interested in sponsoring work on Rust? A Rust conference? We’d love to hear from you.
-production-contact-core = Message the Core Team
+production-support = 支持 Rust
+production-sponsor = 有兴趣赞助Rust的工作吗？ Rust会议？ 我们很乐意听取您的意见。
+production-contact-core = 联系核心团队
 
-production-license-header = License
-production-license = Rust is dually licensed under the Apache License Version 2.0 and the MIT license, making it suitable for all sorts of projects.
-production-license-link = Policies: License
+production-license-header = 许可证
+production-license = Rust 通过 Apache 2.0 许可证和 MIT 许可证进行双重许可，适用于各种类型的项目。
+production-license-link = 政策：许可证
 
 ## templates/production/users.hbs
 
-production-users-page-title = Production users
+production-users-page-title = 生产环境用户
