@@ -38,7 +38,7 @@ community-event-run-header = 举办您的活动
 community-event-run =
           <p>
             Rust 正在发展壮大，我们很高兴能帮助人们在当地举办活动。
-            从学习到 Hack，从聚会到会议，Rust Events 团队随时准备为您提供支持。
+            从学习到 Hack，从聚会到会议，Rust 活动团队随时准备为您提供支持。
           </p>
           <p>
             注册您的活动将会有助于我们对社区影响力进行持续跟踪，
