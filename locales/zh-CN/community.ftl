@@ -73,6 +73,6 @@ community-standards =
         <a href="mailto:rust-mods@rust-lang.org">Rust 审查团队</a> 的成员。无论您是贡献者还是新人，
         我们会关注于社区对您的安全。
 
-community-mod-button = 联系审核团队
+community-mod-button = 联系审查团队
 community-coc-button = 阅读行为守则
 community-mod-guidelines-button = 阅读审核规范 
