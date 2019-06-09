@@ -42,7 +42,7 @@ community-event-run =
           </p>
           <p>
             注册您的活动将会有助于我们对社区影响力进行持续跟踪，
-            并允许我们将您和当地的演讲者和其他成员联系起来。
+            并能让我们为您与当地的演讲者和其他成员建立联系。
           </p>
 community-events-repo = 查看活动团队 Github
 community-event-register = 注册活动
