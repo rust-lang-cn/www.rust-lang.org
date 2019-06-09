@@ -37,7 +37,7 @@ community-conference-lineup = 查看 2019 会议阵容
 community-event-run-header = 举办您的活动
 community-event-run =
           <p>
-            Rust 正在发展壮大，我们很高兴能帮助人们开始他们自己的当地活动。
+            Rust 正在发展壮大，我们很高兴能帮助人们在当地举办活动。
             从学习到 Hack，从聚会到会议，Rust Events 团队随时准备为您提供支持。
           </p>
           <p>
