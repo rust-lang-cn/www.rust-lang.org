@@ -32,7 +32,7 @@ community-meetup = 我们有超过 90 个聚会和几个世界级的会议，遍
             Rust 用户论坛定期举办聚会。它们是您进入 Rust 社区的最佳入口，也是一个和相同
             爱好者进行学习和交流的绝佳途径。聚会对每个人来说都会带来丰富和开放的信息。
 community-calendar = 查看日程
-community-conference-lineup = 查看 2019 线上会议
+community-conference-lineup = 查看 2019 会议阵容
 
 community-event-run-header = 开始您的活动
 community-event-run =
