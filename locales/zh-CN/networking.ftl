@@ -46,7 +46,7 @@ networking-production-testimonial-mozilla-attribution = Benjamin Bangert，高�
 networking-production-testimonial-buoyant =
     Rust 是 Linkerd 项目技术路线图的基础。
     它的类型系统允许我们在不牺牲运行时性能的情况下构建模块化、可测试、可组合的单元。
-    不过，最令人惊讶的是 Rust 的生命周期/借用检查系统使我们避免了大量的资源泄露。
+    不过，最令人惊讶的是 Rust 的生命周期和借用检查系统使我们避免了大量的资源泄露。
     使用 Rust 两年后，我实在无法想象用其它语言如何才能完成此项工作。
 networking-production-testimonial-buoyant-attribution = Oliver Gould, CTO, <a href="{ $href }">Buoyant</a>
 

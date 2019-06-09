@@ -65,7 +65,7 @@ embedded-get-started-discovery-book-description =
 embedded-get-started-embedded-rust-book-alt = TFQP-16 包
 embedded-get-started-embedded-rust-book-heading = 《嵌入式 Rust之书》
 embedded-get-started-embedded-rust-book-description =
-        已经对嵌入式开发很熟悉了？立刻上手 Rust 来开始获取额外优势。
+        已经对嵌入式开发很熟悉了？立刻上手 Rust 来开始获取更多优势。
 
 embedded-get-started-embedonomicon-alt = BGA 包
 embedded-get-started-embedonomicon-heading = 《嵌入式秘典》
@@ -80,7 +80,7 @@ embedded-get-started-more-documentation-link = 更多文档
 
 embedded-testimonials-sensirion-alt = Sensirion 标志
 embedded-testimonials-sensirion-quote =
-        在 Sensirion 我们最近用 Rust 来为 Sensirion 出品的 <a href="https://sensirion-automotive.com/products#PM2_5">颗粒物质传感器</a>构建了嵌入式样品机。由于交叉编译的简便和 crates.io 上的众多高品质依赖包的存在，<b>我们迅速地完成了既快速又健壮的样品机。</b>
+        在Sensirion，我们最近用 Rust 为本公司出品的 <a href="https://sensirion-automotive.com/products#PM2_5">颗粒物质传感器</a>构建了嵌入式样品机。由于交叉编译的简便和 crates.io 上的众多高品质依赖包的存在，<b>我们迅速地完成了既快速又健壮的样品机。</b>
 embedded-testimonials-sensirion-attribution =
         &ndash; Raphael Nestler, 软件工程师, Sensirion
 
@@ -100,6 +100,6 @@ embedded-testimonials-49nord-attribution =
 
 embedded-testimonials-terminal-tech-alt = Terminal Technologies 标志
 embedded-testimonials-terminal-tech-quote =
-        以往，在嵌入式领域被认为 C/C++ 是不可替代的选择。<b>但现在，我们认为在嵌入式领域能够使用一门现代化的优秀语言真的很爽</b>
+        以往，在嵌入式领域被认为 C/C++ 是不可替代的选择。<b>但现在，我们认为在嵌入式领域能够使用一门现代化的优秀语言真的很爽。</b>
 embedded-testimonials-terminal-tech-attribution =
         &ndash; Aleksei Arbuzov, 高级软件工程师, Terminal Technologies
