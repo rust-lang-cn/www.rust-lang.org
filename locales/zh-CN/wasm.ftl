@@ -72,7 +72,7 @@ wasm-production-mozilla-quote =
         {"["}<code>source-map</code> 库的] JavaScript 实现以性能的名义积累了大量复杂的代码，
         而我们将它替换为惯用的 Rust。Rust 不会强迫我们在明确地表达意图和运行时性能之间做出选择。
 wasm-production-mozilla-attribution =
-        Nick Fitzgerald，<a href="{ $href }">用 Rust 和 WebAssembly “氧化” Source Maps</a>
+        Nick Fitzgerald，<a href="{ $href }">用 Rust 和 WebAssembly 提升 Source Maps 的性能</a>
 
 wasm-production-dropbox-alt = dropbox
 # If an opening square bracket is the first character on a line, it must be escaped like this: {"["}. See https://projectfluent.org/fluent/guide/special.html
