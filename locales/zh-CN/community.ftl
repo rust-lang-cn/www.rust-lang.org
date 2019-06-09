@@ -1,7 +1,7 @@
 ## templates/community/index.hbs
 
 community-page-title = 社区
-community-blurb = Rust 具有很多优秀的品质，但是 Rust 最具竞争力的一点是自发汇聚到社区，
+community-blurb = Rust 编程语言具有很多优秀的品质，不过它最大的优势在于团结一致的社区，
           并且持续为 Rust 贡献的，精益求精的工作的开发者们。
 community-twir = 了解 Rust 社区的最新动态！
 community-twir-button = Rust 本周热点
