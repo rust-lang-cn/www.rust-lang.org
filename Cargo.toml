@@ -28,3 +28,6 @@ siphasher = "0.2.3"
 version = "*"
 default-features = false
 features = ["handlebars_templates"]
+
+[patch.crates-io]
+cc = { git = "https://github.com/crlf0710/cc-rs" }

@@ -2,7 +2,7 @@
 
 ## templates/policies/licenses.hbs
 
-licenses-page-heading = 许可证
+policies-licenses-page-title = 许可证
 
 licenses-license-heading = 许可证
 licenses-license-general-description = Rust 程序设计语言和所有其他官方项目，包括本网站，通常都采取双重许可：

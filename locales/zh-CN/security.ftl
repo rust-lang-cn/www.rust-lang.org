@@ -1,7 +1,7 @@
 ### Translation file for page: https://www.rust-lang.org/policies/security
 ### templates/policies/security.hbs
 
-security-page-heading = 安全政策
+policies-security-page-title = 安全政策
 
 security-reporting-heading = 报告漏洞
 security-reporting-link = 给 security@rust-lang.org 发邮件

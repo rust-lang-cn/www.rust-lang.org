@@ -2,7 +2,7 @@
 
 ## templates/policies/index.hbs
 
-policies-page-heading = 政策
+policies-page-title = 政策
 
 policies-page-description = 此页面链接到一组完善的 Rust 政策。
 
