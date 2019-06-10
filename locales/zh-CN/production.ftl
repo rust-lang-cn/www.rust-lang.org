@@ -4,7 +4,7 @@ production-page-title = 生产环境
 production-whitepapers = 白皮书
 production-read-whitepaper = 阅读白皮书
 
-production-npm = 阅读 <a href="https://www.npmjs.com/">npm</a>（他们运营着同名的 JavaScript Registry）如何发现 Rust 是非常容易部署的。
+production-npm = 阅读 <a href="https://www.npmjs.com/">npm</a>（他们运营着同名的 JavaScript Registry）《部署 Rust 应用是多么无聊的体验》。
 production-tilde = 了解 Rust 如何帮助 <a href="http://www.tilde.io/">Tilde</a> （<a href="https://www.skylight.io/">Skylight</a> 的制造商）使用最少的资源为客户应用程序提供功能丰富的监控。
 
 production-highlights = 亮点
@@ -22,7 +22,7 @@ production-users = 想了解更多在生产环境使用 Rust 的用户吗？
 production-users-button = 查看用户列表
 
 
-production-domain = 了解公司如何在特定开发领域中使用工具！
+production-domain = 了解公司如何在专门的开发领域中使用工具！
 
 production-support = 支持 Rust
 production-sponsor = 有兴趣赞助Rust的工作吗？ Rust会议？ 我们很乐意听取您的意见。
