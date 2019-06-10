@@ -20,7 +20,7 @@ media-guide-trademark-policy-description =
 ## The Rust trademarks
 media-guide-rust-trademarks-heading = Rust 商标
 media-guide-rust-trademarks-description =
-        <p>Rust 编程语言是一个开源的，由核心团队管理的社区项目。它也受到了 Mozilla 基金会（下称“Mozilla”）的赞助，Mozilla 拥有并保护 Rust 和 Cargo 的商标和徽标（下称“Rust 商标”）。本文档提供了关于特指编程语言时使用 Rust 商标的信息，以及人们可能希望使用这些商标的常见方式的示例，这些用途是否正确或是否需要申请授权的说明。本文档补充了 <a href="https://www.mozilla.org/foundation/trademarks/policy/">Mozilla 官方商标政策</a>，该政策管辖了所有 Mozilla 商标的使用。</p>
+        <p>Rust 编程语言是一个开源的、由核心团队管理的社区项目。它也受到了 Mozilla 基金会（下称“Mozilla”）的赞助，Mozilla 拥有并保护 Rust 和 Cargo 的商标和徽标（下称“Rust 商标”）。本文档提供了关于特指编程语言时使用 Rust 商标的信息，以及人们可能希望使用这些商标的常见方式的示例，这些用途是否正确或是否需要申请授权的说明。本文档补充了 <a href="https://www.mozilla.org/foundation/trademarks/policy/">Mozilla 官方商标政策</a>，该政策管辖了所有 Mozilla 商标的使用。</p>
         <p>Rust 商标包含两个文字标记和两个徽标：</p>
         <ul>
           <li>Rust</li>
@@ -36,12 +36,12 @@ media-guide-rust-trademarks-cargo-img-alt = cargo 徽标
 ## Using the trademarks
 media-guide-tm-use-heading = 使用商标
 
-media-guide-tm-use-appearance-heading = 官方出现，从属或认可
+media-guide-tm-use-appearance-heading = 正式出现，附属或认可
 media-guide-tm-use-appearance-description =
-        <p>最基本的原则是，除非得到了 Rust 核心团队的书面授权，否则从普通人的视角来看，Rust 商标不得以官方、附属或由 Rust 项目或 Mozilla 认可的方式使用。这是我们保护用户和开发者免于混淆的基本方式。</p>
+        <p>最基本的原则是，除非得到了 Rust 核心团队的书面授权，否则从普通人的视角来看，Rust 商标不得以正式、附属或由 Rust 项目或 Mozilla 认可的方式使用。这是我们保护用户和开发者免于混淆的基本方式。</p>
         <p>由于此规则是关于管理认知的，因此它是主观的，有些难以界定。有一些直观的方法可以避免问题，例如以非常突出的方式包括“非官方”一词。但如果您有任何疑问，我们非常乐意提供帮助，只需发送邮件至 <a href="mailto:trademark@rust-lang.org">trademark@rust-lang.org</a> 询问即可。</p>
 
-media-guide-tm-use-basics-heading = 基本用法：指代 Rust/Cargo
+media-guide-tm-use-basics-heading = 基本用法：关于 Rust/Cargo
 media-guide-tm-use-basics-description =
         <p>与其它商标一样，Rust 和 Cargo 文字标记能够以最少的限制指代 Rust 编程语言和 Cargo 包管理器及其仓储。</p>
         <p>它们不能用于：</p>

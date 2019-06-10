@@ -18,7 +18,7 @@ security-reporting-description =
         </ul>
         <p>请注意，论坛是公共区域，在这些场所交流时，请勿讨论您报告的问题。简而言之，您要尽力找到安全团队的人。</p>
 
-security-disclosure-heading = 披露政策
+security-disclosure-heading = 信息披露政策
 security-disclosure-description =
         <p>Rust 项目有 5 步披露流程：</p>
         <ol>

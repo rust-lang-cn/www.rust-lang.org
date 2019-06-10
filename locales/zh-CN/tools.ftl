@@ -3,12 +3,10 @@
 tools-page-title = 工具
 
 tools-editor-support-heading = 拥有主流编辑器支持
-tools-editor-support-description = 无论您喜欢用命令行，还是可视化编辑器，
-        您选用的编辑器都可以集成 Rust 的支持。或者您也可以使用
-        <a href="https://github.com/rust-lang/rls">Rust 语言服务
-        （Rust Language Server，RLS）</a> 来构建自己的编辑器。
+tools-editor-support-description = 无论您喜欢用命令行还是可视化编辑器，都有适合的Rust集成供您选择。
+您也可以使用 <a href="https://github.com/rust-lang/rls">Rust 语言服务（RLS）</a>来为自己的编辑器添加 Rust 支持。
 
-tools-build-heading = 良好的构建体验
+tools-build-heading = 无痛的构建体验
 tools-build-description = Cargo 是 Rust 的构建工具，将常用命令集于一身，而无需引入其他命令。
 
 tools-build-install-heading = 安装
@@ -33,7 +31,7 @@ tools-automation-rustfmt-description = Rustfmt 自动格式化 Rust 代码，使
 tools-automation-rustfmt-link = 前往项目仓库
 
 tools-automation-clippy-heading = Clippy
-tools-automation-clippy-description = <i>“似乎您在编写重复代码。”</i><br>
+tools-automation-clippy-description = <i>“似乎您在编写一个迭代器。”</i><br>
         Clippy 帮助开发者编写出惯用代码并强制执行标准，无论开发者处于何种开发水平。
 tools-automation-clippy-link = 前往项目仓库
 
@@ -50,11 +48,10 @@ tools-install-page-title = 安装 Rust
 
 install-using-rustup-heading = 使用 Rustup （推荐）
 
-install-notes-heading = Rust 安装笔记
+install-notes-heading = Rust 安装须知
 
-install-notes-getting-started-heading = 快速开始
-install-notes-getting-started-description = 如果您刚开始学习 Rust 并想了解更多细节，
-        请阅读<a href="{{baseurl}}/learn/get-started">快速开始</a>页面。
+install-notes-getting-started-description = 如果您刚开始学习 Rust 并想了解更多细节，请阅读
+<a href="{ $getting-started-href }">马上开始</a> 页面。
 
 install-notes-rustup-heading = 用 <code>Rustup</code> 管理工具链
 install-notes-rustup-description =
@@ -105,7 +102,7 @@ install-notes-path-description =
           这是最可能的原因。
         </p>
 
-install-notes-windows-heading = Windows considerations
+install-notes-windows-heading = Windows 注意事项
 install-notes-windows-description =
         <p>
           在 Windows 平台，Rust 额外需要为 Visual Studio 2013 或更新版本准备的 C++ 构建工具。
