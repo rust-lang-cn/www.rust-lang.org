@@ -72,7 +72,7 @@ governance-team-community-events-name = 活动团队
 governance-team-community-events-description = 用知识和资源支持社区活动。
 
 governance-team-wg-unsafe-code-guidelines-name = Unsafe代码指南（UCG）
-governance-team-wg-unsafe-code-guidelines-description = 编写“Unsafe代码指南”——定义了Unsafe代码中允许和禁止的行为。
+governance-team-wg-unsafe-code-guidelines-description = 编写《Unsafe代码指南》—— 定义了Unsafe代码中允许和禁止的行为。
 
 governance-team-wg-embedded-name = 嵌入式设备工作组
 governance-team-wg-embedded-description = 专注于在资源受限的环境中和非传统平台上使用 Rust 的端到端体验。
@@ -116,11 +116,11 @@ governance-team-wg-parallel-rustc-description = 让 rustc 默认支持并行编�
 governance-team-community-name = 社区团队
 governance-team-community-description = 协调并支持活动，运营 RustBridge 项目以及开展调查。
 
-governance-team-wg-pgo-name = 按配置文件引导优化
-governance-team-wg-pgo-description = 为 rustc 实现配置文件引导的优化（Profile-guided Optimization ）。
+governance-team-wg-pgo-name = 按性能剖析引导优化
+governance-team-wg-pgo-description = 为 rustc 实现性能剖析引导的优化（Profile-guided Optimization ）。
 
 governance-team-reference-name = 参考手册团队
-governance-team-reference-description = 编写 Rust 参考手册。
+governance-team-reference-description = 编写 Rust《参考手册》。
 
 governance-team-wg-traits-name = Traits
 governance-team-wg-traits-description = 改进 rustc 的 trait 实现以遵循 Chalk 的方式。

@@ -100,6 +100,6 @@ embedded-testimonials-49nord-attribution =
 
 embedded-testimonials-terminal-tech-alt = Terminal Technologies 标志
 embedded-testimonials-terminal-tech-quote =
-        以往，在嵌入式领域被认为 C/C++ 是不可替代的选择。<b>但现在，我们认为在嵌入式领域能够使用一门现代化的优秀语言真的很爽。</b>
+        以往，在嵌入式领域被认为 C/C++ 是不可替代的选择。<b>但现在，我们认为在嵌入式领域能够使用一门现代化的优秀语言真的很棒。</b>
 embedded-testimonials-terminal-tech-attribution =
         &ndash; Aleksei Arbuzov, 高级软件工程师, Terminal Technologies

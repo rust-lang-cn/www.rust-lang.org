@@ -2,10 +2,10 @@
 ## templates/production/index.hbs
 production-page-title = 生产环境
 production-whitepapers = 白皮书
-production-read-whitepaper = 阅读白皮书
+production-read-whitepaper = 阅读《白皮书》
 
 production-npm = 阅读 <a href="https://www.npmjs.com/">npm</a>（他们运营着同名的 JavaScript Registry）《部署 Rust 应用是多么无聊的体验》。
-production-tilde = 了解 Rust 如何帮助 <a href="http://www.tilde.io/">Tilde</a> （<a href="https://www.skylight.io/">Skylight</a> 的制造商）使用最少的资源为客户应用程序提供功能丰富的监控。
+production-tilde = 了解 Rust 如何帮助 <a href="http://www.tilde.io/">Tilde</a> （<a href="https://www.skylight.io/">Skylight</a> 的制造商）以最少的资源占用为客户应用程序提供功能丰富的监控。
 
 production-highlights = 亮点
 production-read-more = 阅读更多

@@ -2,7 +2,7 @@
 
 community-page-title = 社区
 community-blurb = Rust 编程语言具有很多优秀的品质，不过它最大的优势在于团结一致的社区，
-          并且持续为 Rust 贡献的，精益求精的工作的开发者们。
+          并且持续为 Rust 贡献的，精益求精的开发者们。
 community-twir = 了解 Rust 社区的最新动态！
 community-twir-button = Rust 本周热点
 community-team-contact = 我们期待听到您的意见！不知道去哪、向谁提问？想参与其中
@@ -55,7 +55,7 @@ community-rustbridge-button = 查看 Rustbridge 的 Github
 community-rustbridge-rustconf-alt = RustBridge 在 RustConf 大会
 community-rustbridge-paris-alt = RustBridge 巴黎
 community-rustbridge-berlin-alt = RustBridge 柏林
-community-rustbridge-rbr-alt = RustBridge 在 Rust Belt Rust
+community-rustbridge-rbr-alt = RustBridge 在 Rust Belt Rust 大会
 
 
 community-irr-header = 与日俱增的 Rust 影响力

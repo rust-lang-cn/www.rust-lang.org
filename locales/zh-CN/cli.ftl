@@ -7,25 +7,25 @@ what-cli-page-title = 命令行应用程序
 
 ## templates/components/what/cli/pitch.hbs
 
-cli-pitch-solid-img-alt = 带有复选标记的盾牌
-cli-pitch-solid-heading = 坚如磐石且速度惊人
+cli-pitch-solid-img-alt = 带对勾的盾牌
+cli-pitch-solid-heading = 可靠且速度惊人
 cli-pitch-solid-description = 即便只是编写简短的一次性脚本，
         您也能确信它是快速且易于测试的，并可以提供有用的输出。
 cli-pitch-solid-link = Rust 的保证
 
-cli-pitch-ship-img-alt = 带有复选标记的箱子
+cli-pitch-ship-img-alt = 带对勾的箱子
 cli-pitch-ship-heading = 易于分发
 cli-pitch-ship-description = 将所有内容编译为单个可执行文件，用户无需安装运行时和库。
 cli-pitch-ship-link = 如何发布 Rust 代码
 
-cli-pitch-config-img-alt = 笔记本和齿轮
+cli-pitch-config-img-alt = 笔记和齿轮
 cli-pitch-config-heading = 健壮的配置
 cli-pitch-config-description = 轻松处理跨平台的配置文件。Rust 将为您处理命名空间和格式。
 cli-pitch-config-link = 开始配置
 
 cli-pitch-manuals-img-alt = 帮助手册
 cli-pitch-manuals-heading = 帮助手册？轻松生成。
-cli-pitch-manuals-description = 自动为应用生成手册。只要对生成的文件打包即可轻松获得手册。
+cli-pitch-manuals-description = 为应用自动生成手册。只要对生成的文件打包即可轻松获得手册。
 cli-pitch-manuals-link = 了解如何生成手册
 
 cli-pitch-machines-img-alt = 管道
@@ -64,22 +64,22 @@ cli-maintainable-refactoring-link = 重构 Rust 代码
 cli-example-description = 编写命令行应用程序是学习 Rust 的一个好方法。
 cli-example-inputs-heading = 定义输入
 cli-example-main-heading = 编写工具
-cli-example-link = 阅读命令行指南了解更多信息
+cli-example-link = 阅读《命令行指南》了解更多信息
 
 
 ## templates/components/what/cli/production.hbs
 
-cli-production-sentry-img-alt = Sentry 的 logo
+cli-production-sentry-img-alt = Sentry 标志
 cli-production-sentry-quote =
         我们喜欢 Rust 的一个原因是 crates.io 的生态。[......]
         这有很多超棒的的基础设施来用于构建强大的命令行界面。
 cli-production-sentry-attribution = &ndash; Armin Ronacher,
-cli-production-sentry-link = Rust 在 Sentry 中的应用 &ndash; PolyConf 2017 大会
+cli-production-sentry-link = 《Rust 在 Sentry 中的应用》 &ndash; PolyConf 2017 大会
 
 cli-production-habitat-quote =
         我很庆幸选择了这些代码库。 [......]
         使用 Rust 来编写基于命令行或控制台的工具给我带来很大的好处，
         它针对不同的目标系统进行编译非常方便。
 cli-production-habitat-attribution = &ndash; Fletcher Nichol,
-cli-production-habitat-link = 把 Rust 带进生产环境 &ndash; RustFest Kyiv大会
-cli-production-habitat-img-alt = Habitat 的 logo
+cli-production-habitat-link = 《把 Rust 带进生产环境》 &ndash; RustFest Kyiv大会
+cli-production-habitat-img-alt = Habitat 标志
