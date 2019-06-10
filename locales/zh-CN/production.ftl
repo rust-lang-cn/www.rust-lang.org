@@ -25,7 +25,7 @@ production-users-button = 查看用户列表
 production-domain = 了解公司如何在专门的开发领域中使用工具！
 
 production-support = 支持 Rust
-production-sponsor = 有兴趣赞助Rust的工作吗？ Rust会议？ 我们很乐意听取您的意见。
+production-sponsor = 有兴趣赞助 Rust 的工作吗？ Rust 会议？我们很乐意听取您的意见。
 production-contact-core = 联系核心团队
 
 production-license-header = 许可证
