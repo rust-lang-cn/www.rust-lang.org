@@ -46,7 +46,7 @@ tools-automation-cargo-doc-link = 前往 docs.rs
 
 
 ## tools/install.hbs
-install-page-heading = 安装 Rust
+tools-install-page-title = 安装 Rust
 
 install-using-rustup-heading = 使用 Rustup （推荐）
 
