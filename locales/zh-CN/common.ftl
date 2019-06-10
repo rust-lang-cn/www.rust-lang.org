@@ -3,8 +3,8 @@
 rust = Rust
 
 
-get-started-exclamation = 开始！
-getting-started = 快速开始
+get-started-exclamation = 马上开始！
+getting-started = 入门
 why-rust = 为什么选择 Rust?
 production-use = 产品应用
 learn-more = 了解更多
@@ -27,7 +27,7 @@ nav-blog = 博客
 
 choose-language = 语言
 
-nav-logo-alt = Rust Logo
+nav-logo-alt = Rust 标志
 
 ## components/footer.hbs
 
@@ -37,21 +37,21 @@ footer-status = 检查网站状态
 footer-policies = 条款与政策
 footer-coc = 行为准则
 footer-licenses = 许可证
-footer-media = 商标政策与使用指南
+footer-media = 标志政策与使用指南
 footer-security = 安全问题公示
 footer-policies-all = 政策总览
-footer-social = 社交账号
-footer-get-help = 获取帮助
+footer-social = 社交
+footer-get-help = 获得帮助！
 
 footer-alt-twitter = Twitter
-footer-alt-youtube = youtube logo
+footer-alt-youtube = youtube 标志
 footer-alt-discord = { discord }
 footer-alt-github = GitHub
 
-footer-attribution = 由 Rust 团队维护。发现错误？
-        <a href="https://github.com/rust-lang/www.rust-lang.org">帮助我们修复</a>！
+footer-attribution = 由 Rust 团队维护。发现错别字？
+        <a href="https://github.com/rust-lang/www.rust-lang.org">在这里提交修复</a>！
 
-footer-old-site = 寻找<a href="https://prev.rust-lang.org">旧版网站</a>？
+footer-old-site = 想要查看<a href="https://prev.rust-lang.org">旧版网站</a>？
 
 ## what/index.hbs
-what-header = 什么
+what-header = 使用场景
