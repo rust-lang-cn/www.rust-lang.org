@@ -89,12 +89,12 @@ learn-install-cargo = <p>您在安装 Rustup 时，也会安装 Rust 构建工�
                           <li><code>cargo build</code> 可以构建项目</li>
                           <li><code>cargo run</code> 可以运行项目</li>
                           <li><code>cargo test</code> 可以测试项目</li>
-                          <li><code>cargo doc</code> 可以为项目构建稳定</li>
+                          <li><code>cargo doc</code> 可以为项目构建文档</li>
                           <li><code>cargo publish</code> 可以将库发布到 <a href="https://crates.io">crates.io</a>。</li>
                         </ul>
                         <p>要检查您是否安装了 Rust 和 Cargo，可以在终端中运行：</p>
                         <p><code>cargo --version</code></p>
-learn-install-cargo-button = 阅读 cargo 文档
+learn-install-cargo-button = 阅读 《Cargo 之书》
 
 learn-install-other = 其它工具
 learn-install-editors = Rust 支持多种编辑器：
