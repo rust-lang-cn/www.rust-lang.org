@@ -3,8 +3,7 @@
 tools-page-title = 工具
 
 tools-editor-support-heading = 拥有主流编辑器支持
-tools-editor-support-description = 无论您喜欢用命令行还是可视化编辑器，都有适合的Rust集成供您选择。
-您也可以使用 <a href="https://github.com/rust-lang/rls">Rust 语言服务（RLS）</a>来为自己的编辑器添加 Rust 支持。
+tools-editor-support-description = 无论您喜欢用命令行还是可视化编辑器，都有适合的Rust集成供您选择。您也可以使用 <a href="https://github.com/rust-lang/rls">Rust 语言服务（RLS）</a>来为自己的编辑器添加 Rust 支持。
 
 tools-build-heading = 无痛的构建体验
 tools-build-description = Cargo 是 Rust 的构建工具，将常用命令集于一身，而无需引入其他命令。
@@ -50,8 +49,7 @@ install-using-rustup-heading = 使用 Rustup （推荐）
 
 install-notes-heading = Rust 安装须知
 
-install-notes-getting-started-description = 如果您刚开始学习 Rust 并想了解更多细节，请阅读
-<a href="{ $getting-started-href }">马上开始</a> 页面。
+install-notes-getting-started-description = 如果您刚开始学习 Rust 并想了解更多细节，请阅读<a href="{ $getting-started-href }">马上开始</a> 页面。
 
 install-notes-rustup-heading = 用 <code>Rustup</code> 管理工具链
 install-notes-rustup-description =
