@@ -25,7 +25,7 @@ production-testimonial-yelp-alt = Yelp Logo
 # components/panels/language-values.hbs
 language-values-why-rust = 为什么使用 Rust？
 
-language-values-performance = 性能
+language-values-performance = 高性能
 language-values-performance-blurb = Rust 速度极快，内存利用率极高。Rust 没有运行时和垃圾回收器，能胜任性能要求特别高的服务，可运行于嵌入式设备之上，并且能轻松和其他语言集成。
 
 language-values-reliability = 可靠性
