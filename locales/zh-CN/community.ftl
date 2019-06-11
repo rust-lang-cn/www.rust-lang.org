@@ -59,8 +59,7 @@ community-rustbridge-rbr-alt = RustBridge 在 Rust Belt Rust 大会
 
 
 community-irr-header = 与日俱增的 Rust 影响力
-community-irr = 与日俱增的 Rust 影响力是一个计划，它将来自项目各个部分的 Rust 团队成员与 Rust 社区和科技行业中未被充分代表的个人相匹配，
-                从 3 月中旬到 8 月中旬进行为期三个月的合作。每组合作伙伴承诺每周用 3-5 小时工作于一个 Rust 项目。
+community-irr = 「与日俱增的 Rust 影响力」是一项合作计划。在该计划中，自 5 月中旬到 8 月中旬，来自项目各个部分的 Rust 团队成员，将与 Rust 社区和科技行业中少有发言权的个人，进行为期三个月的合作。每组合作伙伴承诺，他们会在一个 Rust 项目上每周投入 3-5 小时。
 community-irr-button = 访问网站
 
 community-standards-header = 社区准则

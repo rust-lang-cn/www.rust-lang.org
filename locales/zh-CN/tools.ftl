@@ -76,27 +76,27 @@ install-notes-rustup-description =
 install-notes-path-heading = 配置 <code>PATH</code> 环境变量
 install-notes-path-description =
         <p>
-          在 Rust 开发环境中，所有工具都安装在
-          <span class="platform-specific not-win di">
-            <code>~/.cargo/bin</code>
-          </span>
-          <span class="platform-specific win dn">
-            <code>%USERPROFILE%\.cargo\bin</code>
-          </span> 目录中，您可以在这里找到包括
-          <code>rustc</code>、<code>cargo</code> 和 <code>rustup</code>
-          在内的 Rust 工具链。
-        </p>
-        <p>
-          Rust 开发者通常会将该目录加入
-          <a href="https://zh.wikipedia.org/wiki/PATH_(%E5%8F%98%E9%87%8F)">
-          <code>PATH</code>环境变量</a>中。在安装过程中，<code>rustup</code> 会尝试配置 <code>PATH</code>。
-          由于不同平台、命令行 Shell 之间存在差异，<code>rustup</code> 中也可能存在
-          Bug，因此在终端重启或用户重新登录之前，<code>rustup</code> 对
-          <code>PATH</code> 的修改可能不会生效，甚至完全无效。
-        </p>
-        <p>
-          如果安装后在终端尝试执行 <code>rustc --version</code> 失败，那么这就是最可能的原因。
-        </p>
+        在 Rust 开发环境中，所有工具都安装在
+        <span class="platform-specific not-win di">
+          <code>~/.cargo/bin</code>
+        </span>
+        <span class="platform-specific win dn">
+          <code>%USERPROFILE%\.cargo\bin</code>
+        </span> 目录中，您可以在这里找到包括
+        <code>rustc</code>、<code>cargo</code> 和 <code>rustup</code>
+        在内的 Rust 工具链。
+      </p>
+      <p>
+        Rust 开发者通常会将该目录加入
+        <a href="https://zh.wikipedia.org/wiki/PATH_(%E5%8F%98%E9%87%8F)">
+        <code>PATH</code>环境变量</a>中。在安装过程中，<code>rustup</code> 会尝试配置 <code>PATH</code>。
+        由于不同平台、命令行 Shell 之间存在差异，<code>rustup</code> 中也可能存在
+        Bug，因此在终端重启或用户重新登录之前，<code>rustup</code> 对
+        <code>PATH</code> 的修改可能不会生效，甚至完全无效。
+      </p>
+      <p>
+        如果安装后在终端尝试执行 <code>rustc --version</code> 失败，那么，以上内容就是最可能的原因。
+      </p>
 
 install-notes-windows-heading = Windows 注意事项
 install-notes-windows-description =
