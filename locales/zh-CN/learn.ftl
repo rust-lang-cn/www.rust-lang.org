@@ -14,16 +14,15 @@ learn-rbe = 如果您不喜欢阅读大量的文档来学习语言，那么《�
         它还包括很多练习！
 learn-rbe-button = 阅读《通过例子学 Rust》！
 
-learn-use = 跟随 Rust 一起成长
+learn-use = 与 Rust 共同成长
 
 learn-doc-heading = 阅读核心文档
-learn-doc = 以下所有文档都可以用 <code>rustup doc</code>
-        命令在本地阅读，它可以在您的浏览器中离线打开这些资源！
+learn-doc = 以下所有文档都可以用 <code>rustup doc</code> 命令在本地阅读，它会在您的浏览器中离线打开这些资源！
 
 learn-doc-std = 详尽的 Rust 标准库 API 手册。
 learn-doc-std-button = 标准库
 
-learn-doc-edition = Rust 版本指南
+learn-doc-edition = Rust 版本指南。
 learn-doc-edition-button = 版本指南
 
 learn-doc-cargo = Rust 的包管理器和构建系统。
@@ -60,12 +59,12 @@ learn-reference = 《参考手册》并非正式的语言规范，但它比“�
 learn-reference-button = 阅读参考手册
 
 learn-nomicon-alt = 双手捧火
-learn-nomicon = 《Rust 秘典》是Unsafe Rust 的黑魔法指南。它有时被称作“死灵书”。
+learn-nomicon = 《Rust 秘典》是 Unsafe Rust 的黑魔法指南。它有时被称作“死灵书”。
 learn-nomicon-button = 阅读《Rust 秘典》
 ### 参考 https://www.quora.com/What-does-the-word-suffix-onomicon-mean
 
 learn-unstable-alt = 手洒星光
-learn-unstable = 《未稳定特性手册》中包含了您只能在 Nightly 版 Rust 中使用的不稳定特性的文档。
+learn-unstable = 《未稳定特性手册》覆盖了当前只能在 nightly Rust 中使用的还未稳定的特性。
 learn-unstable-button = 阅读《未稳定特性手册》
 
 ## learn/get-started.hbs
@@ -82,7 +81,7 @@ learn-install-rustup = 安装 Rust 的主要方式是通过 Rustup 这一工具�
 learn-install-rustup-button = 了解更多关于安装的细节
 
 
-learn-install-cargo-header = Cargo: Rust 的构建工具和包管理器
+learn-install-cargo-header = Cargo：Rust 的构建工具和包管理器
 learn-install-cargo = <p>您在安装 Rustup 时，也会安装 Rust 构建工具和包管理器的最新稳定版，即
                         Cargo。Cargo 可以做很多事情：</p>
                         <ul>
