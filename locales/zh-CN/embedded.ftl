@@ -21,12 +21,12 @@ embedded-pitch-memory-description =
 embedded-pitch-concurrency-alt = 齿轮
 embedded-pitch-concurrency-heading = 无畏并发
 embedded-pitch-concurrency-description =
-        Rust 使得线程之间不可能意外地共享状态。您既能使用喜欢的任意并发方式，同时又能获得 Rust 提供的强力保障。
+        Rust 使得线程之间不可能意外地共享状态。无论使用哪种喜欢的方式实现并发，都能获得 Rust 提供的强力保障。
 
 embedded-pitch-interop-alt = 握手
 embedded-pitch-interop-heading = 互操作性
 embedded-pitch-interop-description =
-        将Rust集成到现有的 C 代码库中，或者利用现有的 SDK 编写 Rust 应用程序。
+        可将 Rust 集成到现有的 C 代码库中，也可利用现有的 SDK 编写 Rust 应用程序。
 
 embedded-pitch-portability-alt = 行李推车
 embedded-pitch-portability-heading = 可移植性
@@ -57,20 +57,20 @@ embedded-showcase-video-description =
 
 ## Get started! (templates/components/what/embedded/get-started.hbs)
 
-embedded-get-started-discovery-book-alt = DIP-6 包
+embedded-get-started-discovery-book-alt = DIP-6 封装
 embedded-get-started-discovery-book-heading = 《探索之书》
 embedded-get-started-discovery-book-description =
         从零开始学习嵌入式开发 &mdash; 使用 Rust 语言！
 
-embedded-get-started-embedded-rust-book-alt = TFQP-16 包
+embedded-get-started-embedded-rust-book-alt = QFP-20 封装
 embedded-get-started-embedded-rust-book-heading = 《嵌入式 Rust之书》
 embedded-get-started-embedded-rust-book-description =
         已经对嵌入式开发很熟悉了？立刻上手 Rust 来开始获取更多优势。
 
-embedded-get-started-embedonomicon-alt = BGA 包
+embedded-get-started-embedonomicon-alt = BGA 封装
 embedded-get-started-embedonomicon-heading = 《嵌入式秘典》
 embedded-get-started-embedonomicon-description =
-        探究基础性嵌入式开发库的工作原理。
+        探究基础性嵌入式开发库的底层原理。
 
 embedded-get-started-read-link = 阅读
 embedded-get-started-more-documentation-link = 更多文档
@@ -86,7 +86,7 @@ embedded-testimonials-sensirion-attribution =
 
 embedded-testimonials-airborne-alt = Airborne Engineering Ltd 标志
 embedded-testimonials-airborne-quote =
-        在 Airborne Engineering Ltd，我们最近用 Rust 语言写了以太网启动加载器，<a href="https://github.com/airborneengineering/blethrs">blethrs</a>，用于内部数据采集系统。<b>Rust 是一门有前途的语言，我们对于将它用于未来无论是嵌入式还是其他类的项目，都感到兴奋。</b>
+        在 Airborne Engineering Ltd，我们最近用 Rust 语言写了以太网 bootloader 项目<a href="https://github.com/airborneengineering/blethrs">blethrs</a>，用于内部数据采集系统。<b>Rust 是一门有前途的语言，我们对于将它用于未来无论是嵌入式还是其他类的项目，都感到兴奋。</b>
 embedded-testimonials-airborne-attribution =
         &ndash; Dr. Adam Greig, 仪器工程师, Airborne Engineering Ltd.
 
@@ -94,7 +94,7 @@ embedded-testimonials-49nord-alt = 49nord 标志
 
 # "Fluent" requires a square bracket which is the first character of a line to be escaped like this: {"["} See https://projectfluent.org/fluent/guide/special.html
 embedded-testimonials-49nord-quote =
-        { "[" }Rust] 使得我们可以比想象中更快、更健壮的软件推向市场。感谢 Rust，让我们将内存安全看得理所当然，同时带有复杂类型系统的零开销语言所带来的其他好处，帮助我们开发出了可维护的软件。<b>Rust 既让我们的客户变得快乐，也让我们的工程师变得快乐。</b>
+         Rust 使得我们可以比想象中更快、更健壮的软件推向市场。感谢 Rust，让我们将内存安全看得理所当然，同时带有复杂类型系统的零开销语言所带来的其他好处，帮助我们开发出了可维护的软件。<b>Rust 既让我们的客户变得快乐，也让我们的工程师变得快乐。</b>
 embedded-testimonials-49nord-attribution =
         &ndash; Marc Brinkmann, CEO, 49nord
 
