@@ -5,7 +5,7 @@
 policies-licenses-page-title = 许可证
 
 licenses-license-heading = 许可证
-licenses-license-general-description = Rust 程序设计语言和所有其他官方项目，包括本网站，通常都采取双重许可：
+licenses-license-general-description = Rust 程序设计语言和所有其他官方项目（包括本网站）通常都采取双重许可：
 licenses-apache-v-2-0-link = Apache 2.0 许可证
 licenses-mit-link = MIT 许可证
 licenses-license-specific-description =
@@ -16,4 +16,4 @@ licenses-license-email-link = 给核心团队发邮件
 
 licenses-attribution-heading = 属性
 licenses-attribution-description =
-        图标由来自 <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> 的 <a href="http://www.freepik.com" title="Freepik">Freepik</a> 制作，遵循 <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC-3.0-BY</a> 许可协议。
+        图标由来自 <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> 的 <a href="http://www.freepik.com" title="Freepik">Freepik</a> 制作，遵循 <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC-3.0-BY</a> 许可证。
